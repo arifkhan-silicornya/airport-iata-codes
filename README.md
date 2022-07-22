@@ -4,6 +4,9 @@ Search airport related data by name,iata code and city
 
 ![npm](https://img.shields.io/npm/dw/airport-iata-codes)
 ![npm](https://img.shields.io/npm/dm/airport-iata-codes)
+![npm](https://img.shields.io/npm/l/airport-iata-codes?color=002350)
+
+
 
 #### Install it via npm:
 
