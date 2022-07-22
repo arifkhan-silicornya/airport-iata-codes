@@ -11,5 +11,5 @@ function airport(params) {
     })
     return arr
 }
-
+console.log(airport('DHAKA'));
 module.exports = airport
