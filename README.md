@@ -2,9 +2,11 @@
 
 Search airport related data by name,iata code and city 
 
-![npm](https://img.shields.io/npm/dw/airport-iata-codes)
-![npm](https://img.shields.io/npm/dm/airport-iata-codes)
+
+![npm](https://img.shields.io/npm/v/airport-iata-codes)
 ![npm](https://img.shields.io/npm/l/airport-iata-codes?color=002350)
+![npm](https://img.shields.io/bundlephobia/minzip/airport-iata-codes/1.0.1)
+
 
 
 
@@ -16,14 +18,16 @@ npm i airport-iata-codes
 
 #### Require the Module:
 ```shell
-const airport-data = require('airport-iata-codes')
+const allData = require('airport-iata-codes')
 ```
 
 ##### To use
 ```shell
-data('Dhaka'); // City Name
-data('Hazrat Shahjalal International Airpor'); // Airport Name
-data('DAC'); // iata code
+const data = allData('Dhaka'); // City Name
+const data = allData('Hazrat Shahjalal International Airpor'); // Airport Name
+const data = allData('DAC'); // iata code
+
+console.log(data);
 
 ```
 
