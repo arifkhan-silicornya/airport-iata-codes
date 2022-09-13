@@ -4,7 +4,7 @@ const data = require('./airport_iata_min.json');
 
 function airport(params) {
     let arr = [];
-    if (params === "undefined") {
+    if (params === "undefined" || params === undefined || params === "") {
         data.map((dat) => {
             arr.push(dat);
         })
