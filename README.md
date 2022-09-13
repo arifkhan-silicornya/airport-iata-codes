@@ -10,18 +10,20 @@ Search airport related data by name,iata code and city
 
 
 
-## Install it via npm:
+## Install it via npm
 
 ```shell
 npm i airport-iata-codes
 ```
 
-#### Require the Module:
+## Require the Module
+
 ```shell
 const allData = require('airport-iata-codes')
 ```
 
-##### To use
+## To use
+
 ```shell
 const data = allData(); // All Data
 const data = allData('Dhaka'); // Filter by City Name
@@ -32,10 +34,7 @@ console.log(data);
 
 ```
 
-
-##### Output
-
-
+## Output
 
 ```shell
 [
