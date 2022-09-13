@@ -10,7 +10,7 @@ Search airport related data by name,iata code and city
 
 
 
-#### Install it via npm:
+## Install it via npm:
 
 ```shell
 npm i airport-iata-codes
