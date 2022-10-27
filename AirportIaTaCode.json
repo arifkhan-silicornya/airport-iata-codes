@@ -1,0 +1,9932 @@
+[
+ {
+   "name": "Aarhus",
+   "country": "Denmark",
+   "iata_code": "AAR"
+ },
+ {
+   "name": "Abadan",
+   "country": "Iran",
+   "iata_code": "ABD"
+ },
+ {
+   "name": "Abeche",
+   "country": "Chad",
+   "iata_code": "AEH"
+ },
+ {
+   "name": "Aberdeen",
+   "country": "United Kingdom",
+   "iata_code": "ABZ"
+ },
+ {
+   "name": "Aberdeen (SD)",
+   "country": "USA",
+   "iata_code": "ABR"
+ },
+ {
+   "name": "Abidjan",
+   "country": "Cote d'Ivoire",
+   "iata_code": "ABJ"
+ },
+ {
+   "name": "Abilene (TX)",
+   "country": "USA",
+   "iata_code": "ABI"
+ },
+ {
+   "name": "Abu Dhabi - Abu Dhabi International",
+   "country": "United Arab Emirates",
+   "iata_code": "AUH"
+ },
+ {
+   "name": "Abuja - Nnamdi Azikiwe International Airport",
+   "country": "Nigeria",
+   "iata_code": "ABV"
+ },
+ {
+   "name": "Abu Rudeis",
+   "country": "Egypt",
+   "iata_code": "AUE"
+ },
+ {
+   "name": "Abu Simbel",
+   "country": "Egypt",
+   "iata_code": "ABS"
+ },
+ {
+   "name": "Acapulco",
+   "country": "Mexico",
+   "iata_code": "ACA"
+ },
+ {
+   "name": "Accra - Kotoka International Airport",
+   "country": "Ghana",
+   "iata_code": "ACC"
+ },
+ {
+   "name": "Adana",
+   "country": "Turkey",
+   "iata_code": "ADA"
+ },
+ {
+   "name": "Addis Ababa - Bole International Airport",
+   "country": "Ethiopia",
+   "iata_code": "ADD"
+ },
+ {
+   "name": "Adelaide",
+   "country": "Australia",
+   "iata_code": "ADL"
+ },
+ {
+   "name": "Aden - Aden International Airport",
+   "country": "Yemen",
+   "iata_code": "ADE"
+ },
+ {
+   "name": "Adiyaman",
+   "country": "Turkey",
+   "iata_code": "ADF"
+ },
+ {
+   "name": "Adler/Sochi",
+   "country": "Russia",
+   "iata_code": "AER"
+ },
+ {
+   "name": "Agades",
+   "country": "Niger",
+   "iata_code": "AJY"
+ },
+ {
+   "name": "Agadir",
+   "country": "Morocco",
+   "iata_code": "AGA"
+ },
+ {
+   "name": "Agana (Hagåtña)",
+   "country": "Guam",
+   "iata_code": "SUM"
+ },
+ {
+   "name": "Aggeneys",
+   "country": "South Africa",
+   "iata_code": "AGZ"
+ },
+ {
+   "name": "Aguadilla",
+   "country": "Puerto Rico",
+   "iata_code": "BQN"
+ },
+ {
+   "name": "Aguascaliente",
+   "country": "Mexico",
+   "iata_code": "AGU"
+ },
+ {
+   "name": "Ahmedabad",
+   "country": "India",
+   "iata_code": "AMD"
+ },
+ {
+   "name": "Aiyura",
+   "country": "Papua New Guinea",
+   "iata_code": "AYU"
+ },
+ {
+   "name": "Ajaccio",
+   "country": "France",
+   "iata_code": "AJA"
+ },
+ {
+   "name": "Akita",
+   "country": "Japan",
+   "iata_code": "AXT"
+ },
+ {
+   "name": "Akron (OH)",
+   "country": "USA",
+   "iata_code": "CAK"
+ },
+ {
+   "name": "Akrotiri - RAF",
+   "country": "Cyprus",
+   "iata_code": "AKT"
+ },
+ {
+   "name": "Al Ain",
+   "country": "United Arab Emirates",
+   "iata_code": "AAN"
+ },
+ {
+   "name": "Al Arish",
+   "country": "Egypt",
+   "iata_code": "AAC"
+ },
+ {
+   "name": "Albany",
+   "country": "Australia",
+   "iata_code": "ALH"
+ },
+ {
+   "name": "Albany (GA)",
+   "country": "USA",
+   "iata_code": "ABY"
+ },
+ {
+   "name": "Albany (NY) - Albany International Airport",
+   "country": "USA",
+   "iata_code": "ALB"
+ },
+ {
+   "name": "Albi",
+   "country": "France",
+   "iata_code": "LBI"
+ },
+ {
+   "name": "Alborg",
+   "country": "Denmark",
+   "iata_code": "AAL"
+ },
+ {
+   "name": "Albuquerque (NM)",
+   "country": "USA",
+   "iata_code": "ABQ"
+ },
+ {
+   "name": "Albury",
+   "country": "Australia",
+   "iata_code": "ABX"
+ },
+ {
+   "name": "Alderney",
+   "country": "Channel Islands",
+   "iata_code": "ACI"
+ },
+ {
+   "name": "Aleppo",
+   "country": "Syria",
+   "iata_code": "ALP"
+ },
+ {
+   "name": "Alesund",
+   "country": "Norway",
+   "iata_code": "AES"
+ },
+ {
+   "name": "Alexander Bay - Kortdoorn",
+   "country": "South Africa",
+   "iata_code": "ALJ"
+ },
+ {
+   "name": "Alexandria - Borg el Arab Airport",
+   "country": "Egypt",
+   "iata_code": "HBH"
+ },
+ {
+   "name": "Alexandria - El Nhouza Airport",
+   "country": "Egypt",
+   "iata_code": "ALY"
+ },
+ {
+   "name": "Alexandria - Esler Field",
+   "country": "USA (LA)",
+   "iata_code": "ESF"
+ },
+ {
+   "name": "Alfujairah (Fujairah)",
+   "country": "United Arab Emirates",
+   "iata_code": "FJR"
+ },
+ {
+   "name": "Alghero Sassari",
+   "country": "Italy",
+   "iata_code": "AHO"
+ },
+ {
+   "name": "Algiers, Houari Boumediene Airport",
+   "country": "Algeria",
+   "iata_code": "ALG"
+ },
+ {
+   "name": "Al Hoceima",
+   "country": "Morocco",
+   "iata_code": "AHU"
+ },
+ {
+   "name": "Alicante",
+   "country": "Spain",
+   "iata_code": "ALC"
+ },
+ {
+   "name": "Alice Springs",
+   "country": "Australia",
+   "iata_code": "ASP"
+ },
+ {
+   "name": "Alldays",
+   "country": "South Africa",
+   "iata_code": "ADY"
+ },
+ {
+   "name": "Allentown (PA)",
+   "country": "USA",
+   "iata_code": "ABE"
+ },
+ {
+   "name": "Almaty (Alma Ata) - Almaty International Airport",
+   "country": "Kazakhstan",
+   "iata_code": "ALA"
+ },
+ {
+   "name": "Almeria",
+   "country": "Spain",
+   "iata_code": "LEI"
+ },
+ {
+   "name": "Alta",
+   "country": "Norway",
+   "iata_code": "ALF"
+ },
+ {
+   "name": "Altay",
+   "country": "PR China",
+   "iata_code": "AAT"
+ },
+ {
+   "name": "Altenrhein",
+   "country": "Switzerland",
+   "iata_code": "ACH"
+ },
+ {
+   "name": "Altoona (PA)",
+   "country": "USA",
+   "iata_code": "AOO"
+ },
+ {
+   "name": "Altus",
+   "country": "USA",
+   "iata_code": "AXS"
+ },
+ {
+   "name": "Amami",
+   "country": "Japan",
+   "iata_code": "ASJ"
+ },
+ {
+   "name": "Amarillo (TX)",
+   "country": "USA",
+   "iata_code": "AMA"
+ },
+ {
+   "name": "Amazon Bay",
+   "country": "Papua New Guinea",
+   "iata_code": "AZB"
+ },
+ {
+   "name": "Amman - Queen Alia International Airport",
+   "country": "Jordan",
+   "iata_code": "AMM"
+ },
+ {
+   "name": "Amman - Amman-Marka International Airport",
+   "country": "Jordan",
+   "iata_code": "ADJ"
+ },
+ {
+   "name": "Amritsar",
+   "country": "India",
+   "iata_code": "ATQ"
+ },
+ {
+   "name": "Amsterdam - Amsterdam Airport Schiphol",
+   "country": "Netherlands",
+   "iata_code": "AMS"
+ },
+ {
+   "name": "Anand",
+   "country": "India",
+   "iata_code": "QNB"
+ },
+ {
+   "name": "Anchorage (AK) - Ted Stevens Anchorage International",
+   "country": "USA",
+   "iata_code": "ANC"
+ },
+ {
+   "name": "Ancona - Ancona Falconara Airport",
+   "country": "Italy",
+   "iata_code": "AOI"
+ },
+ {
+   "name": "Andorra La Vella - Heliport",
+   "country": "Andorra",
+   "iata_code": "ALV"
+ },
+ {
+   "name": "Anguilla",
+   "country": "Anguilla",
+   "iata_code": "AXA"
+ },
+ {
+   "name": "Anjouan - Anjouan Airport",
+   "country": "Comoros (Comores)",
+   "iata_code": "AJN"
+ },
+ {
+   "name": "Ankara",
+   "country": "Turkey",
+   "iata_code": "ANK"
+ },
+ {
+   "name": "Ankara - Esenboğa International Airport",
+   "country": "Turkey",
+   "iata_code": "ESB"
+ },
+ {
+   "name": "Annaba",
+   "country": "Algeria",
+   "iata_code": "AAE"
+ },
+ {
+   "name": "Ann Arbor (MI)",
+   "country": "USA",
+   "iata_code": "ARB"
+ },
+ {
+   "name": "Annecy",
+   "country": "France",
+   "iata_code": "NCY"
+ },
+ {
+   "name": "Anniston (AL)",
+   "country": "USA",
+   "iata_code": "ANB"
+ },
+ {
+   "name": "Antalya",
+   "country": "Turkey",
+   "iata_code": "AYT"
+ },
+ {
+   "name": "Antananarivo (Tanannarive) - Ivato International Airport",
+   "country": "Madagascar",
+   "iata_code": "TNR"
+ },
+ {
+   "name": "Antigua, V.C. Bird International",
+   "country": "Antigua and Barbuda",
+   "iata_code": "ANU"
+ },
+ {
+   "name": "Antwerp",
+   "country": "Belgium",
+   "iata_code": "ANR"
+ },
+ {
+   "name": "Aomori",
+   "country": "Japan",
+   "iata_code": "AOJ"
+ },
+ {
+   "name": "Apia - Faleolo International Airport",
+   "country": "Samoa",
+   "iata_code": "APW"
+ },
+ {
+   "name": "Appelton/Neenah/Menasha (WI)",
+   "country": "USA",
+   "iata_code": "ATW"
+ },
+ {
+   "name": "Aqaba",
+   "country": "Jordan",
+   "iata_code": "AQJ"
+ },
+ {
+   "name": "Aracaju",
+   "country": "Brazil",
+   "iata_code": "AJU"
+ },
+ {
+   "name": "Arkhangelsk",
+   "country": "Russia",
+   "iata_code": "ARH"
+ },
+ {
+   "name": "Arusha",
+   "country": "Tanzania",
+   "iata_code": "ARK"
+ },
+ {
+   "name": "Araxos",
+   "country": "Greece",
+   "iata_code": "GPA"
+ },
+ {
+   "name": "Arlit",
+   "country": "Niger",
+   "iata_code": "RLT"
+ },
+ {
+   "name": "Arrecife/Lanzarote",
+   "country": "Spain",
+   "iata_code": "ACE"
+ },
+ {
+   "name": "Aruba - Reina Beatrix International, Oranjestad",
+   "country": "Aruba",
+   "iata_code": "AUA"
+ },
+ {
+   "name": "Asheville (NC)",
+   "country": "USA",
+   "iata_code": "AVL"
+ },
+ {
+   "name": "Ashgabat - Saparmurat Turkmenbashy Int. Airport",
+   "country": "Turkmenistan",
+   "iata_code": "ASB"
+ },
+ {
+   "name": "Asmara - Asmara International",
+   "country": "Eritrea",
+   "iata_code": "ASM"
+ },
+ {
+   "name": "Aspen, (CO) - Aspen-Pitkin County Airport",
+   "country": "USA",
+   "iata_code": "ASE"
+ },
+ {
+   "name": "Assiut",
+   "country": "Egypt",
+   "iata_code": "ATZ"
+ },
+ {
+   "name": "Astana - Astana International Airport",
+   "country": "Kazakhstan",
+   "iata_code": "TSE"
+ },
+ {
+   "name": "Asuncion - Asunción International Airport",
+   "country": "Paraguay",
+   "iata_code": "ASU"
+ },
+ {
+   "name": "Aswan - Daraw Airport",
+   "country": "Egypt",
+   "iata_code": "ASW"
+ },
+ {
+   "name": "Athens - Elefthérios Venizélos International Airport",
+   "country": "Greece",
+   "iata_code": "ATH"
+ },
+ {
+   "name": "Athens, Hellinikon Airport",
+   "country": "Greece",
+   "iata_code": "HEW"
+ },
+ {
+   "name": "Athens (GA)",
+   "country": "USA",
+   "iata_code": "AHN"
+ },
+ {
+   "name": "Athens (OH)",
+   "country": "USA",
+   "iata_code": "ATO"
+ },
+ {
+   "name": "Atlanta (GA) - Hartsfield Atlanta International Airport",
+   "country": "USA",
+   "iata_code": "ATL"
+ },
+ {
+   "name": "Atlantic City (NJ) - Atlantic City International",
+   "country": "USA",
+   "iata_code": "ACY"
+ },
+ {
+   "name": "Attawapiskat, NT",
+   "country": "Canada",
+   "iata_code": "YAT"
+ },
+ {
+   "name": "Auckland - Auckland International Airport",
+   "country": "New Zealand",
+   "iata_code": "AKL"
+ },
+ {
+   "name": "Augsburg - Augsbur gAirport",
+   "country": "Germany",
+   "iata_code": "AGB"
+ },
+ {
+   "name": "Augusta (GA)",
+   "country": "USA",
+   "iata_code": "AGS"
+ },
+ {
+   "name": "Augusta (ME) - Augusta State Airport",
+   "country": "USA",
+   "iata_code": "AUG"
+ },
+ {
+   "name": "Aurillac",
+   "country": "France",
+   "iata_code": "AUR"
+ },
+ {
+   "name": "Austin (TX) - Austin-Bergstrom Airport",
+   "country": "USA",
+   "iata_code": "AUS"
+ },
+ {
+   "name": "Ayawasi",
+   "country": "Indonesia",
+   "iata_code": "AYW"
+ },
+ {
+   "name": "Ayers Rock - Connellan",
+   "country": "Australia",
+   "iata_code": "AYQ"
+ },
+ {
+   "name": "Ayr",
+   "country": "Australia",
+   "iata_code": "AYR"
+ },
+ {
+   "name": "Badajoz",
+   "country": "Spain",
+   "iata_code": "BJZ"
+ },
+ {
+   "name": "Bagdad - Baghdad International Airport",
+   "country": "Iraq",
+   "iata_code": "BGW"
+ },
+ {
+   "name": "Bagdogra",
+   "country": "India",
+   "iata_code": "IXB"
+ },
+ {
+   "name": "Bahamas - Lynden Pindling International Airport",
+   "country": "Bahamas",
+   "iata_code": "NAS"
+ },
+ {
+   "name": "Bahawalpur",
+   "country": "Pakistan",
+   "iata_code": "BHV"
+ },
+ {
+   "name": "Bahrain - Bahrain International Airport",
+   "country": "Bahrain",
+   "iata_code": "BAH"
+ },
+ {
+   "name": "Bakersfield (CA)",
+   "country": "USA",
+   "iata_code": "BFL"
+ },
+ {
+   "name": "Baku - Heydar Aliyev International Airport",
+   "country": "Azerbaijan",
+   "iata_code": "BAK"
+ },
+ {
+   "name": "Ballina",
+   "country": "Australia",
+   "iata_code": "BNK"
+ },
+ {
+   "name": "Baltimore (MD) - Washington International Airport",
+   "country": "USA",
+   "iata_code": "BWI"
+ },
+ {
+   "name": "Bamaga",
+   "country": "Australia",
+   "iata_code": "ABM"
+ },
+ {
+   "name": "Bamako - Bamako-Sénou International Airport",
+   "country": "Mali",
+   "iata_code": "BKO"
+ },
+ {
+   "name": "Bambari",
+   "country": "Central African Republic",
+   "iata_code": "BBY"
+ },
+ {
+   "name": "Bandar Seri Begawan - Brunei International Airport",
+   "country": "Brunei",
+   "iata_code": "BWN"
+ },
+ {
+   "name": "Bandung - Husein Sastranegara International Airport",
+   "country": "Indonesia",
+   "iata_code": "BDO"
+ },
+ {
+   "name": "Bangalore",
+   "country": "India",
+   "iata_code": "BLR"
+ },
+ {
+   "name": "Bangassou",
+   "country": "Central African Republic",
+   "iata_code": "BGU"
+ },
+ {
+   "name": "Bangkok, Don Muang",
+   "country": "Thailand",
+   "iata_code": "DMK"
+ },
+ {
+   "name": "Bangkok, Suvarnabhumi International",
+   "country": "Thailand",
+   "iata_code": "BKK"
+ },
+ {
+   "name": "Bangor (ME)",
+   "country": "USA",
+   "iata_code": "BGR"
+ },
+ {
+   "name": "Bangui - M'Poko International Airport",
+   "country": "Central African Republic",
+   "iata_code": "BGF"
+ },
+ {
+   "name": "Banjul - Banjul International Airport (Yundum International)",
+   "country": "Gambia",
+   "iata_code": "BJL"
+ },
+ {
+   "name": "Bannu",
+   "country": "Pakistan",
+   "iata_code": "BNP"
+ },
+ {
+   "name": "Barcelona",
+   "country": "Spain",
+   "iata_code": "BCN"
+ },
+ {
+   "name": "Barcelona",
+   "country": "Venezuela",
+   "iata_code": "BLA"
+ },
+ {
+   "name": "Bardufoss",
+   "country": "Norway",
+   "iata_code": "BDU"
+ },
+ {
+   "name": "Bari",
+   "country": "Italy",
+   "iata_code": "BRI"
+ },
+ {
+   "name": "Barisal",
+   "country": "Bangladesh",
+   "iata_code": "BZL"
+ },
+ {
+   "name": "Baroda",
+   "country": "India",
+   "iata_code": "BDQ"
+ },
+ {
+   "name": "Barra (the famous tidal beach landing)",
+   "country": "United Kingdom",
+   "iata_code": "BRR"
+ },
+ {
+   "name": "Barranquilla",
+   "country": "Colombia",
+   "iata_code": "BAQ"
+ },
+ {
+   "name": "Basel",
+   "country": "Switzerland",
+   "iata_code": "BSL"
+ },
+ {
+   "name": "Basel/Mulhouse",
+   "country": "Switzerland/France",
+   "iata_code": "EAP"
+ },
+ {
+   "name": "Basra, Basrah",
+   "country": "Iraq",
+   "iata_code": "BSR"
+ },
+ {
+   "name": "Basse-Terre - Pointe-à-Pitre International Airport",
+   "country": "Guadeloupe",
+   "iata_code": "PTP"
+ },
+ {
+   "name": "Basseterre - Robert L. Bradshaw International Airport",
+   "country": "Saint Kitts and Nevis",
+   "iata_code": "SKB"
+ },
+ {
+   "name": "Bastia",
+   "country": "France",
+   "iata_code": "BIA"
+ },
+ {
+   "name": "Baton Rouge (LA) - Baton Rouge Metropolitan Airport",
+   "country": "USA",
+   "iata_code": "BTR"
+ },
+ {
+   "name": "Bayreuth - Bindlacher-Berg",
+   "country": "Germany",
+   "iata_code": "BYU"
+ },
+ {
+   "name": "Beaumont/Pt. Arthur (TX)",
+   "country": "USA",
+   "iata_code": "BPT"
+ },
+ {
+   "name": "Beckley (WV)",
+   "country": "USA",
+   "iata_code": "BKW"
+ },
+ {
+   "name": "Beef Island - Terrance B. Lettsome",
+   "country": "Virgin Islands (British)",
+   "iata_code": "EIS"
+ },
+ {
+   "name": "Beijing",
+   "country": "PR China",
+   "iata_code": "PEK"
+ },
+ {
+   "name": "Beijing - Nanyuan Airport",
+   "country": "PR China",
+   "iata_code": "NAY"
+ },
+ {
+   "name": "Beira",
+   "country": "Mozambique",
+   "iata_code": "BEW"
+ },
+ {
+   "name": "Beirut - Beirut Rafic Hariri International Airport",
+   "country": "Lebanon",
+   "iata_code": "BEY"
+ },
+ {
+   "name": "Belem - Val de Cans International Airport",
+   "country": "Brazil",
+   "iata_code": "BEL"
+ },
+ {
+   "name": "Belfast - George Best Belfast City Airport",
+   "country": "United Kingdom",
+   "iata_code": "BHD"
+ },
+ {
+   "name": "Belfast - Belfast International Airport",
+   "country": "United Kingdom",
+   "iata_code": "BFS"
+ },
+ {
+   "name": "Belgaum",
+   "country": "India",
+   "iata_code": "IXG"
+ },
+ {
+   "name": "Belgrad (Beograd) - Belgrade Nikola Tesla International",
+   "country": "Serbia",
+   "iata_code": "BEG"
+ },
+ {
+   "name": "Belize City - Philip S.W.Goldson International",
+   "country": "Belize",
+   "iata_code": "BZE"
+ },
+ {
+   "name": "Bellingham (WA)",
+   "country": "USA",
+   "iata_code": "BLI"
+ },
+ {
+   "name": "Belo Horizonte - Tancredo Neves International Airport",
+   "country": "Brazil",
+   "iata_code": "CNF"
+ },
+ {
+   "name": "Bemidji (MN)",
+   "country": "USA",
+   "iata_code": "BJI"
+ },
+ {
+   "name": "Benbecula",
+   "country": "United Kingdom",
+   "iata_code": "BEB"
+ },
+ {
+   "name": "Benghazi (Bengasi)",
+   "country": "Libya",
+   "iata_code": "BEN"
+ },
+ {
+   "name": "Benguela",
+   "country": "Angola",
+   "iata_code": "BUG"
+ },
+ {
+   "name": "Benton Harbour (MI)",
+   "country": "USA",
+   "iata_code": "BEH"
+ },
+ {
+   "name": "Berberati",
+   "country": "Central African Republic",
+   "iata_code": "BBT"
+ },
+ {
+   "name": "Bergamo/Milan - Orio Al Serio",
+   "country": "Italy",
+   "iata_code": "BGY"
+ },
+ {
+   "name": "Bergen",
+   "country": "Norway",
+   "iata_code": "BGO"
+ },
+ {
+   "name": "Bergerac - Roumanieres",
+   "country": "France",
+   "iata_code": "EGC"
+ },
+ {
+   "name": "Berlin",
+   "country": "Germany",
+   "iata_code": "BER"
+ },
+ {
+   "name": "Berlin, Schoenefeld",
+   "country": "Germany",
+   "iata_code": "SXF"
+ },
+ {
+   "name": "Berlin, Tegel",
+   "country": "Germany",
+   "iata_code": "TXL"
+ },
+ {
+   "name": "Berlin, Tempelhof (ceased operating in 2008)",
+   "country": "Germany",
+   "iata_code": "THF"
+ },
+ {
+   "name": "Bermuda - L.F. Wade International Airport",
+   "country": "Bermuda",
+   "iata_code": "BDA"
+ },
+ {
+   "name": "Berne, Bern-Belp",
+   "country": "Switzerland",
+   "iata_code": "BRN"
+ },
+ {
+   "name": "Berne, Railway Service",
+   "country": "Switzerland",
+   "iata_code": "ZDJ"
+ },
+ {
+   "name": "Bethel (AK)",
+   "country": "USA",
+   "iata_code": "BET"
+ },
+ {
+   "name": "Bhopal",
+   "country": "India",
+   "iata_code": "BHO"
+ },
+ {
+   "name": "Bhubaneswar",
+   "country": "India",
+   "iata_code": "BBI"
+ },
+ {
+   "name": "Biarritz",
+   "country": "France",
+   "iata_code": "BIQ"
+ },
+ {
+   "name": "Bilbao",
+   "country": "Spain",
+   "iata_code": "BIO"
+ },
+ {
+   "name": "Billings (MT)",
+   "country": "USA",
+   "iata_code": "BIL"
+ },
+ {
+   "name": "Billund",
+   "country": "Denmark",
+   "iata_code": "BLL"
+ },
+ {
+   "name": "Bintulu",
+   "country": "Malaysia",
+   "iata_code": "BTU"
+ },
+ {
+   "name": "Biraro",
+   "country": "Central African Republic",
+   "iata_code": "IRO"
+ },
+ {
+   "name": "Birmingham - Birmingham International Airport",
+   "country": "United Kingdom",
+   "iata_code": "BHX"
+ },
+ {
+   "name": "Birmingham (AL)",
+   "country": "USA",
+   "iata_code": "BHM"
+ },
+ {
+   "name": "Bishkek - Manas International Airport",
+   "country": "Kyrgyzstan",
+   "iata_code": "FRU"
+ },
+ {
+   "name": "Bismarck (ND) - Bismarck Municipal Airport",
+   "country": "USA",
+   "iata_code": "BIS"
+ },
+ {
+   "name": "Bissau - Osvaldo Vieiro International Airport",
+   "country": "Guinea-Bissau",
+   "iata_code": "BXO"
+ },
+ {
+   "name": "Blackpool",
+   "country": "United Kingdom",
+   "iata_code": "BLK"
+ },
+ {
+   "name": "Blackwater",
+   "country": "Australia",
+   "iata_code": "BLT"
+ },
+ {
+   "name": "Blantyre (Mandala) - Chileka International Airport",
+   "country": "Malawi",
+   "iata_code": "BLZ"
+ },
+ {
+   "name": "Blenheim",
+   "country": "New Zealand",
+   "iata_code": "BHE"
+ },
+ {
+   "name": "Bloemfontein - Bloemfontein Airport",
+   "country": "South Africa",
+   "iata_code": "BFN"
+ },
+ {
+   "name": "Bloomington (IL)",
+   "country": "USA",
+   "iata_code": "BMI"
+ },
+ {
+   "name": "Bloomington (IN)",
+   "country": "USA",
+   "iata_code": "BMG"
+ },
+ {
+   "name": "Bluefield (WV)",
+   "country": "USA",
+   "iata_code": "BLF"
+ },
+ {
+   "name": "Boa Vista",
+   "country": "Brazil",
+   "iata_code": "BVB"
+ },
+ {
+   "name": "Bobo/Dioulasso",
+   "country": "Burkina Faso",
+   "iata_code": "BOY"
+ },
+ {
+   "name": "Bodo",
+   "country": "Norway",
+   "iata_code": "BOO"
+ },
+ {
+   "name": "Bodrum - Milas Airport",
+   "country": "Turkey",
+   "iata_code": "BJV"
+ },
+ {
+   "name": "Bogota - El Nuevo Dorado International Airport",
+   "country": "Colombia",
+   "iata_code": "BOG"
+ },
+ {
+   "name": "Boise (ID) - Boise Air Terminal",
+   "country": "USA",
+   "iata_code": "BOI"
+ },
+ {
+   "name": "Bologna",
+   "country": "Italy",
+   "iata_code": "BLQ"
+ },
+ {
+   "name": "Bombay (Mumbai) - Chhatrapati Shivaji International",
+   "country": "India",
+   "iata_code": "BOM"
+ },
+ {
+   "name": "Bonaire",
+   "country": "Netherlands Antilles",
+   "iata_code": "BON"
+ },
+ {
+   "name": "Bonaventure, PQ",
+   "country": "Canada",
+   "iata_code": "YVB"
+ },
+ {
+   "name": "Bora Bora",
+   "country": "French Polynesia",
+   "iata_code": "BOB"
+ },
+ {
+   "name": "Bordeaux - Bordeaux Airport",
+   "country": "France",
+   "iata_code": "BOD"
+ },
+ {
+   "name": "Borrego Springs (CA)",
+   "country": "USA",
+   "iata_code": "BXS"
+ },
+ {
+   "name": "Boston (MA) - General Edward Lawrence Logan",
+   "country": "USA",
+   "iata_code": "BOS"
+ },
+ {
+   "name": "Bouake",
+   "country": "Cote d'Ivoire",
+   "iata_code": "BYK"
+ },
+ {
+   "name": "Bourgas/Burgas",
+   "country": "Bulgaria",
+   "iata_code": "BOJ"
+ },
+ {
+   "name": "Bournemouth",
+   "country": "United Kingdom",
+   "iata_code": "BOH"
+ },
+ {
+   "name": "Bowen",
+   "country": "Australia",
+   "iata_code": "ZBO"
+ },
+ {
+   "name": "Bozeman (MT)",
+   "country": "USA",
+   "iata_code": "BZN"
+ },
+ {
+   "name": "Bradford/Warren (PA) /Olean (NY)",
+   "country": "USA",
+   "iata_code": "BFD"
+ },
+ {
+   "name": "Brainerd (MN)",
+   "country": "USA",
+   "iata_code": "BRD"
+ },
+ {
+   "name": "Brampton Island",
+   "country": "Australia",
+   "iata_code": "BMP"
+ },
+ {
+   "name": "Brasilia - President Juscelino Kubitschek International",
+   "country": "Brazil",
+   "iata_code": "BSB"
+ },
+ {
+   "name": "Bratislava - M. R. Štefánik Airport",
+   "country": "Slovakia",
+   "iata_code": "BTS"
+ },
+ {
+   "name": "Brazzaville - Maya-Maya Airport",
+   "country": "Congo (ROC)",
+   "iata_code": "BZV"
+ },
+ {
+   "name": "Bremen - Bremen Airport (Flughafen Bremen)",
+   "country": "Germany",
+   "iata_code": "BRE"
+ },
+ {
+   "name": "Brescia, Montichiari",
+   "country": "Italy",
+   "iata_code": "VBS"
+ },
+ {
+   "name": "Brest",
+   "country": "France",
+   "iata_code": "BES"
+ },
+ {
+   "name": "Bria",
+   "country": "Central African Republic",
+   "iata_code": "BIV"
+ },
+ {
+   "name": "Bridgeport (CT)",
+   "country": "USA",
+   "iata_code": "BDR"
+ },
+ {
+   "name": "Bridgetown - Grantley Adams International",
+   "country": "Barbados",
+   "iata_code": "BGI"
+ },
+ {
+   "name": "Brindisi",
+   "country": "Italy",
+   "iata_code": "BDS"
+ },
+ {
+   "name": "Brisbane",
+   "country": "Australia",
+   "iata_code": "BNE"
+ },
+ {
+   "name": "Bristol",
+   "country": "United Kingdom",
+   "iata_code": "BRS"
+ },
+ {
+   "name": "Broennoeysund",
+   "country": "Norway",
+   "iata_code": "BNN"
+ },
+ {
+   "name": "Broken Hill",
+   "country": "Australia",
+   "iata_code": "BHQ"
+ },
+ {
+   "name": "Brookings (SD)",
+   "country": "USA",
+   "iata_code": "BKX"
+ },
+ {
+   "name": "Broome",
+   "country": "Australia",
+   "iata_code": "BME"
+ },
+ {
+   "name": "Brunswick (GA)",
+   "country": "USA",
+   "iata_code": "BQK"
+ },
+ {
+   "name": "Brussels - Brussels Airport",
+   "country": "Belgium",
+   "iata_code": "BRU"
+ },
+ {
+   "name": "Bucaramanga",
+   "country": "Colombia",
+   "iata_code": "BGA"
+ },
+ {
+   "name": "Bucharest",
+   "country": "Romania",
+   "iata_code": "BUH"
+ },
+ {
+   "name": "Bucharest - Henri Coandă International Airport",
+   "country": "Romania",
+   "iata_code": "OTP"
+ },
+ {
+   "name": "Budapest - Budapest Ferihegy International Airport",
+   "country": "Hungary",
+   "iata_code": "BUD"
+ },
+ {
+   "name": "Buenos Aires",
+   "country": "Argentina",
+   "iata_code": "BUE"
+ },
+ {
+   "name": "Buenos Aires, Ezeiza International Airport",
+   "country": "Argentina",
+   "iata_code": "EZE"
+ },
+ {
+   "name": "Buenos Aires, Jorge Newbery",
+   "country": "Argentina",
+   "iata_code": "AEP"
+ },
+ {
+   "name": "Buffalo Range",
+   "country": "Zimbabwe",
+   "iata_code": "BFO"
+ },
+ {
+   "name": "Buffalo/Niagara Falls (NY)",
+   "country": "USA",
+   "iata_code": "BUF"
+ },
+ {
+   "name": "Bujumbura - Bujumbura International Airport",
+   "country": "Burundi",
+   "iata_code": "BJM"
+ },
+ {
+   "name": "Bulawayo",
+   "country": "Zimbabwe",
+   "iata_code": "BUQ"
+ },
+ {
+   "name": "Bullhead City (NV)",
+   "country": "USA",
+   "iata_code": "BHC"
+ },
+ {
+   "name": "Bundaberg",
+   "country": "Australia",
+   "iata_code": "BDB"
+ },
+ {
+   "name": "Burbank (CA)",
+   "country": "USA",
+   "iata_code": "BUR"
+ },
+ {
+   "name": "Burlington IA",
+   "country": "USA",
+   "iata_code": "BRL"
+ },
+ {
+   "name": "Burlington (VT)",
+   "country": "USA",
+   "iata_code": "BTV"
+ },
+ {
+   "name": "Burnie (Wynyard)",
+   "country": "Australia",
+   "iata_code": "BWT"
+ },
+ {
+   "name": "Butte (MT)",
+   "country": "USA",
+   "iata_code": "BTM"
+ },
+ {
+   "name": "Cabinda",
+   "country": "Angola",
+   "iata_code": "CAB"
+ },
+ {
+   "name": "Cagliari",
+   "country": "Italy",
+   "iata_code": "CAG"
+ },
+ {
+   "name": "Cairns",
+   "country": "Australia",
+   "iata_code": "CNS"
+ },
+ {
+   "name": "Cairo - Cairo International Airport",
+   "country": "Egypt",
+   "iata_code": "CAI"
+ },
+ {
+   "name": "Calama - El Loa",
+   "country": "Chile",
+   "iata_code": "CJC"
+ },
+ {
+   "name": "Calcutta (Kolkata) - Netaji Subhas Chandra",
+   "country": "India",
+   "iata_code": "CCU"
+ },
+ {
+   "name": "Calgary - Calgary International Airport",
+   "country": "Canada",
+   "iata_code": "YYC"
+ },
+ {
+   "name": "Cali",
+   "country": "Colombia",
+   "iata_code": "CLO"
+ },
+ {
+   "name": "Calicut",
+   "country": "India",
+   "iata_code": "CCJ"
+ },
+ {
+   "name": "Calvi",
+   "country": "France",
+   "iata_code": "CLY"
+ },
+ {
+   "name": "Cambridge Bay",
+   "country": "Canada",
+   "iata_code": "YCB"
+ },
+ {
+   "name": "Cambrigde",
+   "country": "United Kingdom",
+   "iata_code": "CBG"
+ },
+ {
+   "name": "Campbeltown",
+   "country": "United Kingdom",
+   "iata_code": "CAL"
+ },
+ {
+   "name": "Campo Grande",
+   "country": "Brazil",
+   "iata_code": "CGR"
+ },
+ {
+   "name": "Canberra - Canberra Airport",
+   "country": "Australia",
+   "iata_code": "CBR"
+ },
+ {
+   "name": "Cancun",
+   "country": "Mexico",
+   "iata_code": "CUN"
+ },
+ {
+   "name": "Cannes – Mandelieu Airport",
+   "country": "France",
+   "iata_code": "CEQ"
+ },
+ {
+   "name": "Canouan (island) - Canouan Airport",
+   "country": "Saint Vincent & the Grenadines",
+   "iata_code": "CIW"
+ },
+ {
+   "name": "Cape Town - Cape Town International Airport",
+   "country": "South Africa",
+   "iata_code": "CPT"
+ },
+ {
+   "name": "Caracas - Simón Bolívar International Airport",
+   "country": "Venezuela",
+   "iata_code": "CCS"
+ },
+ {
+   "name": "Cardiff - Cardiff Airport",
+   "country": "United Kingdom",
+   "iata_code": "CWL"
+ },
+ {
+   "name": "Carlsbad (CA)",
+   "country": "USA",
+   "iata_code": "CLD"
+ },
+ {
+   "name": "Carnarvon",
+   "country": "Australia",
+   "iata_code": "CVQ"
+ },
+ {
+   "name": "Carnot",
+   "country": "Central African Republic",
+   "iata_code": "CRF"
+ },
+ {
+   "name": "Carson City (NV)",
+   "country": "USA",
+   "iata_code": "CSN"
+ },
+ {
+   "name": "Casablanca",
+   "country": "Morocco",
+   "iata_code": "CAS"
+ },
+ {
+   "name": "Casablanca, Mohamed V",
+   "country": "Morocco",
+   "iata_code": "CMN"
+ },
+ {
+   "name": "Casa de Campo - La Romana International Airport",
+   "country": "Dominican Republic",
+   "iata_code": "LRM"
+ },
+ {
+   "name": "Casino",
+   "country": "Australia",
+   "iata_code": "CSI"
+ },
+ {
+   "name": "Casper (WY)",
+   "country": "USA",
+   "iata_code": "CPR"
+ },
+ {
+   "name": "Castaway",
+   "country": "Fiji",
+   "iata_code": "CST"
+ },
+ {
+   "name": "Cartagena - Rafael Núñez International Airport",
+   "country": "Colombia",
+   "iata_code": "CTG"
+ },
+ {
+   "name": "Castries - George F. L. Charles Airport",
+   "country": "Saint Lucia",
+   "iata_code": "SLU"
+ },
+ {
+   "name": "Catania",
+   "country": "Italy",
+   "iata_code": "CTA"
+ },
+ {
+   "name": "Cayenne - Cayenne-Rochambeau Airport",
+   "country": "French Guiana",
+   "iata_code": "CAY"
+ },
+ {
+   "name": "Cottbus - Cottbus-Drewitz Airport",
+   "country": "Germany",
+   "iata_code": "CBU"
+ },
+ {
+   "name": "Cebu City - Mactan-Cebu International",
+   "country": "Philippines",
+   "iata_code": "CEB"
+ },
+ {
+   "name": "Cedar City (UT)",
+   "country": "USA",
+   "iata_code": "CDC"
+ },
+ {
+   "name": "Cedar Rapids IA",
+   "country": "USA",
+   "iata_code": "CID"
+ },
+ {
+   "name": "Ceduna",
+   "country": "Australia",
+   "iata_code": "CED"
+ },
+ {
+   "name": "Cessnock",
+   "country": "Australia",
+   "iata_code": "CES"
+ },
+ {
+   "name": "Chabarovsk (Khabarovsk)",
+   "country": "Russia",
+   "iata_code": "KHV"
+ },
+ {
+   "name": "Chambery",
+   "country": "France",
+   "iata_code": "CMF"
+ },
+ {
+   "name": "Champaign (IL)",
+   "country": "USA",
+   "iata_code": "CMI"
+ },
+ {
+   "name": "Chandigarh - Chandigarh International Airport",
+   "country": "India",
+   "iata_code": "IXC"
+ },
+ {
+   "name": "Changchun",
+   "country": "Jilin, PR China",
+   "iata_code": "CGQ"
+ },
+ {
+   "name": "Chania",
+   "country": "Greece",
+   "iata_code": "CHQ"
+ },
+ {
+   "name": "Chaoyang, Beijing - Chaoyang Airport",
+   "country": "PR China",
+   "iata_code": "CHG"
+ },
+ {
+   "name": "Charleston (SC)",
+   "country": "USA",
+   "iata_code": "CHS"
+ },
+ {
+   "name": "Charleston (WV) - Yeager Airport",
+   "country": "USA",
+   "iata_code": "CRW"
+ },
+ {
+   "name": "Charlotte (NC)",
+   "country": "USA",
+   "iata_code": "CLT"
+ },
+ {
+   "name": "Charlottesville (VA)",
+   "country": "USA",
+   "iata_code": "CHO"
+ },
+ {
+   "name": "Charters Towers",
+   "country": "Australia",
+   "iata_code": "CXT"
+ },
+ {
+   "name": "Chattanooga (TN)",
+   "country": "USA",
+   "iata_code": "CHA"
+ },
+ {
+   "name": "Chengdu - Shuangliu",
+   "country": "Sichuan, PR China",
+   "iata_code": "CTU"
+ },
+ {
+   "name": "Chennai (Madras)",
+   "country": "India",
+   "iata_code": "MAA"
+ },
+ {
+   "name": "Cheyenne (WY) - Cheyenne Regional Airport",
+   "country": "USA",
+   "iata_code": "CYS"
+ },
+ {
+   "name": "Chiang Mai - Chiang Mai International Airport",
+   "country": "Thailand",
+   "iata_code": "CNX"
+ },
+ {
+   "name": "Chiba City",
+   "country": "Japan",
+   "iata_code": "QCB"
+ },
+ {
+   "name": "Chicago (IL), Midway",
+   "country": "USA",
+   "iata_code": "MDW"
+ },
+ {
+   "name": "Chicago (IL), O'Hare International Airport",
+   "country": "USA",
+   "iata_code": "ORD"
+ },
+ {
+   "name": "Chicago (IL)",
+   "country": "USA",
+   "iata_code": "CHI"
+ },
+ {
+   "name": "Chichen Itza",
+   "country": "Mexico",
+   "iata_code": "CZA"
+ },
+ {
+   "name": "Chico (CA)",
+   "country": "USA",
+   "iata_code": "CIC"
+ },
+ {
+   "name": "Chihuahua - Gen Fierro Villalobos",
+   "country": "Mexico",
+   "iata_code": "CUU"
+ },
+ {
+   "name": "Chios",
+   "country": "Greece",
+   "iata_code": "JKH"
+ },
+ {
+   "name": "Chipata",
+   "country": "Zambia",
+   "iata_code": "CIP"
+ },
+ {
+   "name": "Chisinau - Chişinău International Airport",
+   "country": "Moldova",
+   "iata_code": "KIV"
+ },
+ {
+   "name": "Chita (Tschita)",
+   "country": "Russia",
+   "iata_code": "HTA"
+ },
+ {
+   "name": "Sapporo - New Chitose Airport",
+   "country": "Japan",
+   "iata_code": "CTS"
+ },
+ {
+   "name": "Chitral",
+   "country": "Pakistan",
+   "iata_code": "CJL"
+ },
+ {
+   "name": "Chittagong",
+   "country": "Bangladesh",
+   "iata_code": "CGP"
+ },
+ {
+   "name": "Chongqing - Jiangbei International Airport",
+   "country": "Sichuan, PR China",
+   "iata_code": "CKG"
+ },
+ {
+   "name": "Christchurch",
+   "country": "New Zealand",
+   "iata_code": "CHC"
+ },
+ {
+   "name": "Chub Cay",
+   "country": "Bahamas",
+   "iata_code": "CCZ"
+ },
+ {
+   "name": "Churchill",
+   "country": "Canada",
+   "iata_code": "YYQ"
+ },
+ {
+   "name": "Cienfuegos - Jaime González Airport",
+   "country": "Cuba",
+   "iata_code": "CFG"
+ },
+ {
+   "name": "Cincinnati (OH) - Cincinnati/Northern Kentucky Int'l",
+   "country": "USA",
+   "iata_code": "CVG"
+ },
+ {
+   "name": "Ciudad Del Carmen",
+   "country": "Mexico",
+   "iata_code": "CME"
+ },
+ {
+   "name": "Ciudad Guayana",
+   "country": "Venezuela",
+   "iata_code": "CGU"
+ },
+ {
+   "name": "Ciudad Juarez",
+   "country": "Mexico",
+   "iata_code": "CJS"
+ },
+ {
+   "name": "Ciudad Obregon",
+   "country": "Mexico",
+   "iata_code": "CEN"
+ },
+ {
+   "name": "Ciudad Victoria",
+   "country": "Mexico",
+   "iata_code": "CVM"
+ },
+ {
+   "name": "Clarksburg (WV)",
+   "country": "USA",
+   "iata_code": "CKB"
+ },
+ {
+   "name": "Clermont",
+   "country": "Australia",
+   "iata_code": "CMQ"
+ },
+ {
+   "name": "Clermont Ferrand",
+   "country": "France",
+   "iata_code": "CFE"
+ },
+ {
+   "name": "Cleveland (OH) , Burke Lakefront",
+   "country": "USA",
+   "iata_code": "BKL"
+ },
+ {
+   "name": "Cleveland (OH) - Cleveland Hopkins International",
+   "country": "USA",
+   "iata_code": "CLE"
+ },
+ {
+   "name": "Cochabamba",
+   "country": "Bolivia",
+   "iata_code": "CBB"
+ },
+ {
+   "name": "Cochin",
+   "country": "India",
+   "iata_code": "COK"
+ },
+ {
+   "name": "Cody/Powell/Yellowstone (WY)",
+   "country": "USA",
+   "iata_code": "COD"
+ },
+ {
+   "name": "Coffmann Cove (AK)",
+   "country": "USA",
+   "iata_code": "KCC"
+ },
+ {
+   "name": "Coffs Harbour",
+   "country": "Australia",
+   "iata_code": "CFS"
+ },
+ {
+   "name": "Coimbatore",
+   "country": "India",
+   "iata_code": "CJB"
+ },
+ {
+   "name": "Colima",
+   "country": "Mexico",
+   "iata_code": "CLQ"
+ },
+ {
+   "name": "College Station/Bryan (TX)",
+   "country": "USA",
+   "iata_code": "CLL"
+ },
+ {
+   "name": "Collinsville",
+   "country": "Australia",
+   "iata_code": "KCE"
+ },
+ {
+   "name": "Cologne - Cologne Airport (Flughafen Köln/Bonn)",
+   "country": "Germany",
+   "iata_code": "CGN"
+ },
+ {
+   "name": "Colombo - Bandaranaike International Airport",
+   "country": "Sri Lanka",
+   "iata_code": "CMB"
+ },
+ {
+   "name": "Colorado Springs (CO)",
+   "country": "USA",
+   "iata_code": "COS"
+ },
+ {
+   "name": "Columbia (SC) - Columbia Metropolitan Airport",
+   "country": "USA",
+   "iata_code": "CAE"
+ },
+ {
+   "name": "Columbus (GA)",
+   "country": "USA",
+   "iata_code": "CSG"
+ },
+ {
+   "name": "Columbus (OH) - Port Columbus International",
+   "country": "USA",
+   "iata_code": "CMH"
+ },
+ {
+   "name": "Conakry - Conakry International Airport",
+   "country": "Guinea",
+   "iata_code": "CKY"
+ },
+ {
+   "name": "Concord (CA) - Buchanan Field",
+   "country": "USA",
+   "iata_code": "CCR"
+ },
+ {
+   "name": "Concord (NH) - Concord Municipal Airport",
+   "country": "USA",
+   "iata_code": "CON"
+ },
+ {
+   "name": "Constantine",
+   "country": "Algeria",
+   "iata_code": "CZL"
+ },
+ {
+   "name": "Constanta (Constanța) - Constanta Int'l Airport",
+   "country": "Romania",
+   "iata_code": "CND"
+ },
+ {
+   "name": "Coober Pedy",
+   "country": "Australia",
+   "iata_code": "CPD"
+ },
+ {
+   "name": "Cooktown",
+   "country": "Australia",
+   "iata_code": "CTN"
+ },
+ {
+   "name": "Cooma",
+   "country": "Australia",
+   "iata_code": "OOM"
+ },
+ {
+   "name": "Copenhagen - Copenhagen Airport",
+   "country": "Denmark",
+   "iata_code": "CPH"
+ },
+ {
+   "name": "Cordoba",
+   "country": "Argentina",
+   "iata_code": "COR"
+ },
+ {
+   "name": "Cordoba",
+   "country": "Spain",
+   "iata_code": "ODB"
+ },
+ {
+   "name": "Cordova (AK)",
+   "country": "USA",
+   "iata_code": "CDV"
+ },
+ {
+   "name": "Corfu",
+   "country": "Greece",
+   "iata_code": "CFU"
+ },
+ {
+   "name": "Cork",
+   "country": "Ireland",
+   "iata_code": "ORK"
+ },
+ {
+   "name": "Corpus Christi (TX)",
+   "country": "USA",
+   "iata_code": "CRP"
+ },
+ {
+   "name": "Cotonou - Cotonou Cadjehoun Airport",
+   "country": "Benin",
+   "iata_code": "COO"
+ },
+ {
+   "name": "Coventry - Baginton",
+   "country": "United Kingdom",
+   "iata_code": "CVT"
+ },
+ {
+   "name": "Cozmel",
+   "country": "Mexico",
+   "iata_code": "CZM"
+ },
+ {
+   "name": "Craig (AK)",
+   "country": "USA",
+   "iata_code": "CGA"
+ },
+ {
+   "name": "Crescent City (CA)",
+   "country": "USA",
+   "iata_code": "CEC"
+ },
+ {
+   "name": "Cuiaba - Marechal Rondon International Airport",
+   "country": "Brazil",
+   "iata_code": "CGB"
+ },
+ {
+   "name": "Culiacan",
+   "country": "Mexico",
+   "iata_code": "CUL"
+ },
+ {
+   "name": "Curacao - Curaçao International Airport",
+   "country": "Netherlands Antilles",
+   "iata_code": "CUR"
+ },
+ {
+   "name": "Curitiba - Afonso Pena International Airport",
+   "country": "Brazil",
+   "iata_code": "CWB"
+ },
+ {
+   "name": "Cuyo",
+   "country": "Philippines",
+   "iata_code": "CYU"
+ },
+ {
+   "name": "Dakar - Léopold Sédar Senghor International Airport",
+   "country": "Senegal",
+   "iata_code": "DKR"
+ },
+ {
+   "name": "Dalaman",
+   "country": "Turkey",
+   "iata_code": "DLM"
+ },
+ {
+   "name": "Dalby",
+   "country": "Australia",
+   "iata_code": "DBY"
+ },
+ {
+   "name": "Dalian - Zhoushuizi International Airport",
+   "country": "Liaoning, PR China",
+   "iata_code": "DLC"
+ },
+ {
+   "name": "Dallas (TX) , Love Field",
+   "country": "USA",
+   "iata_code": "DAL"
+ },
+ {
+   "name": "Dallas/Ft. Worth (TX) - Dallas/Fort Worth International",
+   "country": "USA",
+   "iata_code": "DFW"
+ },
+ {
+   "name": "Daloa",
+   "country": "Cote d'Ivoire",
+   "iata_code": "DJO"
+ },
+ {
+   "name": "Damascus, International",
+   "country": "Syria",
+   "iata_code": "DAM"
+ },
+ {
+   "name": "Dammam, King Fahad International",
+   "country": "Saudi Arabia",
+   "iata_code": "DMM"
+ },
+ {
+   "name": "Danville (VA)",
+   "country": "USA",
+   "iata_code": "DAN"
+ },
+ {
+   "name": "Dar es Salam (Daressalam) - Julius Nyerere Int'l",
+   "country": "Tanzania",
+   "iata_code": "DAR"
+ },
+ {
+   "name": "Darwin",
+   "country": "Australia",
+   "iata_code": "DRW"
+ },
+ {
+   "name": "Daydream Island",
+   "country": "Australia",
+   "iata_code": "DDI"
+ },
+ {
+   "name": "Dayton (OH)",
+   "country": "USA",
+   "iata_code": "DAY"
+ },
+ {
+   "name": "Daytona Beach (FL)",
+   "country": "USA",
+   "iata_code": "DAB"
+ },
+ {
+   "name": "Decatur (IL)",
+   "country": "USA",
+   "iata_code": "DEC"
+ },
+ {
+   "name": "Deer Lake/Corner Brook",
+   "country": "Canada",
+   "iata_code": "YDF"
+ },
+ {
+   "name": "Delhi - Indira Gandhi International Airport",
+   "country": "India",
+   "iata_code": "DEL"
+ },
+ {
+   "name": "Den Haag (The Hague)",
+   "country": "Netherlands",
+   "iata_code": "HAG"
+ },
+ {
+   "name": "Denizli",
+   "country": "Turkey",
+   "iata_code": "DNZ"
+ },
+ {
+   "name": "Denpasar/Bali",
+   "country": "Indonesia",
+   "iata_code": "DPS"
+ },
+ {
+   "name": "Denver (CO) - Denver International Airport",
+   "country": "USA",
+   "iata_code": "DEN"
+ },
+ {
+   "name": "Dera Ismail Khan - Dera Ismail Khan Airport",
+   "country": "Pakistan",
+   "iata_code": "DSK"
+ },
+ {
+   "name": "Derby",
+   "country": "Australia",
+   "iata_code": "DRB"
+ },
+ {
+   "name": "Derry (Londonderry)",
+   "country": "United Kingdom",
+   "iata_code": "LDY"
+ },
+ {
+   "name": "Des Moines (IA) - Des Moines International Airport",
+   "country": "USA",
+   "iata_code": "DSM"
+ },
+ {
+   "name": "Detroit (MI) , Coleman A. Young Municipal",
+   "country": "USA",
+   "iata_code": "DET"
+ },
+ {
+   "name": "Detroit (MI) , Wayne County Airport",
+   "country": "USA",
+   "iata_code": "DTW"
+ },
+ {
+   "name": "Detroit (MI) , Metropolitan Area",
+   "country": "USA",
+   "iata_code": "DTT"
+ },
+ {
+   "name": "Devils Lake (ND)",
+   "country": "USA",
+   "iata_code": "DVL"
+ },
+ {
+   "name": "Devonport",
+   "country": "Australia",
+   "iata_code": "DPO"
+ },
+ {
+   "name": "Dhahran",
+   "country": "Saudi Arabia",
+   "iata_code": "DHA"
+ },
+ {
+   "name": "Dhaka - Zia International Airport",
+   "country": "Bangladesh",
+   "iata_code": "DAC"
+ },
+ {
+   "name": "Dili - Nicolau Lobato International Airport",
+   "country": "Timor Leste (East Timor)",
+   "iata_code": "DIL"
+ },
+ {
+   "name": "Dillingham (AK)",
+   "country": "USA",
+   "iata_code": "DLG"
+ },
+ {
+   "name": "Dinard",
+   "country": "France",
+   "iata_code": "DNR"
+ },
+ {
+   "name": "Disneyland Paris",
+   "country": "France",
+   "iata_code": "DLP"
+ },
+ {
+   "name": "Djerba",
+   "country": "Tunisia",
+   "iata_code": "DJE"
+ },
+ {
+   "name": "Djibouti (city) - Djibouti-Ambouli International Airport",
+   "country": "Djibouti",
+   "iata_code": "JIB"
+ },
+ {
+   "name": "Dodoma - Dodoma Airport",
+   "country": "Tanzania",
+   "iata_code": "DOD"
+ },
+ {
+   "name": "Doha - Doha International Airport",
+   "country": "Qatar",
+   "iata_code": "DOH"
+ },
+ {
+   "name": "Doncaster/Sheffield, Robin Hood International Airport",
+   "country": "United Kingdom",
+   "iata_code": "DSA"
+ },
+ {
+   "name": "Donegal (Carrickfin)",
+   "country": "Ireland",
+   "iata_code": "CFN"
+ },
+ {
+   "name": "Dortmund",
+   "country": "Germany",
+   "iata_code": "DTM"
+ },
+ {
+   "name": "Dothan (AL)",
+   "country": "USA",
+   "iata_code": "DHN"
+ },
+ {
+   "name": "Douala",
+   "country": "Cameroon",
+   "iata_code": "DLA"
+ },
+ {
+   "name": "Dresden - Dresden Airport",
+   "country": "Germany",
+   "iata_code": "DRS"
+ },
+ {
+   "name": "Dubai - Dubai International Airport",
+   "country": "United Arab Emirates",
+   "iata_code": "DXB"
+ },
+ {
+   "name": "Dubbo",
+   "country": "Australia",
+   "iata_code": "DBO"
+ },
+ {
+   "name": "Dublin - Dublin International Airport",
+   "country": "Ireland",
+   "iata_code": "DUB"
+ },
+ {
+   "name": "Dubois (PA)",
+   "country": "USA",
+   "iata_code": "DUJ"
+ },
+ {
+   "name": "Dubrovnik",
+   "country": "Croatia (Hrvatska)",
+   "iata_code": "DBV"
+ },
+ {
+   "name": "Dubuque IA",
+   "country": "USA",
+   "iata_code": "DBQ"
+ },
+ {
+   "name": "Duesseldorf - Düsseldorf International Airport",
+   "country": "Germany",
+   "iata_code": "DUS"
+ },
+ {
+   "name": "Duluth (MN) /Superior (WI)",
+   "country": "USA",
+   "iata_code": "DLH"
+ },
+ {
+   "name": "Dundee",
+   "country": "United Kingdom",
+   "iata_code": "DND"
+ },
+ {
+   "name": "Dunedin",
+   "country": "New Zealand",
+   "iata_code": "DUD"
+ },
+ {
+   "name": "Dunk Island",
+   "country": "Australia",
+   "iata_code": "DKI"
+ },
+ {
+   "name": "Durango (CO)",
+   "country": "USA",
+   "iata_code": "DRO"
+ },
+ {
+   "name": "Durban",
+   "country": "South Africa",
+   "iata_code": "DUR"
+ },
+ {
+   "name": "Dushanbe (Duschanbe) - Dushanbe Airport",
+   "country": "Tajikistan",
+   "iata_code": "DYU"
+ },
+ {
+   "name": "Dutch Harbor (AK)",
+   "country": "USA",
+   "iata_code": "DUT"
+ },
+ {
+   "name": "Dysart",
+   "country": "Australia",
+   "iata_code": "DYA"
+ },
+ {
+   "name": "Dzaoudzi",
+   "country": "Mayotte",
+   "iata_code": "DZA"
+ },
+ {
+   "name": "East London",
+   "country": "South Africa",
+   "iata_code": "ELS"
+ },
+ {
+   "name": "Easter Island",
+   "country": "Chile",
+   "iata_code": "IPC"
+ },
+ {
+   "name": "Eau Clarie (WI)",
+   "country": "USA",
+   "iata_code": "EAU"
+ },
+ {
+   "name": "Edinburgh - Edinburgh Airport",
+   "country": "Scotland, UK",
+   "iata_code": "EDI"
+ },
+ {
+   "name": "Edmonton",
+   "country": "Canada",
+   "iata_code": "YEA"
+ },
+ {
+   "name": "Edmonton, International",
+   "country": "Canada",
+   "iata_code": "YEG"
+ },
+ {
+   "name": "Edmonton, Municipal",
+   "country": "Canada",
+   "iata_code": "YXD"
+ },
+ {
+   "name": "Egilsstadir",
+   "country": "Iceland",
+   "iata_code": "EGS"
+ },
+ {
+   "name": "Eindhoven",
+   "country": "Netherlands",
+   "iata_code": "EIN"
+ },
+ {
+   "name": "Samana - Samaná El Catey International Airport",
+   "country": "Dominican Republic",
+   "iata_code": "AZS"
+ },
+ {
+   "name": "Elba Island, Marina Di Campo",
+   "country": "Italy",
+   "iata_code": "EBA"
+ },
+ {
+   "name": "Elat",
+   "country": "Israel",
+   "iata_code": "ETH"
+ },
+ {
+   "name": "Elat, Ovula",
+   "country": "Israel",
+   "iata_code": "VDA"
+ },
+ {
+   "name": "Elkhart (IN)",
+   "country": "USA",
+   "iata_code": "EKI"
+ },
+ {
+   "name": "Elko (NV)",
+   "country": "USA",
+   "iata_code": "EKO"
+ },
+ {
+   "name": "Ellisras",
+   "country": "South Africa",
+   "iata_code": "ELL"
+ },
+ {
+   "name": "El Minya",
+   "country": "Egypt",
+   "iata_code": "EMY"
+ },
+ {
+   "name": "Elmira (NY)",
+   "country": "USA",
+   "iata_code": "ELM"
+ },
+ {
+   "name": "El Paso (TX) - El Paso International Airport",
+   "country": "USA",
+   "iata_code": "ELP"
+ },
+ {
+   "name": "Ely (NV)",
+   "country": "USA",
+   "iata_code": "ELY"
+ },
+ {
+   "name": "Emerald",
+   "country": "Australia",
+   "iata_code": "EDR"
+ },
+ {
+   "name": "Emerald",
+   "country": "Australia",
+   "iata_code": "EMD"
+ },
+ {
+   "name": "Enontekioe",
+   "country": "Finland",
+   "iata_code": "ENF"
+ },
+ {
+   "name": "Entebbe - Entebbe International Airport",
+   "country": "Uganda",
+   "iata_code": "EBB"
+ },
+ {
+   "name": "Erfurt - Erfurt Airport (Flughafen Erfurt)",
+   "country": "Germany",
+   "iata_code": "ERF"
+ },
+ {
+   "name": "Erie (PA)",
+   "country": "USA",
+   "iata_code": "ERI"
+ },
+ {
+   "name": "Eriwan (Yerevan, Jerevan)",
+   "country": "Armenia",
+   "iata_code": "EVN"
+ },
+ {
+   "name": "Erzincan",
+   "country": "Turkey",
+   "iata_code": "ERC"
+ },
+ {
+   "name": "Erzurum",
+   "country": "Turkey",
+   "iata_code": "ERZ"
+ },
+ {
+   "name": "Esbjerg",
+   "country": "Denmark",
+   "iata_code": "EBJ"
+ },
+ {
+   "name": "Escanaba (MI)",
+   "country": "USA",
+   "iata_code": "ESC"
+ },
+ {
+   "name": "Esperance",
+   "country": "Australia",
+   "iata_code": "EPR"
+ },
+ {
+   "name": "Eugene (OR)",
+   "country": "USA",
+   "iata_code": "EUG"
+ },
+ {
+   "name": "Eureka (CA)",
+   "country": "USA",
+   "iata_code": "ACV"
+ },
+ {
+   "name": "Evansville (IN)",
+   "country": "USA",
+   "iata_code": "EVV"
+ },
+ {
+   "name": "Evenes",
+   "country": "Norway",
+   "iata_code": "EVE"
+ },
+ {
+   "name": "Exeter",
+   "country": "United Kingdom",
+   "iata_code": "EXT"
+ },
+ {
+   "name": "Fairbanks (AK)",
+   "country": "USA",
+   "iata_code": "FAI"
+ },
+ {
+   "name": "Fair Isle (Shetland)",
+   "country": "United Kingdom",
+   "iata_code": "FIE"
+ },
+ {
+   "name": "Faisalabad",
+   "country": "Pakistan",
+   "iata_code": "LYP"
+ },
+ {
+   "name": "Fargo (ND) (MN)",
+   "country": "USA",
+   "iata_code": "FAR"
+ },
+ {
+   "name": "Farmington (NM)",
+   "country": "USA",
+   "iata_code": "FMN"
+ },
+ {
+   "name": "Faro",
+   "country": "Portugal",
+   "iata_code": "FAO"
+ },
+ {
+   "name": "Faroer - Vágar Airport",
+   "country": "Denmark",
+   "iata_code": "FAE"
+ },
+ {
+   "name": "Fayetteville (AR)",
+   "country": "USA",
+   "iata_code": "FYV"
+ },
+ {
+   "name": "Fayetteville/Ft. Bragg (NC)",
+   "country": "USA",
+   "iata_code": "FAY"
+ },
+ {
+   "name": "Fes",
+   "country": "Morocco",
+   "iata_code": "FEZ"
+ },
+ {
+   "name": "Figari",
+   "country": "France",
+   "iata_code": "FSC"
+ },
+ {
+   "name": "Flagstaff (AZ)",
+   "country": "USA",
+   "iata_code": "FLG"
+ },
+ {
+   "name": "Flin Flon",
+   "country": "Canada",
+   "iata_code": "YFO"
+ },
+ {
+   "name": "Flint (MI)",
+   "country": "USA",
+   "iata_code": "FNT"
+ },
+ {
+   "name": "Florence (Firenze) - Peretola Airport",
+   "country": "Italy",
+   "iata_code": "FLR"
+ },
+ {
+   "name": "Florence (SC)",
+   "country": "USA",
+   "iata_code": "FLO"
+ },
+ {
+   "name": "Florianopolis",
+   "country": "Brazil",
+   "iata_code": "FLN"
+ },
+ {
+   "name": "Floro",
+   "country": "Norway",
+   "iata_code": "FRO"
+ },
+ {
+   "name": "Fort Albert",
+   "country": "Canada",
+   "iata_code": "YFA"
+ },
+ {
+   "name": "Fortaleza - Pinto Martins Airport",
+   "country": "Brazil",
+   "iata_code": "FOR"
+ },
+ {
+   "name": "Fort de France - Martinique Aimé Césaire International",
+   "country": "Martinique",
+   "iata_code": "FDF"
+ },
+ {
+   "name": "Fort Dodge IA",
+   "country": "USA",
+   "iata_code": "FOD"
+ },
+ {
+   "name": "Fort Huachuca/Sierra Vista (AZ)",
+   "country": "USA",
+   "iata_code": "FHU"
+ },
+ {
+   "name": "Fort Lauderdale/Hollywood (FL)",
+   "country": "USA",
+   "iata_code": "FLL"
+ },
+ {
+   "name": "Fort McMurray",
+   "country": "Canada",
+   "iata_code": "YMM"
+ },
+ {
+   "name": "Fort Myers, Metropolitan Area (FL)",
+   "country": "USA",
+   "iata_code": "FMY"
+ },
+ {
+   "name": "Fort Myers, Southwest Florida Reg (FL)",
+   "country": "USA",
+   "iata_code": "RSW"
+ },
+ {
+   "name": "Fort Riley (KS) - Marshall AAF",
+   "country": "USA",
+   "iata_code": "FRI"
+ },
+ {
+   "name": "Fort Smith",
+   "country": "Canada",
+   "iata_code": "YSM"
+ },
+ {
+   "name": "Fort Smith (AR)",
+   "country": "USA",
+   "iata_code": "FSM"
+ },
+ {
+   "name": "Fort St. John",
+   "country": "Canada",
+   "iata_code": "YXJ"
+ },
+ {
+   "name": "Fort Walton Beach (FL)",
+   "country": "USA",
+   "iata_code": "VPS"
+ },
+ {
+   "name": "Fort Wayne (IN)",
+   "country": "USA",
+   "iata_code": "FWA"
+ },
+ {
+   "name": "Fort Worth (TX) - Dallas/Fort Worth International Airport",
+   "country": "USA",
+   "iata_code": "DFW"
+ },
+ {
+   "name": "Foula (Shetland)",
+   "country": "United Kingdom",
+   "iata_code": "FOU"
+ },
+ {
+   "name": "Francistown",
+   "country": "Botswana",
+   "iata_code": "FRW"
+ },
+ {
+   "name": "Frankfurt/Main - Frankfurt Airport (Rhein-Main-Flughafen)",
+   "country": "Germany",
+   "iata_code": "FRA"
+ },
+ {
+   "name": "Frankfurt/Hahn",
+   "country": "Germany",
+   "iata_code": "HHN"
+ },
+ {
+   "name": "Franklin/Oil City (PA)",
+   "country": "USA",
+   "iata_code": "FKL"
+ },
+ {
+   "name": "Fredericton",
+   "country": "Canada",
+   "iata_code": "YFC"
+ },
+ {
+   "name": "Freeport - Grand Bahama International Airport",
+   "country": "Bahamas",
+   "iata_code": "FPO"
+ },
+ {
+   "name": "Freetown - Freetown-Lungi International Airport",
+   "country": "Sierra Leone",
+   "iata_code": "FNA"
+ },
+ {
+   "name": "Frejus",
+   "country": "France",
+   "iata_code": "FRJ"
+ },
+ {
+   "name": "Fresno (CA)",
+   "country": "USA",
+   "iata_code": "FAT"
+ },
+ {
+   "name": "Friedrichshafen - Bodensee-Airport Friedrichshafen",
+   "country": "Germany",
+   "iata_code": "FDH"
+ },
+ {
+   "name": "Fuerteventura",
+   "country": "Spain",
+   "iata_code": "FUE"
+ },
+ {
+   "name": "Fujairah, International Airport",
+   "country": "United Arab Emirates",
+   "iata_code": "FJR"
+ },
+ {
+   "name": "Fukuoka",
+   "country": "Japan",
+   "iata_code": "FUK"
+ },
+ {
+   "name": "Fukushima - Fukushima Airport",
+   "country": "Japan",
+   "iata_code": "FKS"
+ },
+ {
+   "name": "Funchal",
+   "country": "Portugal",
+   "iata_code": "FNC"
+ },
+ {
+   "name": "Futuna",
+   "country": "Wallis and Futuna Islands",
+   "iata_code": "FUT"
+ },
+ {
+   "name": "Gaborone - Sir Seretse Khama International Airport",
+   "country": "Botswana",
+   "iata_code": "GBE"
+ },
+ {
+   "name": "Gadsden (AL)",
+   "country": "USA",
+   "iata_code": "GAD"
+ },
+ {
+   "name": "Gainesville (FL)",
+   "country": "USA",
+   "iata_code": "GNV"
+ },
+ {
+   "name": "Galway",
+   "country": "Ireland",
+   "iata_code": "GWY"
+ },
+ {
+   "name": "Gander",
+   "country": "Canada",
+   "iata_code": "YQX"
+ },
+ {
+   "name": "Garoua",
+   "country": "Cameroon",
+   "iata_code": "GOU"
+ },
+ {
+   "name": "Gaza City - Gaza International Airport",
+   "country": "Palestinian Territory",
+   "iata_code": "GZA"
+ },
+ {
+   "name": "Gaziantep",
+   "country": "Turkey",
+   "iata_code": "GZT"
+ },
+ {
+   "name": "Gdansk",
+   "country": "Poland",
+   "iata_code": "GDN"
+ },
+ {
+   "name": "Geelong",
+   "country": "Australia",
+   "iata_code": "GEX"
+ },
+ {
+   "name": "Geneva - Geneva-Cointrin International Airport",
+   "country": "Switzerland",
+   "iata_code": "GVA"
+ },
+ {
+   "name": "Genoa",
+   "country": "Italy",
+   "iata_code": "GOA"
+ },
+ {
+   "name": "George",
+   "country": "South Africa",
+   "iata_code": "GRJ"
+ },
+ {
+   "name": "Georgetown - Cheddi Jagan International Airport",
+   "country": "Guyana",
+   "iata_code": "GEO"
+ },
+ {
+   "name": "Geraldton",
+   "country": "Australia",
+   "iata_code": "GET"
+ },
+ {
+   "name": "Gerona",
+   "country": "Spain",
+   "iata_code": "GRO"
+ },
+ {
+   "name": "Ghent (Gent)",
+   "country": "Belgium",
+   "iata_code": "GNE"
+ },
+ {
+   "name": "Gibraltar",
+   "country": "Gibraltar",
+   "iata_code": "GIB"
+ },
+ {
+   "name": "Gilette (WY)",
+   "country": "USA",
+   "iata_code": "GCC"
+ },
+ {
+   "name": "Gilgit",
+   "country": "Pakistan",
+   "iata_code": "GIL"
+ },
+ {
+   "name": "Gillam",
+   "country": "Canada",
+   "iata_code": "YGX"
+ },
+ {
+   "name": "Gladstone",
+   "country": "Australia",
+   "iata_code": "GLT"
+ },
+ {
+   "name": "Glasgow, Prestwick",
+   "country": "United Kingdom",
+   "iata_code": "PIK"
+ },
+ {
+   "name": "Glasgow",
+   "country": "United Kingdom",
+   "iata_code": "GLA"
+ },
+ {
+   "name": "Glasgow (MT)",
+   "country": "USA",
+   "iata_code": "GGW"
+ },
+ {
+   "name": "Glendive (MT)",
+   "country": "USA",
+   "iata_code": "GDV"
+ },
+ {
+   "name": "Goa",
+   "country": "India",
+   "iata_code": "GOI"
+ },
+ {
+   "name": "Goiania, Santa Genoveva Airport",
+   "country": "Brazil",
+   "iata_code": "GYN"
+ },
+ {
+   "name": "Gold Coast",
+   "country": "Australia",
+   "iata_code": "OOL"
+ },
+ {
+   "name": "Goondiwindi",
+   "country": "Australia",
+   "iata_code": "GOO"
+ },
+ {
+   "name": "Goose Bay",
+   "country": "Canada",
+   "iata_code": "YYR"
+ },
+ {
+   "name": "Gorna",
+   "country": "Bulgaria",
+   "iata_code": "GOZ"
+ },
+ {
+   "name": "Gothenburg (Göteborg) - Landvetter",
+   "country": "Sweden",
+   "iata_code": "GOT"
+ },
+ {
+   "name": "Gove (Nhulunbuy)",
+   "country": "Australia",
+   "iata_code": "GOV"
+ },
+ {
+   "name": "Govenors Harbour",
+   "country": "Bahamas",
+   "iata_code": "GHB"
+ },
+ {
+   "name": "Granada",
+   "country": "Spain",
+   "iata_code": "GRX"
+ },
+ {
+   "name": "Grand Bahama International",
+   "country": "Bahamas",
+   "iata_code": "FPO"
+ },
+ {
+   "name": "Grand Canyon (AZ)",
+   "country": "USA",
+   "iata_code": "GCN"
+ },
+ {
+   "name": "Grand Cayman - Owen Roberts International",
+   "country": "Cayman Islands",
+   "iata_code": "GCM"
+ },
+ {
+   "name": "Grand Forks (ND)",
+   "country": "USA",
+   "iata_code": "GFK"
+ },
+ {
+   "name": "Grand Junction (CO)",
+   "country": "USA",
+   "iata_code": "GJT"
+ },
+ {
+   "name": "Grand Rapids (MI)",
+   "country": "USA",
+   "iata_code": "GRR"
+ },
+ {
+   "name": "Grand Rapids (MN)",
+   "country": "USA",
+   "iata_code": "GPZ"
+ },
+ {
+   "name": "Graz",
+   "country": "Austria",
+   "iata_code": "GRZ"
+ },
+ {
+   "name": "Great Falls (MT)",
+   "country": "USA",
+   "iata_code": "GTF"
+ },
+ {
+   "name": "Great Keppel Island",
+   "country": "Australia",
+   "iata_code": "GKL"
+ },
+ {
+   "name": "Green Bay (WI)",
+   "country": "USA",
+   "iata_code": "GRB"
+ },
+ {
+   "name": "Greenbrier/Lewisburg (WV)",
+   "country": "USA",
+   "iata_code": "LWB"
+ },
+ {
+   "name": "Greensboro/Winston Salem (NC)",
+   "country": "USA",
+   "iata_code": "GSO"
+ },
+ {
+   "name": "Greenville (MS)",
+   "country": "USA",
+   "iata_code": "GLH"
+ },
+ {
+   "name": "Greenville (NC)",
+   "country": "USA",
+   "iata_code": "PGV"
+ },
+ {
+   "name": "Greenville/Spartanburg (SC)",
+   "country": "USA",
+   "iata_code": "GSP"
+ },
+ {
+   "name": "Grenada - Point Salines Airport also Maurice Bishop",
+   "country": "Grenada",
+   "iata_code": "GND"
+ },
+ {
+   "name": "Grenoble",
+   "country": "France",
+   "iata_code": "GNB"
+ },
+ {
+   "name": "Griffith",
+   "country": "Australia",
+   "iata_code": "GFF"
+ },
+ {
+   "name": "Groningen - Eelde",
+   "country": "Netherlands",
+   "iata_code": "GRQ"
+ },
+ {
+   "name": "Groote Eylandt - Alyangula",
+   "country": "Australia",
+   "iata_code": "GTE"
+ },
+ {
+   "name": "Groton/New London (CT)",
+   "country": "USA",
+   "iata_code": "GON"
+ },
+ {
+   "name": "Guadalajara",
+   "country": "Mexico",
+   "iata_code": "GDL"
+ },
+ {
+   "name": "Guadalcanal",
+   "country": "Solomon Islands",
+   "iata_code": "GSI"
+ },
+ {
+   "name": "Guam",
+   "country": "Guam",
+   "iata_code": "GUM"
+ },
+ {
+   "name": "Guangzhou (Canton) - Baiyun International Airport",
+   "country": "Guangdong, PR China",
+   "iata_code": "CAN"
+ },
+ {
+   "name": "Sao Paulo - Guarulhos International",
+   "country": "Brazil",
+   "iata_code": "GRU"
+ },
+ {
+   "name": "Guatemala City - La Aurora International Airport",
+   "country": "Guatemala",
+   "iata_code": "GUA"
+ },
+ {
+   "name": "Guayaquil - Simon Bolivar",
+   "country": "Ecuador",
+   "iata_code": "GYE"
+ },
+ {
+   "name": "Guernsey",
+   "country": "Channel Islands",
+   "iata_code": "GCI"
+ },
+ {
+   "name": "Guettin",
+   "country": "Germany",
+   "iata_code": "GTI"
+ },
+ {
+   "name": "Gulfport/Biloxi (MS)",
+   "country": "USA",
+   "iata_code": "GPT"
+ },
+ {
+   "name": "Guilin - Liangjiang",
+   "country": "Guangxi, PR China",
+   "iata_code": "KWL"
+ },
+ {
+   "name": "Gulu",
+   "country": "Uganda",
+   "iata_code": "ULU"
+ },
+ {
+   "name": "Gunnison/Crested Butte (CO)",
+   "country": "USA",
+   "iata_code": "GUC"
+ },
+ {
+   "name": "Guwahati",
+   "country": "India",
+   "iata_code": "GAU"
+ },
+ {
+   "name": "Gwadar",
+   "country": "Pakistan",
+   "iata_code": "GWD"
+ },
+ {
+   "name": "Gweru",
+   "country": "Zimbabwe",
+   "iata_code": "GWE"
+ },
+ {
+   "name": "Gympie",
+   "country": "Australia",
+   "iata_code": "GYP"
+ },
+ {
+   "name": "Hachijo Jima",
+   "country": "Japan",
+   "iata_code": "HAC"
+ },
+ {
+   "name": "Hagåtña - Guam International Airport",
+   "country": "Guam",
+   "iata_code": "GUM"
+ },
+ {
+   "name": "Haifa",
+   "country": "Israel",
+   "iata_code": "HFA"
+ },
+ {
+   "name": "Haines (AK)",
+   "country": "USA",
+   "iata_code": "HNS"
+ },
+ {
+   "name": "Hakodate",
+   "country": "Japan",
+   "iata_code": "HKD"
+ },
+ {
+   "name": "Halifax International",
+   "country": "Canada",
+   "iata_code": "YHZ"
+ },
+ {
+   "name": "Hall Beach",
+   "country": "Canada",
+   "iata_code": "YUX"
+ },
+ {
+   "name": "Hamburg - Fuhlsbuettel",
+   "country": "Germany",
+   "iata_code": "HAM"
+ },
+ {
+   "name": "Hamilton",
+   "country": "Australia",
+   "iata_code": "HLT"
+ },
+ {
+   "name": "Hamilton",
+   "country": "Canada",
+   "iata_code": "YHM"
+ },
+ {
+   "name": "Hamilton",
+   "country": "New Zealand",
+   "iata_code": "HLZ"
+ },
+ {
+   "name": "Hamilton Island",
+   "country": "Australia",
+   "iata_code": "HTI"
+ },
+ {
+   "name": "Hammerfest",
+   "country": "Norway",
+   "iata_code": "HFT"
+ },
+ {
+   "name": "Hancock (MI)",
+   "country": "USA",
+   "iata_code": "CMX"
+ },
+ {
+   "name": "Hangchow (Hangzhou)",
+   "country": "Zhejiang, PR China",
+   "iata_code": "HGH"
+ },
+ {
+   "name": "Hannover",
+   "country": "Germany",
+   "iata_code": "HAJ"
+ },
+ {
+   "name": "Hanoi - Noi Bai International Airport",
+   "country": "Vietnam",
+   "iata_code": "HAN"
+ },
+ {
+   "name": "Harare - Harare International Airport",
+   "country": "Zimbabwe",
+   "iata_code": "HRE"
+ },
+ {
+   "name": "Harbin (Haerbin)",
+   "country": "Heilongjiang, PR China",
+   "iata_code": "HRB"
+ },
+ {
+   "name": "Harlingen/South Padre Island (TX)",
+   "country": "USA",
+   "iata_code": "HRL"
+ },
+ {
+   "name": "Harrington Harbour, PQ",
+   "country": "Canada",
+   "iata_code": "YHR"
+ },
+ {
+   "name": "Harrisburg (PA) - Harrisburg Skyport",
+   "country": "USA",
+   "iata_code": "HAR"
+ },
+ {
+   "name": "Harrisburg (PA) - Harrisburg International",
+   "country": "USA",
+   "iata_code": "MDT"
+ },
+ {
+   "name": "Hartford (CT) /Springfield (MA)",
+   "country": "USA",
+   "iata_code": "BDL"
+ },
+ {
+   "name": "Hatyai (Hat Yai)",
+   "country": "Thailand",
+   "iata_code": "HDY"
+ },
+ {
+   "name": "Haugesund",
+   "country": "Norway",
+   "iata_code": "HAU"
+ },
+ {
+   "name": "Havana - José Martí International",
+   "country": "Cuba",
+   "iata_code": "HAV"
+ },
+ {
+   "name": "Havre (MT)",
+   "country": "USA",
+   "iata_code": "HVR"
+ },
+ {
+   "name": "Hayman Island",
+   "country": "Australia",
+   "iata_code": "HIS"
+ },
+ {
+   "name": "Helena (MT)",
+   "country": "USA",
+   "iata_code": "HLN"
+ },
+ {
+   "name": "Helsingborg",
+   "country": "Sweden",
+   "iata_code": "JHE"
+ },
+ {
+   "name": "Helsinki - Vantaa",
+   "country": "Finland",
+   "iata_code": "HEL"
+ },
+ {
+   "name": "Heraklion",
+   "country": "Greece",
+   "iata_code": "HER"
+ },
+ {
+   "name": "Hermosillo - Gen. Pesqueira Garcia",
+   "country": "Mexico",
+   "iata_code": "HMO"
+ },
+ {
+   "name": "Hervey Bay",
+   "country": "Australia",
+   "iata_code": "HVB"
+ },
+ {
+   "name": "Hibbing (MN)",
+   "country": "USA",
+   "iata_code": "HIB"
+ },
+ {
+   "name": "Hickory (NC)",
+   "country": "USA",
+   "iata_code": "HKY"
+ },
+ {
+   "name": "Hilo (HI)",
+   "country": "USA",
+   "iata_code": "ITO"
+ },
+ {
+   "name": "Hilton Head Island (SC)",
+   "country": "USA",
+   "iata_code": "HHH"
+ },
+ {
+   "name": "Hinchinbrook Island",
+   "country": "Australia",
+   "iata_code": "HNK"
+ },
+ {
+   "name": "Hiroshima International",
+   "country": "Japan",
+   "iata_code": "HIJ"
+ },
+ {
+   "name": "Ho Chi Minh City (Saigon) - Tan Son Nhat International",
+   "country": "Viet Nam",
+   "iata_code": "SGN"
+ },
+ {
+   "name": "Hobart",
+   "country": "Australia",
+   "iata_code": "HBA"
+ },
+ {
+   "name": "Hof",
+   "country": "Germany",
+   "iata_code": "HOQ"
+ },
+ {
+   "name": "Holguin",
+   "country": "Cuba",
+   "iata_code": "HOG"
+ },
+ {
+   "name": "Home Hill",
+   "country": "Australia",
+   "iata_code": "HMH"
+ },
+ {
+   "name": "Homer (AK)",
+   "country": "USA",
+   "iata_code": "HOM"
+ },
+ {
+   "name": "Hong Kong - International Airport (HKIA)",
+   "country": "Hong Kong",
+   "iata_code": "HKG"
+ },
+ {
+   "name": "Hong Kong - Chek Lap Kok",
+   "country": "Hong Kong",
+   "iata_code": "ZJK"
+ },
+ {
+   "name": "Honiara Henderson International",
+   "country": "Solomon Islands",
+   "iata_code": "HIR"
+ },
+ {
+   "name": "Honolulu (HI) - Honolulu International Airport",
+   "country": "USA",
+   "iata_code": "HNL"
+ },
+ {
+   "name": "Hoonah (AK)",
+   "country": "USA",
+   "iata_code": "HNH"
+ },
+ {
+   "name": "Horta",
+   "country": "Portugal",
+   "iata_code": "HOR"
+ },
+ {
+   "name": "Houston (TX) , Hobby",
+   "country": "USA",
+   "iata_code": "HOU"
+ },
+ {
+   "name": "Houston, TX - George Bush Intercontinental Airport",
+   "country": "USA",
+   "iata_code": "IAH"
+ },
+ {
+   "name": "Huahine",
+   "country": "French Polynesia",
+   "iata_code": "HUH"
+ },
+ {
+   "name": "Huatulco",
+   "country": "Mexico",
+   "iata_code": "HUX"
+ },
+ {
+   "name": "Hue - Phu Bai",
+   "country": "Viet Nam",
+   "iata_code": "HUI"
+ },
+ {
+   "name": "Humberside",
+   "country": "United Kingdom",
+   "iata_code": "HUY"
+ },
+ {
+   "name": "Huntington (WV)",
+   "country": "USA",
+   "iata_code": "HTS"
+ },
+ {
+   "name": "Huntsville (AL)",
+   "country": "USA",
+   "iata_code": "HSV"
+ },
+ {
+   "name": "Hurghada International",
+   "country": "Egypt",
+   "iata_code": "HRG"
+ },
+ {
+   "name": "Huron (SD)",
+   "country": "USA",
+   "iata_code": "HON"
+ },
+ {
+   "name": "Hwange National Park",
+   "country": "Zimbabwe",
+   "iata_code": "HWN"
+ },
+ {
+   "name": "Hyannis (MA)",
+   "country": "USA",
+   "iata_code": "HYA"
+ },
+ {
+   "name": "Hydaburg (AK)",
+   "country": "USA",
+   "iata_code": "HYG"
+ },
+ {
+   "name": "Hyderabad - Rajiv Gandhi International Airport",
+   "country": "India",
+   "iata_code": "HYD"
+ },
+ {
+   "name": "Hyderabad",
+   "country": "Pakistan",
+   "iata_code": "HDD"
+ },
+ {
+   "name": "Ibiza",
+   "country": "Ibiza/Spain",
+   "iata_code": "IBZ"
+ },
+ {
+   "name": "Idaho Falls (ID)",
+   "country": "USA",
+   "iata_code": "IDA"
+ },
+ {
+   "name": "Iguazu, Cataratas",
+   "country": "Argentina",
+   "iata_code": "IGR"
+ },
+ {
+   "name": "Ile des Pins",
+   "country": "New Caledonia",
+   "iata_code": "ILP"
+ },
+ {
+   "name": "Ile Ouen",
+   "country": "New Caledonia",
+   "iata_code": "IOU"
+ },
+ {
+   "name": "Iliamna (AK)",
+   "country": "USA",
+   "iata_code": "ILI"
+ },
+ {
+   "name": "Imperial (CA)",
+   "country": "USA",
+   "iata_code": "IPL"
+ },
+ {
+   "name": "Incercargill",
+   "country": "New Zealand",
+   "iata_code": "IVC"
+ },
+ {
+   "name": "Incheon, Incheon International Airport",
+   "country": "Korea South",
+   "iata_code": "ICN"
+ },
+ {
+   "name": "Indianapolis (IN) International",
+   "country": "USA",
+   "iata_code": "IND"
+ },
+ {
+   "name": "Ingham",
+   "country": "Australia",
+   "iata_code": "IGH"
+ },
+ {
+   "name": "Innisfail",
+   "country": "Australia",
+   "iata_code": "IFL"
+ },
+ {
+   "name": "Innsbruck - Kranebitten",
+   "country": "Austria",
+   "iata_code": "INN"
+ },
+ {
+   "name": "International Falls (MN)",
+   "country": "USA",
+   "iata_code": "INL"
+ },
+ {
+   "name": "Inuvik",
+   "country": "Canada",
+   "iata_code": "YEV"
+ },
+ {
+   "name": "Invercargill",
+   "country": "New Zealand",
+   "iata_code": "IVC"
+ },
+ {
+   "name": "Inverness",
+   "country": "United Kingdom",
+   "iata_code": "INV"
+ },
+ {
+   "name": "Inykern (CA)",
+   "country": "USA",
+   "iata_code": "IYK"
+ },
+ {
+   "name": "Iqaluit (Frobisher Bay)",
+   "country": "Canada",
+   "iata_code": "YFB"
+ },
+ {
+   "name": "Iquitos",
+   "country": "Peru",
+   "iata_code": "IQT"
+ },
+ {
+   "name": "Irkutsk",
+   "country": "Russia",
+   "iata_code": "IKT"
+ },
+ {
+   "name": "Ishigaki - New Ishigaki Airport",
+   "country": "Japan",
+   "iata_code": "ISG"
+ },
+ {
+   "name": "Islamabad - Benazir Bhutto International Airport",
+   "country": "Pakistan",
+   "iata_code": "ISB"
+ },
+ {
+   "name": "Islay",
+   "country": "United Kingdom",
+   "iata_code": "ILY"
+ },
+ {
+   "name": "Isle of Man",
+   "country": "",
+   "iata_code": "IOM"
+ },
+ {
+   "name": "Istanbul - Istanbul Atatürk Airport",
+   "country": "Turkey",
+   "iata_code": "IST"
+ },
+ {
+   "name": "Istanbul - Sabiha Gokcen",
+   "country": "Turkey",
+   "iata_code": "SAW"
+ },
+ {
+   "name": "Ithaca/Cortland (NY)",
+   "country": "USA",
+   "iata_code": "ITH"
+ },
+ {
+   "name": "Ivalo",
+   "country": "Finland",
+   "iata_code": "IVL"
+ },
+ {
+   "name": "Ixtapa/Zihuatenejo",
+   "country": "Mexico",
+   "iata_code": "ZIH"
+ },
+ {
+   "name": "Izmir",
+   "country": "Turkey",
+   "iata_code": "IZM"
+ },
+ {
+   "name": "Izmir - Adnan Menderes Airport",
+   "country": "Turkey",
+   "iata_code": "ADB"
+ },
+ {
+   "name": "Jackson Hole (WY)",
+   "country": "USA",
+   "iata_code": "JAC"
+ },
+ {
+   "name": "Jackson (MI) - Reynolds Municipal",
+   "country": "USA",
+   "iata_code": "JXN"
+ },
+ {
+   "name": "Jackson,  MN",
+   "country": "USA",
+   "iata_code": "MJQ"
+ },
+ {
+   "name": "Jackson (MS) - Jackson Internationall",
+   "country": "USA",
+   "iata_code": "JAN"
+ },
+ {
+   "name": "Jackson (MS) - Hawkins Field",
+   "country": "USA",
+   "iata_code": "HKS"
+ },
+ {
+   "name": "Jackson (TN) - Mckellar",
+   "country": "USA",
+   "iata_code": "MKL"
+ },
+ {
+   "name": "Jacksonville (AR)  Little Rock AFB",
+   "country": "USA",
+   "iata_code": "LRF"
+ },
+ {
+   "name": "Jacksonville (FL) - Cecil Field NAS",
+   "country": "USA",
+   "iata_code": "NZC"
+ },
+ {
+   "name": "Jacksonville (FL) Jacksonville NAS",
+   "country": "USA",
+   "iata_code": "NIP"
+ },
+ {
+   "name": "Jacksonville (FL) - International",
+   "country": "USA",
+   "iata_code": "JAX"
+ },
+ {
+   "name": "Jacksonville (FL) - Craig Municipal",
+   "country": "USA",
+   "iata_code": "CRG"
+ },
+ {
+   "name": "Jacksonville (IL) - Municipal Airport",
+   "country": "USA",
+   "iata_code": "IJX"
+ },
+ {
+   "name": "Jacksonville (NC)",
+   "country": "USA",
+   "iata_code": "OAJ"
+ },
+ {
+   "name": "Jacksonville (TX)",
+   "country": "USA",
+   "iata_code": "JKV"
+ },
+ {
+   "name": "Jacmel",
+   "country": "Haiti",
+   "iata_code": "JAK"
+ },
+ {
+   "name": "Jacobabad",
+   "country": "Pakistan",
+   "iata_code": "JAG"
+ },
+ {
+   "name": "Jacobina",
+   "country": "Brazil",
+   "iata_code": "JCM"
+ },
+ {
+   "name": "Jacquinot Bay",
+   "country": "Papua New Guinea",
+   "iata_code": "JAQ"
+ },
+ {
+   "name": "Jaffna - Kankesanturai",
+   "country": "Sri Lanka",
+   "iata_code": "JAF"
+ },
+ {
+   "name": "Jagdalpur",
+   "country": "India",
+   "iata_code": "JGB"
+ },
+ {
+   "name": "Jaipur - Sanganeer",
+   "country": "India",
+   "iata_code": "JAI"
+ },
+ {
+   "name": "Jaisalmer",
+   "country": "India",
+   "iata_code": "JSA"
+ },
+ {
+   "name": "Jakarta - Halim Perdana Kusuma",
+   "country": "Indonesia",
+   "iata_code": "HLP"
+ },
+ {
+   "name": "Jakarta - Metropolitan Area",
+   "country": "Indonesia",
+   "iata_code": "JKT"
+ },
+ {
+   "name": "Jakarta - Soekarno-Hatta International",
+   "country": "Indonesia",
+   "iata_code": "CGK"
+ },
+ {
+   "name": "Jalalabad",
+   "country": "Afghanistan",
+   "iata_code": "JAA"
+ },
+ {
+   "name": "Jalandhar",
+   "country": "India",
+   "iata_code": "JLR"
+ },
+ {
+   "name": "Jalapa",
+   "country": "Mexico",
+   "iata_code": "JAL"
+ },
+ {
+   "name": "Jales",
+   "country": "Brazil",
+   "iata_code": "JLS"
+ },
+ {
+   "name": "Jaluit Island",
+   "country": "Marshall Islands",
+   "iata_code": "UIT"
+ },
+ {
+   "name": "Jamba",
+   "country": "Angola",
+   "iata_code": "JMB"
+ },
+ {
+   "name": "Jambi - Sultan Taha Syarifudn",
+   "country": "Indonesia",
+   "iata_code": "DJB"
+ },
+ {
+   "name": "Jambol",
+   "country": "Bulgaria",
+   "iata_code": "JAM"
+ },
+ {
+   "name": "Jamestown (ND)",
+   "country": "USA",
+   "iata_code": "JMS"
+ },
+ {
+   "name": "Jamestown (NY)",
+   "country": "USA",
+   "iata_code": "JHW"
+ },
+ {
+   "name": "Jammu - Satwari",
+   "country": "India",
+   "iata_code": "IXJ"
+ },
+ {
+   "name": "Jamnagar - Govardhanpur",
+   "country": "India",
+   "iata_code": "JGA"
+ },
+ {
+   "name": "Jamshedpur - Sonari Airport",
+   "country": "India",
+   "iata_code": "IXW"
+ },
+ {
+   "name": "Janakpur",
+   "country": "Nepal",
+   "iata_code": "JKR"
+ },
+ {
+   "name": "Jandakot",
+   "country": "Australia",
+   "iata_code": "JAD"
+ },
+ {
+   "name": "Janesville (WI) - Rock County",
+   "country": "USA",
+   "iata_code": "JVL"
+ },
+ {
+   "name": "Januaria",
+   "country": "Brazil",
+   "iata_code": "JNA"
+ },
+ {
+   "name": "Jaque",
+   "country": "Panama",
+   "iata_code": "JQE"
+ },
+ {
+   "name": "Jatai",
+   "country": "Brazil",
+   "iata_code": "JTI"
+ },
+ {
+   "name": "Jauja",
+   "country": "Peru",
+   "iata_code": "JAU"
+ },
+ {
+   "name": "Jayapura - Sentani",
+   "country": "Indonesia",
+   "iata_code": "DJJ"
+ },
+ {
+   "name": "Jeddah - King Abdulaziz International",
+   "country": "Saudi Arabia",
+   "iata_code": "JED"
+ },
+ {
+   "name": "Jefferson City (MO) - Jefferson Memorial",
+   "country": "USA",
+   "iata_code": "JEF"
+ },
+ {
+   "name": "Jeremie - Jeremie Airport",
+   "country": "Haiti",
+   "iata_code": "JEE"
+ },
+ {
+   "name": "Jerez de la Frontera/Cadiz - La Parra",
+   "country": "Spain",
+   "iata_code": "XRY"
+ },
+ {
+   "name": "Jersey",
+   "country": "Channel Islands",
+   "iata_code": "JER"
+ },
+ {
+   "name": "Jerusalem - Atarot Airport (closed)",
+   "country": "Israel",
+   "iata_code": "JRS"
+ },
+ {
+   "name": "Jessore - Jessore Airport",
+   "country": "Bangladesh",
+   "iata_code": "JSR"
+ },
+ {
+   "name": "Jeypore - Jeypore Airport",
+   "country": "India",
+   "iata_code": "PYB"
+ },
+ {
+   "name": "Ji'an",
+   "country": "Jiangxi, China",
+   "iata_code": "JGS"
+ },
+ {
+   "name": "Jiamusi - Jiamusi Airport",
+   "country": "PR China",
+   "iata_code": "JMU"
+ },
+ {
+   "name": "Jiayuguan - Jiayuguan Airport",
+   "country": "PR China",
+   "iata_code": "JGN"
+ },
+ {
+   "name": "Jijel",
+   "country": "Algeria",
+   "iata_code": "GJL"
+ },
+ {
+   "name": "Jijiga",
+   "country": "Ethiopia",
+   "iata_code": "JIJ"
+ },
+ {
+   "name": "Jilin",
+   "country": "PR China",
+   "iata_code": "JIL"
+ },
+ {
+   "name": "Jimma",
+   "country": "Ethiopia",
+   "iata_code": "JIM"
+ },
+ {
+   "name": "Jinan",
+   "country": "Shandong, PR China",
+   "iata_code": "TNA"
+ },
+ {
+   "name": "Jingdezhen",
+   "country": "PR China",
+   "iata_code": "JDZ"
+ },
+ {
+   "name": "Jinghong - Gasa Airport",
+   "country": "PR China",
+   "iata_code": "JHG"
+ },
+ {
+   "name": "Jining",
+   "country": "PR China",
+   "iata_code": "JNG"
+ },
+ {
+   "name": "Jinja",
+   "country": "Uganda",
+   "iata_code": "JIN"
+ },
+ {
+   "name": "Jinjiang",
+   "country": "PR China",
+   "iata_code": "JJN"
+ },
+ {
+   "name": "Jinka - Baco/Jinka Airport",
+   "country": "Ethiopia",
+   "iata_code": "BCO"
+ },
+ {
+   "name": "Jinzhou - Jinzhou Airport",
+   "country": "PR China",
+   "iata_code": "JNZ"
+ },
+ {
+   "name": "Jipijapa",
+   "country": "Ecuador",
+   "iata_code": "JIP"
+ },
+ {
+   "name": "Jiri",
+   "country": "Nepal",
+   "iata_code": "JIR"
+ },
+ {
+   "name": "Jiujiang - Jiujiang Lushan Airport",
+   "country": "PR China",
+   "iata_code": "JIU"
+ },
+ {
+   "name": "Jiwani",
+   "country": "Pakistan",
+   "iata_code": "JIW"
+ },
+ {
+   "name": "Joacaba",
+   "country": "Brazil",
+   "iata_code": "JCB"
+ },
+ {
+   "name": "Joao Pessoa - Castro Pinto Airport",
+   "country": "Brazil",
+   "iata_code": "JPA"
+ },
+ {
+   "name": "Jodhpur",
+   "country": "India",
+   "iata_code": "JDH"
+ },
+ {
+   "name": "Jönköping (Jonkoping) - Axamo Airport",
+   "country": "Sweden",
+   "iata_code": "JKG"
+ },
+ {
+   "name": "Joensuu",
+   "country": "Finland",
+   "iata_code": "JOE"
+ },
+ {
+   "name": "Johannesburg - OR Tambo International Airport",
+   "country": "South Africa",
+   "iata_code": "JNB"
+ },
+ {
+   "name": "Johnson City (NY) - Binghamton/Endicott/Johnson",
+   "country": "USA",
+   "iata_code": "BGM"
+ },
+ {
+   "name": "Johnston Island",
+   "country": "USA",
+   "iata_code": "JON"
+ },
+ {
+   "name": "Johnstown (PA)",
+   "country": "USA",
+   "iata_code": "JST"
+ },
+ {
+   "name": "Johor Bahru - Sultan Ismail International",
+   "country": "Malaysia",
+   "iata_code": "JHB"
+ },
+ {
+   "name": "Joinville - Cubatao Airport",
+   "country": "Brazil",
+   "iata_code": "JOI"
+ },
+ {
+   "name": "Jolo",
+   "country": "Philippines",
+   "iata_code": "JOL"
+ },
+ {
+   "name": "Jomsom",
+   "country": "Nepal",
+   "iata_code": "JMO"
+ },
+ {
+   "name": "Jonesboro (AR)  Jonesboro Airport",
+   "country": "USA",
+   "iata_code": "JBR"
+ },
+ {
+   "name": "Joplin (MO)",
+   "country": "USA",
+   "iata_code": "JLN"
+ },
+ {
+   "name": "Jorhat - Rowriah Airport",
+   "country": "India",
+   "iata_code": "JRH"
+ },
+ {
+   "name": "Jos",
+   "country": "Nigeria",
+   "iata_code": "JOS"
+ },
+ {
+   "name": "Jose De San Martin",
+   "country": "Argentina",
+   "iata_code": "JSM"
+ },
+ {
+   "name": "Jouf",
+   "country": "Saudi Arabia",
+   "iata_code": "AJF"
+ },
+ {
+   "name": "Juanjui",
+   "country": "Peru",
+   "iata_code": "JJI"
+ },
+ {
+   "name": "Juba",
+   "country": "South Sudan",
+   "iata_code": "JUB"
+ },
+ {
+   "name": "Juist (island)",
+   "country": "Germany",
+   "iata_code": "JUI"
+ },
+ {
+   "name": "Juiz De Fora - Francisco De Assis Airport",
+   "country": "Brazil",
+   "iata_code": "JDF"
+ },
+ {
+   "name": "Jujuy - El Cadillal Airport",
+   "country": "Argentina",
+   "iata_code": "JUJ"
+ },
+ {
+   "name": "Julia Creek",
+   "country": "Australia",
+   "iata_code": "JCK"
+ },
+ {
+   "name": "Juliaca",
+   "country": "Peru",
+   "iata_code": "JUL"
+ },
+ {
+   "name": "Jumla",
+   "country": "Nepal",
+   "iata_code": "JUM"
+ },
+ {
+   "name": "Jundah",
+   "country": "Australia",
+   "iata_code": "JUN"
+ },
+ {
+   "name": "Juneau (AK) - Juneau International Airport",
+   "country": "USA",
+   "iata_code": "JNU"
+ },
+ {
+   "name": "Junin",
+   "country": "Argentina",
+   "iata_code": "JNI"
+ },
+ {
+   "name": "Juticalpa",
+   "country": "Honduras",
+   "iata_code": "JUT"
+ },
+ {
+   "name": "Jwaneng",
+   "country": "Botswana",
+   "iata_code": "JWA"
+ },
+ {
+   "name": "Jyväskylä (Jyvaskyla)",
+   "country": "Finland",
+   "iata_code": "JYV"
+ },
+ {
+   "name": "Kabul - Khwaja Rawash Airport",
+   "country": "Afghanistan",
+   "iata_code": "KBL"
+ },
+ {
+   "name": "Kagoshima",
+   "country": "Japan",
+   "iata_code": "KOJ"
+ },
+ {
+   "name": "Kahramanmaras",
+   "country": "Turkey",
+   "iata_code": "KCM"
+ },
+ {
+   "name": "Kahului (HI)",
+   "country": "USA",
+   "iata_code": "OGG"
+ },
+ {
+   "name": "Kajaani",
+   "country": "Finland",
+   "iata_code": "KAJ"
+ },
+ {
+   "name": "Kalamata",
+   "country": "Greece",
+   "iata_code": "KLX"
+ },
+ {
+   "name": "Kalamazoo/Battle Creek (MI)",
+   "country": "USA",
+   "iata_code": "AZO"
+ },
+ {
+   "name": "Kalgoorlie",
+   "country": "Australia",
+   "iata_code": "KGI"
+ },
+ {
+   "name": "Kaliningrad",
+   "country": "Russia",
+   "iata_code": "KGD"
+ },
+ {
+   "name": "Kalispell (MT)",
+   "country": "USA",
+   "iata_code": "FCA"
+ },
+ {
+   "name": "Kalmar",
+   "country": "Sweden",
+   "iata_code": "KLR"
+ },
+ {
+   "name": "Kamloops, BC",
+   "country": "Canada",
+   "iata_code": "YKA"
+ },
+ {
+   "name": "Kamuela (HI)",
+   "country": "USA",
+   "iata_code": "MUE"
+ },
+ {
+   "name": "Kano",
+   "country": "Nigeria",
+   "iata_code": "KAN"
+ },
+ {
+   "name": "Kanpur",
+   "country": "India",
+   "iata_code": "KNU"
+ },
+ {
+   "name": "Kansas City (MO) - Kansas City International Airport",
+   "country": "USA",
+   "iata_code": "MCI"
+ },
+ {
+   "name": "Kaohsiung International",
+   "country": "Taiwan",
+   "iata_code": "KHH"
+ },
+ {
+   "name": "Kapalua West (HI)",
+   "country": "USA",
+   "iata_code": "JHM"
+ },
+ {
+   "name": "Karachi - Jinnah International Airport",
+   "country": "Pakistan",
+   "iata_code": "KHI"
+ },
+ {
+   "name": "Karlsruhe-Baden - Soellingen",
+   "country": "Germany",
+   "iata_code": "FKB"
+ },
+ {
+   "name": "Karlstad",
+   "country": "Sweden",
+   "iata_code": "KSD"
+ },
+ {
+   "name": "Karpathos",
+   "country": "Greece",
+   "iata_code": "AOK"
+ },
+ {
+   "name": "Karratha",
+   "country": "Australia",
+   "iata_code": "KTA"
+ },
+ {
+   "name": "Kars",
+   "country": "Turkey",
+   "iata_code": "KYS"
+ },
+ {
+   "name": "Karumba",
+   "country": "Australia",
+   "iata_code": "KRB"
+ },
+ {
+   "name": "Karup",
+   "country": "Denmark",
+   "iata_code": "KRP"
+ },
+ {
+   "name": "Kaschechawan, PQ",
+   "country": "Canada",
+   "iata_code": "ZKE"
+ },
+ {
+   "name": "Kassala",
+   "country": "Sudan",
+   "iata_code": "KSL"
+ },
+ {
+   "name": "Katherine",
+   "country": "Australia",
+   "iata_code": "KTR"
+ },
+ {
+   "name": "Kathmandu - Tribhuvan International Airport",
+   "country": "Nepal",
+   "iata_code": "KTM"
+ },
+ {
+   "name": "Katima Mulilo/Mpacha",
+   "country": "Namibia",
+   "iata_code": "MPA"
+ },
+ {
+   "name": "Kauhajoki",
+   "country": "Finland",
+   "iata_code": "KHJ"
+ },
+ {
+   "name": "Kaunakakai (HI)",
+   "country": "USA",
+   "iata_code": "MKK"
+ },
+ {
+   "name": "Kavalla",
+   "country": "Greece",
+   "iata_code": "KVA"
+ },
+ {
+   "name": "Kayseri",
+   "country": "Turkey",
+   "iata_code": "ASR"
+ },
+ {
+   "name": "Kazan - Kazan International Airport",
+   "country": "Russia",
+   "iata_code": "KZN"
+ },
+ {
+   "name": "Keetmanshoop",
+   "country": "Namibia",
+   "iata_code": "KMP"
+ },
+ {
+   "name": "Kelowna, BC",
+   "country": "Canada",
+   "iata_code": "YLW"
+ },
+ {
+   "name": "Kemi/Tornio",
+   "country": "Finland",
+   "iata_code": "KEM"
+ },
+ {
+   "name": "Kenai (AK)",
+   "country": "USA",
+   "iata_code": "ENA"
+ },
+ {
+   "name": "Kent (Manston) Kent International",
+   "country": "United Kingdom",
+   "iata_code": "MSE"
+ },
+ {
+   "name": "Kerry County",
+   "country": "Ireland",
+   "iata_code": "KIR"
+ },
+ {
+   "name": "Ketchikan (AK)",
+   "country": "USA",
+   "iata_code": "KTN"
+ },
+ {
+   "name": "Key West (FL)",
+   "country": "USA",
+   "iata_code": "EYW"
+ },
+ {
+   "name": "Khamis Mushayat",
+   "country": "Saudi Arabia",
+   "iata_code": "AHB"
+ },
+ {
+   "name": "Kharga - New Valley",
+   "country": "Egypt",
+   "iata_code": "UVL"
+ },
+ {
+   "name": "Kharkov",
+   "country": "Ukraine",
+   "iata_code": "HRK"
+ },
+ {
+   "name": "Khartoum - Khartoum International Airport",
+   "country": "Sudan",
+   "iata_code": "KRT"
+ },
+ {
+   "name": "Khuzdar",
+   "country": "Pakistan",
+   "iata_code": "KDD"
+ },
+ {
+   "name": "Kiel - Holtenau",
+   "country": "Germany",
+   "iata_code": "KEL"
+ },
+ {
+   "name": "Kiev - Borispol",
+   "country": "Ukraine",
+   "iata_code": "KBP"
+ },
+ {
+   "name": "Kiev - Zhulhany",
+   "country": "Ukraine",
+   "iata_code": "IEV"
+ },
+ {
+   "name": "Kigali - Gregoire Kayibanda",
+   "country": "Rwanda",
+   "iata_code": "KGL"
+ },
+ {
+   "name": "Kilimadjaro",
+   "country": "Tanzania",
+   "iata_code": "JRO"
+ },
+ {
+   "name": "Killeem (TX)",
+   "country": "USA",
+   "iata_code": "ILE"
+ },
+ {
+   "name": "Kimberley",
+   "country": "South Africa",
+   "iata_code": "KIM"
+ },
+ {
+   "name": "King Island",
+   "country": "King Island (Australia)",
+   "iata_code": "KNS"
+ },
+ {
+   "name": "King Salomon (AK)",
+   "country": "USA",
+   "iata_code": "AKN"
+ },
+ {
+   "name": "Kingscote",
+   "country": "Australia",
+   "iata_code": "KGC"
+ },
+ {
+   "name": "Kingston - Norman Manley",
+   "country": "Jamaica",
+   "iata_code": "KIN"
+ },
+ {
+   "name": "Kingston (NC)",
+   "country": "USA",
+   "iata_code": "ISO"
+ },
+ {
+   "name": "Kingstown - E. T. Joshua Airport",
+   "country": "Saint Vincent & the Grenadines",
+   "iata_code": "SVD"
+ },
+ {
+   "name": "Kinshasa - N'Djili",
+   "country": "Congo (DRC)",
+   "iata_code": "FIH"
+ },
+ {
+   "name": "Kiritimati (island) - Cassidy International Airport",
+   "country": "Kiribati",
+   "iata_code": "CXI"
+ },
+ {
+   "name": "Kirkenes",
+   "country": "Norway",
+   "iata_code": "KKN"
+ },
+ {
+   "name": "Kirkuk",
+   "country": "Iraq",
+   "iata_code": "KIK"
+ },
+ {
+   "name": "Kirkwall (Orkney)",
+   "country": "United Kingdom",
+   "iata_code": "KOI"
+ },
+ {
+   "name": "Kiruna",
+   "country": "Sweden",
+   "iata_code": "KRN"
+ },
+ {
+   "name": "Kisangani",
+   "country": "Congo (DRC)",
+   "iata_code": "FKI"
+ },
+ {
+   "name": "Kittilä",
+   "country": "Finland",
+   "iata_code": "KTT"
+ },
+ {
+   "name": "Kitwe",
+   "country": "Zambia",
+   "iata_code": "KIW"
+ },
+ {
+   "name": "Klagenfurt",
+   "country": "Austria",
+   "iata_code": "KLU"
+ },
+ {
+   "name": "Klamath Fall (OR)",
+   "country": "USA",
+   "iata_code": "LMT"
+ },
+ {
+   "name": "Klawock (AK)",
+   "country": "USA",
+   "iata_code": "KLW"
+ },
+ {
+   "name": "Kleinsee",
+   "country": "South Africa",
+   "iata_code": "KLZ"
+ },
+ {
+   "name": "Knock",
+   "country": "Ireland",
+   "iata_code": "NOC"
+ },
+ {
+   "name": "Knoxville (TN)",
+   "country": "USA",
+   "iata_code": "TYS"
+ },
+ {
+   "name": "Kobe",
+   "country": "Japan",
+   "iata_code": "UKB"
+ },
+ {
+   "name": "Kochi",
+   "country": "Japan",
+   "iata_code": "KCZ"
+ },
+ {
+   "name": "Köln, Köln/Bonn",
+   "country": "Germany",
+   "iata_code": "CGN"
+ },
+ {
+   "name": "Kodiak (AK)",
+   "country": "USA",
+   "iata_code": "ADQ"
+ },
+ {
+   "name": "Kohat",
+   "country": "Pakistan",
+   "iata_code": "OHT"
+ },
+ {
+   "name": "Kokkola/Pietarsaari",
+   "country": "Finland",
+   "iata_code": "KOK"
+ },
+ {
+   "name": "Kolkata (Calcutta) - Netaji Subhas Chandra",
+   "country": "India",
+   "iata_code": "CCU"
+ },
+ {
+   "name": "Komatsu",
+   "country": "Japan",
+   "iata_code": "KMQ"
+ },
+ {
+   "name": "Kona (HI)",
+   "country": "USA",
+   "iata_code": "KOA"
+ },
+ {
+   "name": "Konya",
+   "country": "Turkey",
+   "iata_code": "KYA"
+ },
+ {
+   "name": "Korhogo",
+   "country": "Cote d'Ivoire",
+   "iata_code": "HGO"
+ },
+ {
+   "name": "Kos",
+   "country": "Greece",
+   "iata_code": "KGS"
+ },
+ {
+   "name": "Kota Kinabalu",
+   "country": "Malaysia",
+   "iata_code": "BKI"
+ },
+ {
+   "name": "Kotzbue (AK)",
+   "country": "USA",
+   "iata_code": "OTZ"
+ },
+ {
+   "name": "Kowanyama",
+   "country": "Australia",
+   "iata_code": "KWM"
+ },
+ {
+   "name": "Krakow (Cracow) - John Paul II International Airport",
+   "country": "Poland",
+   "iata_code": "KRK"
+ },
+ {
+   "name": "Kristiansand",
+   "country": "Norway",
+   "iata_code": "KRS"
+ },
+ {
+   "name": "Kristianstad",
+   "country": "Sweden",
+   "iata_code": "KID"
+ },
+ {
+   "name": "Kristiansund",
+   "country": "Norway",
+   "iata_code": "KSU"
+ },
+ {
+   "name": "Kuala Lumpur - International Airport",
+   "country": "Malaysia",
+   "iata_code": "KUL"
+ },
+ {
+   "name": "Kuala Lumpur - Sultan Abdul Aziz Shah",
+   "country": "Malaysia",
+   "iata_code": "SZB"
+ },
+ {
+   "name": "Kuantan",
+   "country": "Malaysia",
+   "iata_code": "KUA"
+ },
+ {
+   "name": "Kuching",
+   "country": "Malaysia",
+   "iata_code": "KCH"
+ },
+ {
+   "name": "Kumamoto",
+   "country": "Japan",
+   "iata_code": "KMJ"
+ },
+ {
+   "name": "Kununurra",
+   "country": "Australia",
+   "iata_code": "KNX"
+ },
+ {
+   "name": "Kuopio",
+   "country": "Finland",
+   "iata_code": "KUO"
+ },
+ {
+   "name": "Kushiro",
+   "country": "Japan",
+   "iata_code": "KUH"
+ },
+ {
+   "name": "Kuujjuaq (FortChimo)",
+   "country": "Canada",
+   "iata_code": "YVP"
+ },
+ {
+   "name": "Kuujjuarapik",
+   "country": "Canada",
+   "iata_code": "YGW"
+ },
+ {
+   "name": "Kuusamo",
+   "country": "Finland",
+   "iata_code": "KAO"
+ },
+ {
+   "name": "Kuwait - Kuwait International",
+   "country": "Kuwait",
+   "iata_code": "KWI"
+ },
+ {
+   "name": "Kyoto",
+   "country": "Japan",
+   "iata_code": "UKY"
+ },
+ {
+   "name": "Labe",
+   "country": "Guinea",
+   "iata_code": "LEK"
+ },
+ {
+   "name": "Labouchere Bay (AK)",
+   "country": "USA",
+   "iata_code": "WLB"
+ },
+ {
+   "name": "Labuan",
+   "country": "Malaysia",
+   "iata_code": "LBU"
+ },
+ {
+   "name": "Lac Brochet, MB",
+   "country": "Canada",
+   "iata_code": "XLB"
+ },
+ {
+   "name": "La Coruna",
+   "country": "Spain",
+   "iata_code": "LCG"
+ },
+ {
+   "name": "La Crosse (WI)",
+   "country": "USA",
+   "iata_code": "LSE"
+ },
+ {
+   "name": "Lae - Lae Nadzab Airport",
+   "country": "Papua New Guinea",
+   "iata_code": "LAE"
+ },
+ {
+   "name": "La Rochelle",
+   "country": "France",
+   "iata_code": "LRH"
+ },
+ {
+   "name": "Lafayette (IN)",
+   "country": "USA",
+   "iata_code": "LAF"
+ },
+ {
+   "name": "Lafayette, La",
+   "country": "USA",
+   "iata_code": "LFT"
+ },
+ {
+   "name": "Lagos - Murtala Muhammed Airport",
+   "country": "Nigeria",
+   "iata_code": "LOS"
+ },
+ {
+   "name": "La Grande",
+   "country": "Canada",
+   "iata_code": "YGL"
+ },
+ {
+   "name": "Lahore",
+   "country": "Pakistan",
+   "iata_code": "LHE"
+ },
+ {
+   "name": "Lake Charles (LA)",
+   "country": "USA",
+   "iata_code": "LCH"
+ },
+ {
+   "name": "Lake Havasu City (AZ)",
+   "country": "USA",
+   "iata_code": "HII"
+ },
+ {
+   "name": "Lake Tahoe (CA)",
+   "country": "USA",
+   "iata_code": "TVL"
+ },
+ {
+   "name": "Lakselv",
+   "country": "Norway",
+   "iata_code": "LKL"
+ },
+ {
+   "name": "Lambarene",
+   "country": "Gabon",
+   "iata_code": "LBQ"
+ },
+ {
+   "name": "Lamezia Terme",
+   "country": "Italy",
+   "iata_code": "SUF"
+ },
+ {
+   "name": "Lampedusa",
+   "country": "Italy",
+   "iata_code": "LMP"
+ },
+ {
+   "name": "Lanai City (HI)",
+   "country": "USA",
+   "iata_code": "LNY"
+ },
+ {
+   "name": "Lancaster (PA)",
+   "country": "USA",
+   "iata_code": "LNS"
+ },
+ {
+   "name": "Land's End",
+   "country": "United Kingdom",
+   "iata_code": "LEQ"
+ },
+ {
+   "name": "Langkawi (islands)",
+   "country": "Malaysia",
+   "iata_code": "LGK"
+ },
+ {
+   "name": "Lannion",
+   "country": "France",
+   "iata_code": "LAI"
+ },
+ {
+   "name": "Lanseria",
+   "country": "South Africa",
+   "iata_code": "HLA"
+ },
+ {
+   "name": "Lansing (MI)",
+   "country": "USA",
+   "iata_code": "LAN"
+ },
+ {
+   "name": "La Paz - El Alto",
+   "country": "Bolivia",
+   "iata_code": "LPB"
+ },
+ {
+   "name": "La Paz - Leon",
+   "country": "Mexico",
+   "iata_code": "LAP"
+ },
+ {
+   "name": "Lappeenranta",
+   "country": "Finland",
+   "iata_code": "LPP"
+ },
+ {
+   "name": "Laramie (WY)",
+   "country": "USA",
+   "iata_code": "LAR"
+ },
+ {
+   "name": "Laredo (TX)",
+   "country": "USA",
+   "iata_code": "LRD"
+ },
+ {
+   "name": "Larnaca",
+   "country": "Cyprus",
+   "iata_code": "LCA"
+ },
+ {
+   "name": "Las Palmas",
+   "country": "Spain",
+   "iata_code": "LPA"
+ },
+ {
+   "name": "Las Vegas (NV)",
+   "country": "USA",
+   "iata_code": "LAS"
+ },
+ {
+   "name": "Latrobe (PA)",
+   "country": "USA",
+   "iata_code": "LBE"
+ },
+ {
+   "name": "Launceston",
+   "country": "Australia",
+   "iata_code": "LST"
+ },
+ {
+   "name": "Laurel/Hattisburg (MS)",
+   "country": "USA",
+   "iata_code": "PIB"
+ },
+ {
+   "name": "Laverton",
+   "country": "Australia",
+   "iata_code": "LVO"
+ },
+ {
+   "name": "Lawton (OK)",
+   "country": "USA",
+   "iata_code": "LAW"
+ },
+ {
+   "name": "Lazaro Cardenas",
+   "country": "Mexico",
+   "iata_code": "LZC"
+ },
+ {
+   "name": "Leaf Rapids",
+   "country": "Canada",
+   "iata_code": "YLR"
+ },
+ {
+   "name": "Learmouth (Exmouth)",
+   "country": "Australia",
+   "iata_code": "LEA"
+ },
+ {
+   "name": "Lebanon (NH)",
+   "country": "USA",
+   "iata_code": "LEB"
+ },
+ {
+   "name": "Leeds/Bradford",
+   "country": "United Kingdom",
+   "iata_code": "LBA"
+ },
+ {
+   "name": "Leinster",
+   "country": "Australia",
+   "iata_code": "LER"
+ },
+ {
+   "name": "Leipzig",
+   "country": "Germany",
+   "iata_code": "LEJ"
+ },
+ {
+   "name": "Lelystad",
+   "country": "Netherlands",
+   "iata_code": "LEY"
+ },
+ {
+   "name": "Leon",
+   "country": "Mexico",
+   "iata_code": "BJX"
+ },
+ {
+   "name": "Leonora",
+   "country": "Australia",
+   "iata_code": "LNO"
+ },
+ {
+   "name": "Lerwick/Tingwall (Shetland Islands)",
+   "country": "United Kingdom",
+   "iata_code": "LWK"
+ },
+ {
+   "name": "Lewiston (ID)",
+   "country": "USA",
+   "iata_code": "LWS"
+ },
+ {
+   "name": "Lewistown (MT)",
+   "country": "USA",
+   "iata_code": "LWT"
+ },
+ {
+   "name": "Lexington (KY)",
+   "country": "USA",
+   "iata_code": "LEX"
+ },
+ {
+   "name": "Libreville",
+   "country": "Gabon",
+   "iata_code": "LBV"
+ },
+ {
+   "name": "Lidkoeping",
+   "country": "Sweden",
+   "iata_code": "LDK"
+ },
+ {
+   "name": "Liege",
+   "country": "Belgium",
+   "iata_code": "LGG"
+ },
+ {
+   "name": "Lifou",
+   "country": "Loyaute, Pazifik",
+   "iata_code": "LIF"
+ },
+ {
+   "name": "Lihue (HI)",
+   "country": "USA",
+   "iata_code": "LIH"
+ },
+ {
+   "name": "Lille - Lille Airport",
+   "country": "France",
+   "iata_code": "LIL"
+ },
+ {
+   "name": "Lilongwe - Lilongwe International",
+   "country": "Malawi",
+   "iata_code": "LLW"
+ },
+ {
+   "name": "Lima - J Chavez International",
+   "country": "Peru",
+   "iata_code": "LIM"
+ },
+ {
+   "name": "Limassol",
+   "country": "Cyprus",
+   "iata_code": "QLI"
+ },
+ {
+   "name": "Limoges",
+   "country": "France",
+   "iata_code": "LIG"
+ },
+ {
+   "name": "Lincoln (NE)",
+   "country": "USA",
+   "iata_code": "LNK"
+ },
+ {
+   "name": "Lindeman Island",
+   "country": "Australia",
+   "iata_code": "LDC"
+ },
+ {
+   "name": "Linz - Hoersching",
+   "country": "Austria",
+   "iata_code": "LNZ"
+ },
+ {
+   "name": "Lisala",
+   "country": "Congo (DRC)",
+   "iata_code": "LIQ"
+ },
+ {
+   "name": "Lisbon - Lisboa",
+   "country": "Portugal",
+   "iata_code": "LIS"
+ },
+ {
+   "name": "Lismore",
+   "country": "Australia",
+   "iata_code": "LSY"
+ },
+ {
+   "name": "Little Rock (AR)",
+   "country": "USA",
+   "iata_code": "LIT"
+ },
+ {
+   "name": "Liverpool",
+   "country": "United Kingdom",
+   "iata_code": "LPL"
+ },
+ {
+   "name": "Lizard Island",
+   "country": "Australia",
+   "iata_code": "LZR"
+ },
+ {
+   "name": "Ljubljana - Brnik",
+   "country": "Slovenia",
+   "iata_code": "LJU"
+ },
+ {
+   "name": "Lockhart River",
+   "country": "Australia",
+   "iata_code": "IRG"
+ },
+ {
+   "name": "Lome",
+   "country": "Togo",
+   "iata_code": "LFW"
+ },
+ {
+   "name": "London",
+   "country": "Canada",
+   "iata_code": "YXU"
+ },
+ {
+   "name": "London Metropolitan Area",
+   "country": "United Kingdom",
+   "iata_code": "LON"
+ },
+ {
+   "name": "London - City Airport",
+   "country": "United Kingdom",
+   "iata_code": "LCY"
+ },
+ {
+   "name": "London - Gatwick",
+   "country": "United Kingdom",
+   "iata_code": "LGW"
+ },
+ {
+   "name": "London - Heathrow",
+   "country": "United Kingdom",
+   "iata_code": "LHR"
+ },
+ {
+   "name": "London - Luton",
+   "country": "United Kingdom",
+   "iata_code": "LTN"
+ },
+ {
+   "name": "London - Stansted",
+   "country": "United Kingdom",
+   "iata_code": "STN"
+ },
+ {
+   "name": "Londonderry - Eglinton",
+   "country": "United Kingdom",
+   "iata_code": "LDY"
+ },
+ {
+   "name": "Long Beach (CA)",
+   "country": "USA",
+   "iata_code": "LGB"
+ },
+ {
+   "name": "Long Island (AK)",
+   "country": "USA",
+   "iata_code": "LIJ"
+ },
+ {
+   "name": "Long Island, Islip (NY) - Mac Arthur",
+   "country": "USA",
+   "iata_code": "ISP"
+ },
+ {
+   "name": "Longreach",
+   "country": "Australia",
+   "iata_code": "LRE"
+ },
+ {
+   "name": "Longview/Kilgore (TX)",
+   "country": "USA",
+   "iata_code": "GGG"
+ },
+ {
+   "name": "Longyearbyen - Svalbard",
+   "country": "Svalbard/Norway",
+   "iata_code": "LYR"
+ },
+ {
+   "name": "Loreto",
+   "country": "Mexico",
+   "iata_code": "LTO"
+ },
+ {
+   "name": "Lorient",
+   "country": "France",
+   "iata_code": "LRT"
+ },
+ {
+   "name": "Los Angeles (CA) - International",
+   "country": "USA",
+   "iata_code": "LAX"
+ },
+ {
+   "name": "Los Cabos",
+   "country": "Mexico",
+   "iata_code": "SJD"
+ },
+ {
+   "name": "Los Mochis",
+   "country": "Mexico",
+   "iata_code": "LMM"
+ },
+ {
+   "name": "Los Rodeos",
+   "country": "Teneriffa/Spain",
+   "iata_code": "TFN"
+ },
+ {
+   "name": "Losinj - Losinj Arpt",
+   "country": "Croatia (Hrvatska)",
+   "iata_code": "LSZ"
+ },
+ {
+   "name": "Lourdes/Tarbes",
+   "country": "France",
+   "iata_code": "LDE"
+ },
+ {
+   "name": "Louisville (KY)",
+   "country": "USA",
+   "iata_code": "SDF"
+ },
+ {
+   "name": "Luanda - 4 de Fevereiro",
+   "country": "Angola",
+   "iata_code": "LAD"
+ },
+ {
+   "name": "Lubbock (TX)",
+   "country": "USA",
+   "iata_code": "LBB"
+ },
+ {
+   "name": "Lucknow",
+   "country": "India",
+   "iata_code": "LKO"
+ },
+ {
+   "name": "Luederitz",
+   "country": "Namibia",
+   "iata_code": "LUD"
+ },
+ {
+   "name": "Luga",
+   "country": "Malta",
+   "iata_code": "MLA"
+ },
+ {
+   "name": "Lugano",
+   "country": "Switzerland",
+   "iata_code": "LUG"
+ },
+ {
+   "name": "Lulea",
+   "country": "Sweden",
+   "iata_code": "LLA"
+ },
+ {
+   "name": "Lumbumbashi",
+   "country": "Congo (DRC)",
+   "iata_code": "FBM"
+ },
+ {
+   "name": "Lusaka - Lusaka International Airport",
+   "country": "Zambia",
+   "iata_code": "LUN"
+ },
+ {
+   "name": "Lusisiki",
+   "country": "South Africa",
+   "iata_code": "LUJ"
+ },
+ {
+   "name": "Luxembourg",
+   "country": "Luxembourg",
+   "iata_code": "LUX"
+ },
+ {
+   "name": "Luxi - Mangshi",
+   "country": "Yunnan, PR China",
+   "iata_code": "LUM"
+ },
+ {
+   "name": "Luxor",
+   "country": "Egypt",
+   "iata_code": "LXR"
+ },
+ {
+   "name": "Lvov (Lwow, Lemberg)",
+   "country": "Ukraine",
+   "iata_code": "LWO"
+ },
+ {
+   "name": "Lydd - Lydd International Airport",
+   "country": "United Kingdom",
+   "iata_code": "LYX"
+ },
+ {
+   "name": "Lynchburg (VA)",
+   "country": "USA",
+   "iata_code": "LYH"
+ },
+ {
+   "name": "Lyon - Lyon-Saint Exupéry Airport",
+   "country": "France",
+   "iata_code": "LYS"
+ },
+ {
+   "name": "Lyons (KS) - Rice County Municipal",
+   "country": "USA",
+   "iata_code": "LYO"
+ },
+ {
+   "name": "Maastricht/Aachen",
+   "country": "Netherlands",
+   "iata_code": "MST"
+ },
+ {
+   "name": "Macapa - Alberto Alcolumbre International Airport",
+   "country": "Brazil",
+   "iata_code": "MCP"
+ },
+ {
+   "name": "Macau - Macau International Airport",
+   "country": "Macau, China SAR",
+   "iata_code": "MFM"
+ },
+ {
+   "name": "Maceio - Zumbi dos Palmares International Airport",
+   "country": "Brazil",
+   "iata_code": "MCZ"
+ },
+ {
+   "name": "Mackay",
+   "country": "Australia",
+   "iata_code": "MKY"
+ },
+ {
+   "name": "Macon (GA)",
+   "country": "USA",
+   "iata_code": "MCN"
+ },
+ {
+   "name": "Mactan Island - Nab",
+   "country": "Philippines",
+   "iata_code": "NOP"
+ },
+ {
+   "name": "Madinah (Medina) - Mohammad Bin Abdulaziz",
+   "country": "Saudi Arabia",
+   "iata_code": "MED"
+ },
+ {
+   "name": "Madison (WI) - Dane County Regional Airport",
+   "country": "USA",
+   "iata_code": "MSN"
+ },
+ {
+   "name": "Madras (Chennai) - Chennai International Airport",
+   "country": "India",
+   "iata_code": "MAA"
+ },
+ {
+   "name": "Madrid - Barajas Airport",
+   "country": "Spain",
+   "iata_code": "MAD"
+ },
+ {
+   "name": "Mahe - Seychelles International",
+   "country": "Seychelles",
+   "iata_code": "SEZ"
+ },
+ {
+   "name": "Mahon",
+   "country": "Spain",
+   "iata_code": "MAH"
+ },
+ {
+   "name": "Maitland",
+   "country": "Australia",
+   "iata_code": "MTL"
+ },
+ {
+   "name": "Majunga",
+   "country": "Madagascar",
+   "iata_code": "MJN"
+ },
+ {
+   "name": "Makung",
+   "country": "Taiwan",
+   "iata_code": "MZG"
+ },
+ {
+   "name": "Malabo - Malabo International Airport",
+   "country": "Equatorial Guinea",
+   "iata_code": "SSG"
+ },
+ {
+   "name": "Malaga",
+   "country": "Spain",
+   "iata_code": "AGP"
+ },
+ {
+   "name": "Malatya",
+   "country": "Turkey",
+   "iata_code": "MLX"
+ },
+ {
+   "name": "Male - Velana International Airport",
+   "country": "Maledives",
+   "iata_code": "MLE"
+ },
+ {
+   "name": "Malindi",
+   "country": "Kenya",
+   "iata_code": "MYD"
+ },
+ {
+   "name": "Malmo (Malmoe)",
+   "country": "Sweden",
+   "iata_code": "MMA"
+ },
+ {
+   "name": "Malmo (Malmö) - Malmö Airport",
+   "country": "Sweden",
+   "iata_code": "MMX"
+ },
+ {
+   "name": "Man",
+   "country": "Cote d'Ivoire",
+   "iata_code": "MJC"
+ },
+ {
+   "name": "Managua - Augusto C Sandino",
+   "country": "Nicaragua",
+   "iata_code": "MGA"
+ },
+ {
+   "name": "Manaus - Eduardo Gomes International Airport",
+   "country": "Brazil",
+   "iata_code": "MAO"
+ },
+ {
+   "name": "Manchester",
+   "country": "United Kingdom",
+   "iata_code": "MAN"
+ },
+ {
+   "name": "Manchester (NH)",
+   "country": "USA",
+   "iata_code": "MHT"
+ },
+ {
+   "name": "Mandalay - Mandalay-Annisaton Airport",
+   "country": "Myanmar",
+   "iata_code": "MDL"
+ },
+ {
+   "name": "Manguna",
+   "country": "Papua New Guinea",
+   "iata_code": "MFO"
+ },
+ {
+   "name": "Manihi",
+   "country": "French Polynesia",
+   "iata_code": "XMH"
+ },
+ {
+   "name": "Manila - Ninoy Aquino International",
+   "country": "Philippines",
+   "iata_code": "MNL"
+ },
+ {
+   "name": "Manzanillo",
+   "country": "Mexico",
+   "iata_code": "ZLO"
+ },
+ {
+   "name": "Manzini - Matsapha International",
+   "country": "Swaziland",
+   "iata_code": "MTS"
+ },
+ {
+   "name": "Maputo - Maputo International",
+   "country": "Mozambique",
+   "iata_code": "MPM"
+ },
+ {
+   "name": "Mar del Plata",
+   "country": "Argentina",
+   "iata_code": "MDQ"
+ },
+ {
+   "name": "Maracaibo - La Chinita International",
+   "country": "Venezuela",
+   "iata_code": "MAR"
+ },
+ {
+   "name": "Maradi",
+   "country": "Niger",
+   "iata_code": "MFQ"
+ },
+ {
+   "name": "Maras",
+   "country": "Turkey",
+   "iata_code": "KCM"
+ },
+ {
+   "name": "Marathon (FL)",
+   "country": "USA",
+   "iata_code": "MTH"
+ },
+ {
+   "name": "Mardin",
+   "country": "Turkey",
+   "iata_code": "MQM"
+ },
+ {
+   "name": "Mare",
+   "country": "New Caledonia",
+   "iata_code": "MEE"
+ },
+ {
+   "name": "Margate",
+   "country": "South Africa",
+   "iata_code": "MGH"
+ },
+ {
+   "name": "Margerita",
+   "country": "Venezuela",
+   "iata_code": "PMV"
+ },
+ {
+   "name": "Maribor",
+   "country": "Slovenia",
+   "iata_code": "MBX"
+ },
+ {
+   "name": "Mariehamn (Maarianhamina)",
+   "country": "Finland",
+   "iata_code": "MHQ"
+ },
+ {
+   "name": "Maroua",
+   "country": "Cameroon",
+   "iata_code": "MVR"
+ },
+ {
+   "name": "Marquette (MI)",
+   "country": "USA",
+   "iata_code": "MQT"
+ },
+ {
+   "name": "Marrakesh - Menara Airport",
+   "country": "Morocco",
+   "iata_code": "RAK"
+ },
+ {
+   "name": "Marsa Alam",
+   "country": "Egypt",
+   "iata_code": "RMF"
+ },
+ {
+   "name": "Marsa Matrah (Marsa Matruh)",
+   "country": "Egypt",
+   "iata_code": "MUH"
+ },
+ {
+   "name": "Marseille - Marseille Provence Airport",
+   "country": "France",
+   "iata_code": "MRS"
+ },
+ {
+   "name": "Marsh Harbour",
+   "country": "Bahamas",
+   "iata_code": "MHH"
+ },
+ {
+   "name": "Martha's Vineyard (MA)",
+   "country": "USA",
+   "iata_code": "MVY"
+ },
+ {
+   "name": "Martinsburg (WV)",
+   "country": "USA",
+   "iata_code": "MRB"
+ },
+ {
+   "name": "Maryborough",
+   "country": "Australia",
+   "iata_code": "MBH"
+ },
+ {
+   "name": "Maseru - Moshoeshoe International",
+   "country": "Lesotho",
+   "iata_code": "MSU"
+ },
+ {
+   "name": "Mason City IA",
+   "country": "USA",
+   "iata_code": "MCW"
+ },
+ {
+   "name": "Masvingo",
+   "country": "Zimbabwe",
+   "iata_code": "MVZ"
+ },
+ {
+   "name": "Matsumoto, Nagano",
+   "country": "Japan",
+   "iata_code": "MMJ"
+ },
+ {
+   "name": "Matsuyama",
+   "country": "Japan",
+   "iata_code": "MYJ"
+ },
+ {
+   "name": "Mattoon (IL)",
+   "country": "USA",
+   "iata_code": "MTO"
+ },
+ {
+   "name": "Maun",
+   "country": "Botswana",
+   "iata_code": "MUB"
+ },
+ {
+   "name": "Maupiti",
+   "country": "French Polynesia",
+   "iata_code": "MAU"
+ },
+ {
+   "name": "Mauritius - S.Seewoosagur Ram International",
+   "country": "Mauritius",
+   "iata_code": "MRU"
+ },
+ {
+   "name": "Mayaguez",
+   "country": "Puerto Rico",
+   "iata_code": "MAZ"
+ },
+ {
+   "name": "Mazatlan",
+   "country": "Mexico",
+   "iata_code": "MZT"
+ },
+ {
+   "name": "McAllen (TX)",
+   "country": "USA",
+   "iata_code": "MFE"
+ },
+ {
+   "name": "Medan - Polania Int'l (now Soewondo AFB)",
+   "country": "Indonesia",
+   "iata_code": "MES"
+ },
+ {
+   "name": "Medan - Kualanamu International",
+   "country": "Indonesia",
+   "iata_code": "KNO"
+ },
+ {
+   "name": "Medellin - José María Córdova International",
+   "country": "Colombia",
+   "iata_code": "MDE"
+ },
+ {
+   "name": "Medford (OR)",
+   "country": "USA",
+   "iata_code": "MFR"
+ },
+ {
+   "name": "Medina",
+   "country": "Saudi Arabia",
+   "iata_code": "MED"
+ },
+ {
+   "name": "Meekatharra",
+   "country": "Australia",
+   "iata_code": "MKR"
+ },
+ {
+   "name": "Melbourne - Melbourne Airport (Tullamarine)",
+   "country": "Australia",
+   "iata_code": "MEL"
+ },
+ {
+   "name": "Melbourne (FL)",
+   "country": "USA",
+   "iata_code": "MLB"
+ },
+ {
+   "name": "Melville Hall",
+   "country": "Dominica",
+   "iata_code": "DOM"
+ },
+ {
+   "name": "Memphis (TN)",
+   "country": "USA",
+   "iata_code": "MEM"
+ },
+ {
+   "name": "Mendoza",
+   "country": "Argentina",
+   "iata_code": "MDZ"
+ },
+ {
+   "name": "Manado",
+   "country": "Indonesia",
+   "iata_code": "MDC"
+ },
+ {
+   "name": "Merced (CA)",
+   "country": "USA",
+   "iata_code": "MCE"
+ },
+ {
+   "name": "Merida",
+   "country": "Mexico",
+   "iata_code": "MID"
+ },
+ {
+   "name": "Meridian (MS)",
+   "country": "USA",
+   "iata_code": "MEI"
+ },
+ {
+   "name": "Merimbula",
+   "country": "Australia",
+   "iata_code": "MIM"
+ },
+ {
+   "name": "Messina",
+   "country": "South Africa",
+   "iata_code": "MEZ"
+ },
+ {
+   "name": "Metlakatla (AK)",
+   "country": "USA",
+   "iata_code": "MTM"
+ },
+ {
+   "name": "Metz - Frescaty",
+   "country": "France",
+   "iata_code": "MZM"
+ },
+ {
+   "name": "Metz/Nancy Metz-Nancy-Lorraine",
+   "country": "France",
+   "iata_code": "ETZ"
+ },
+ {
+   "name": "Mexicali",
+   "country": "Mexico",
+   "iata_code": "MXL"
+ },
+ {
+   "name": "Mexico City - Mexico City International Airport",
+   "country": "Mexico",
+   "iata_code": "MEX"
+ },
+ {
+   "name": "Mexico City - Atizapan",
+   "country": "Mexico",
+   "iata_code": "AZP"
+ },
+ {
+   "name": "Mexico City - Juarez International",
+   "country": "Mexico",
+   "iata_code": "MEX"
+ },
+ {
+   "name": "Mexico City - Santa Lucia",
+   "country": "Mexico",
+   "iata_code": "NLU"
+ },
+ {
+   "name": "Mfuwe",
+   "country": "Zambia",
+   "iata_code": "MFU"
+ },
+ {
+   "name": "Miami (FL)",
+   "country": "USA",
+   "iata_code": "MIA"
+ },
+ {
+   "name": "Mianwali",
+   "country": "Pakistan",
+   "iata_code": "MWD"
+ },
+ {
+   "name": "Middlemount",
+   "country": "Australia",
+   "iata_code": "MMM"
+ },
+ {
+   "name": "Midland/Odessa (TX)",
+   "country": "USA",
+   "iata_code": "MAF"
+ },
+ {
+   "name": "Midway Island - Sand Island Field",
+   "country": "US Minor Outlying Islands",
+   "iata_code": "MDY"
+ },
+ {
+   "name": "Mikkeli",
+   "country": "Finland",
+   "iata_code": "MIK"
+ },
+ {
+   "name": "Milan",
+   "country": "Italy",
+   "iata_code": "MIL"
+ },
+ {
+   "name": "Milan - Linate",
+   "country": "Italy",
+   "iata_code": "LIN"
+ },
+ {
+   "name": "Milan - Malpensa",
+   "country": "Italy",
+   "iata_code": "MXP"
+ },
+ {
+   "name": "Milan - Orio Al Serio",
+   "country": "Italy",
+   "iata_code": "BGY"
+ },
+ {
+   "name": "Mildura",
+   "country": "Australia",
+   "iata_code": "MQL"
+ },
+ {
+   "name": "Miles City (MT)",
+   "country": "USA",
+   "iata_code": "MLS"
+ },
+ {
+   "name": "Milford Sound",
+   "country": "New Zealand",
+   "iata_code": "MFN"
+ },
+ {
+   "name": "Milwaukee (WI)",
+   "country": "USA",
+   "iata_code": "MKE"
+ },
+ {
+   "name": "Minatitlan",
+   "country": "Mexico",
+   "iata_code": "MTT"
+ },
+ {
+   "name": "Mineralnye Vody",
+   "country": "Russia",
+   "iata_code": "MRV"
+ },
+ {
+   "name": "Minneapolis - St. Paul International Airport (MN)",
+   "country": "USA",
+   "iata_code": "MSP"
+ },
+ {
+   "name": "Minot (ND)",
+   "country": "USA",
+   "iata_code": "MOT"
+ },
+ {
+   "name": "Minsk, International",
+   "country": "Belarus",
+   "iata_code": "MSQ"
+ },
+ {
+   "name": "Miri",
+   "country": "Malaysia",
+   "iata_code": "MYY"
+ },
+ {
+   "name": "Mirpur",
+   "country": "Pakistan",
+   "iata_code": "QML"
+ },
+ {
+   "name": "Missula (MT)",
+   "country": "USA",
+   "iata_code": "MSO"
+ },
+ {
+   "name": "Mitchell (SD)",
+   "country": "USA",
+   "iata_code": "MHE"
+ },
+ {
+   "name": "Miyako Jima (Ryuku Islands) - Hirara",
+   "country": "Japan",
+   "iata_code": "MMY"
+ },
+ {
+   "name": "Miyazaki",
+   "country": "Japan",
+   "iata_code": "KMI"
+ },
+ {
+   "name": "Mkambati",
+   "country": "South Africa",
+   "iata_code": "MBM"
+ },
+ {
+   "name": "Moanda",
+   "country": "Gabon",
+   "iata_code": "MFF"
+ },
+ {
+   "name": "Mobile (AL) - Pascagoula (MS)",
+   "country": "USA",
+   "iata_code": "MOB"
+ },
+ {
+   "name": "Modesto (CA)",
+   "country": "USA",
+   "iata_code": "MOD"
+ },
+ {
+   "name": "Moenjodaro",
+   "country": "Pakistan",
+   "iata_code": "MJD"
+ },
+ {
+   "name": "Mogadishu",
+   "country": "Somalia",
+   "iata_code": "MGQ"
+ },
+ {
+   "name": "Mokuti",
+   "country": "Namibia",
+   "iata_code": "OKU"
+ },
+ {
+   "name": "Moline/Quad Cities (IL)",
+   "country": "USA",
+   "iata_code": "MLI"
+ },
+ {
+   "name": "Mombasa - Moi International",
+   "country": "Kenya",
+   "iata_code": "MBA"
+ },
+ {
+   "name": "Monastir",
+   "country": "Tunisia",
+   "iata_code": "MIR"
+ },
+ {
+   "name": "Moncton",
+   "country": "Canada",
+   "iata_code": "YQM"
+ },
+ {
+   "name": "Monroe (LA)",
+   "country": "USA",
+   "iata_code": "MLU"
+ },
+ {
+   "name": "Monrovia - Metropolitan Area",
+   "country": "Liberia",
+   "iata_code": "MLW"
+ },
+ {
+   "name": "Monrovia - Roberts International",
+   "country": "Liberia",
+   "iata_code": "ROB"
+ },
+ {
+   "name": "Montego Bay - Sangster International",
+   "country": "Jamaica",
+   "iata_code": "MBJ"
+ },
+ {
+   "name": "Montenegro",
+   "country": "Brazil",
+   "iata_code": "QGF"
+ },
+ {
+   "name": "Monterey (CA)",
+   "country": "USA",
+   "iata_code": "MRY"
+ },
+ {
+   "name": "Monterrey - Gen. Mariano Escobedo",
+   "country": "Mexico",
+   "iata_code": "MTY"
+ },
+ {
+   "name": "Monterrey - Aeropuerto Del Norte",
+   "country": "Mexico",
+   "iata_code": "NTR"
+ },
+ {
+   "name": "Montevideo - Carrasco International Airport",
+   "country": "Uruguay",
+   "iata_code": "MVD"
+ },
+ {
+   "name": "Montgomery (AL) - Montgomery Regional Airport",
+   "country": "USA",
+   "iata_code": "MGM"
+ },
+ {
+   "name": "Montpellier - Montpellier–Méditerranée Airport",
+   "country": "France",
+   "iata_code": "MPL"
+ },
+ {
+   "name": "Montreal",
+   "country": "Canada",
+   "iata_code": "YMQ"
+ },
+ {
+   "name": "Montreal - Dorval (Montréal-Trudeau)",
+   "country": "Canada",
+   "iata_code": "YUL"
+ },
+ {
+   "name": "Montreal - Mirabel",
+   "country": "Canada",
+   "iata_code": "YMX"
+ },
+ {
+   "name": "Montrose/Tellruide (CO)",
+   "country": "USA",
+   "iata_code": "MTJ"
+ },
+ {
+   "name": "Moorea",
+   "country": "French Polynesia",
+   "iata_code": "MOZ"
+ },
+ {
+   "name": "Moranbah",
+   "country": "Australia",
+   "iata_code": "MOV"
+ },
+ {
+   "name": "Moree",
+   "country": "Australia",
+   "iata_code": "MRZ"
+ },
+ {
+   "name": "Morelia",
+   "country": "Mexico",
+   "iata_code": "MLM"
+ },
+ {
+   "name": "Morgantown (WV)",
+   "country": "USA",
+   "iata_code": "MGW"
+ },
+ {
+   "name": "Morioka, Hanamaki",
+   "country": "Japan",
+   "iata_code": "HNA"
+ },
+ {
+   "name": "Moroni - Prince Said Ibrahim",
+   "country": "Comoros (Comores)",
+   "iata_code": "HAH"
+ },
+ {
+   "name": "Moruya",
+   "country": "Australia",
+   "iata_code": "MYA"
+ },
+ {
+   "name": "Moscow - Metropolitan Area",
+   "country": "Russia",
+   "iata_code": "MOW"
+ },
+ {
+   "name": "Moscow - Domodedovo",
+   "country": "Russia",
+   "iata_code": "DME"
+ },
+ {
+   "name": "Moscow - Sheremetyevo",
+   "country": "Russia",
+   "iata_code": "SVO"
+ },
+ {
+   "name": "Moscow - Vnukovo",
+   "country": "Russia",
+   "iata_code": "VKO"
+ },
+ {
+   "name": "Moses Lake (WA)",
+   "country": "USA",
+   "iata_code": "MWH"
+ },
+ {
+   "name": "Mossel Bay",
+   "country": "South Africa",
+   "iata_code": "MZY"
+ },
+ {
+   "name": "Mostar",
+   "country": "Bosnia and Herzegovina",
+   "iata_code": "OMO"
+ },
+ {
+   "name": "Mosul",
+   "country": "Iraq",
+   "iata_code": "OSM"
+ },
+ {
+   "name": "Mouila",
+   "country": "Gabon",
+   "iata_code": "MJL"
+ },
+ {
+   "name": "Moundou",
+   "country": "Chad",
+   "iata_code": "MQQ"
+ },
+ {
+   "name": "Mount Cook",
+   "country": "New Zealand",
+   "iata_code": "GTN"
+ },
+ {
+   "name": "Mount Gambier",
+   "country": "Australia",
+   "iata_code": "MGB"
+ },
+ {
+   "name": "Mount Magnet",
+   "country": "Australia",
+   "iata_code": "MMG"
+ },
+ {
+   "name": "Mt. Isa",
+   "country": "Australia",
+   "iata_code": "ISA"
+ },
+ {
+   "name": "Mt. McKinley (AK)",
+   "country": "USA",
+   "iata_code": "MCL"
+ },
+ {
+   "name": "Muenchen (Munich) - Franz Josef Strauss",
+   "country": "Germany",
+   "iata_code": "MUC"
+ },
+ {
+   "name": "Muenster/Osnabrueck",
+   "country": "Germany",
+   "iata_code": "FMO"
+ },
+ {
+   "name": "Mulhouse",
+   "country": "France",
+   "iata_code": "MLH"
+ },
+ {
+   "name": "Multan",
+   "country": "Pakistan",
+   "iata_code": "MUX"
+ },
+ {
+   "name": "Murcia",
+   "country": "Spain",
+   "iata_code": "MJV"
+ },
+ {
+   "name": "Murmansk",
+   "country": "Russia",
+   "iata_code": "MMK"
+ },
+ {
+   "name": "Mus",
+   "country": "Turkey",
+   "iata_code": "MSR"
+ },
+ {
+   "name": "Muscat - Seeb",
+   "country": "Oman",
+   "iata_code": "MCT"
+ },
+ {
+   "name": "Muscle Shoals (AL)",
+   "country": "USA",
+   "iata_code": "MSL"
+ },
+ {
+   "name": "Muskegon (MI)",
+   "country": "USA",
+   "iata_code": "MKG"
+ },
+ {
+   "name": "Muzaffarabad",
+   "country": "Pakistan",
+   "iata_code": "MFG"
+ },
+ {
+   "name": "Mvengue",
+   "country": "Gabon",
+   "iata_code": "MVB"
+ },
+ {
+   "name": "Mykonos",
+   "country": "Greece",
+   "iata_code": "JMK"
+ },
+ {
+   "name": "Myrtle Beach (SC) - Myrtle Beach AFB",
+   "country": "USA",
+   "iata_code": "MYR"
+ },
+ {
+   "name": "Myrtle Beach (SC) - Grand Strand Airport",
+   "country": "USA",
+   "iata_code": "CRE"
+ },
+ {
+   "name": "Mysore",
+   "country": "India",
+   "iata_code": "MYQ"
+ },
+ {
+   "name": "Mytilene (Lesbos)",
+   "country": "Greece",
+   "iata_code": "MJT"
+ },
+ {
+   "name": "Mzamba",
+   "country": "South Africa",
+   "iata_code": "MZF"
+ },
+ {
+   "name": "Nadi",
+   "country": "Fiji",
+   "iata_code": "NAN"
+ },
+ {
+   "name": "Nagasaki",
+   "country": "Japan",
+   "iata_code": "NGS"
+ },
+ {
+   "name": "Nagoya - Komaki AFB",
+   "country": "Japan",
+   "iata_code": "NGO"
+ },
+ {
+   "name": "Nagpur",
+   "country": "India",
+   "iata_code": "NAG"
+ },
+ {
+   "name": "Nairobi",
+   "country": "Kenya",
+   "iata_code": "NBO"
+ },
+ {
+   "name": "Nakhichevan",
+   "country": "Azerbaijan",
+   "iata_code": "NAJ"
+ },
+ {
+   "name": "Nakhon Si Thammarat",
+   "country": "Thailand",
+   "iata_code": "NST"
+ },
+ {
+   "name": "Nancy",
+   "country": "France",
+   "iata_code": "ENC"
+ },
+ {
+   "name": "Nanisivik",
+   "country": "Canada",
+   "iata_code": "YSR"
+ },
+ {
+   "name": "Nanning",
+   "country": "Guangxi, PR China",
+   "iata_code": "NNG"
+ },
+ {
+   "name": "Nantes - Nantes Atlantique Airport",
+   "country": "France",
+   "iata_code": "NTE"
+ },
+ {
+   "name": "Nantucket (MA)",
+   "country": "USA",
+   "iata_code": "ACK"
+ },
+ {
+   "name": "Naples - Naples Capodichino Airport",
+   "country": "Italy",
+   "iata_code": "NAP"
+ },
+ {
+   "name": "Naples (FL)",
+   "country": "USA",
+   "iata_code": "APF"
+ },
+ {
+   "name": "Narrabri",
+   "country": "Australia",
+   "iata_code": "NAA"
+ },
+ {
+   "name": "Narrandera",
+   "country": "Australia",
+   "iata_code": "NRA"
+ },
+ {
+   "name": "Narsarsuaq",
+   "country": "Greenland",
+   "iata_code": "UAK"
+ },
+ {
+   "name": "Nashville (TN)",
+   "country": "USA",
+   "iata_code": "BNA"
+ },
+ {
+   "name": "Nassau",
+   "country": "Bahamas",
+   "iata_code": "NAS"
+ },
+ {
+   "name": "Natal - Augusto Severo International Airport",
+   "country": "Brazil",
+   "iata_code": "NAT"
+ },
+ {
+   "name": "Nausori",
+   "country": "Fiji/Suva",
+   "iata_code": "SUV"
+ },
+ {
+   "name": "Nawab Shah",
+   "country": "Pakistan",
+   "iata_code": "WNS"
+ },
+ {
+   "name": "Naxos - Naxos Airport",
+   "country": "Greece",
+   "iata_code": "JNX"
+ },
+ {
+   "name": "N'Djamena",
+   "country": "Chad",
+   "iata_code": "NDJ"
+ },
+ {
+   "name": "N'Dola",
+   "country": "Zambia",
+   "iata_code": "NLA"
+ },
+ {
+   "name": "Nelson",
+   "country": "New Zealand",
+   "iata_code": "NSN"
+ },
+ {
+   "name": "Nelspruit",
+   "country": "South Africa",
+   "iata_code": "NLP"
+ },
+ {
+   "name": "Nelspruit - Kruger Mpumalanga International Airport",
+   "country": "South Africa",
+   "iata_code": "MQP"
+ },
+ {
+   "name": "Nevis",
+   "country": "St. Kitts and Nevis",
+   "iata_code": "NEV"
+ },
+ {
+   "name": "New Bern (NC)",
+   "country": "USA",
+   "iata_code": "EWN"
+ },
+ {
+   "name": "New Haven (CT)",
+   "country": "USA",
+   "iata_code": "HVN"
+ },
+ {
+   "name": "New Orleans, La",
+   "country": "USA",
+   "iata_code": "MSY"
+ },
+ {
+   "name": "Newquay",
+   "country": "United Kingdom",
+   "iata_code": "NQY"
+ },
+ {
+   "name": "New Valley - Kharga",
+   "country": "Egypt",
+   "iata_code": "UVL"
+ },
+ {
+   "name": "New York - John F. Kennedy (NY)",
+   "country": "USA",
+   "iata_code": "JFK"
+ },
+ {
+   "name": "New York - LaGuardia (NY)",
+   "country": "USA",
+   "iata_code": "LGA"
+ },
+ {
+   "name": "New York - Newark (NJ)",
+   "country": "USA",
+   "iata_code": "EWR"
+ },
+ {
+   "name": "New York (NY)",
+   "country": "USA",
+   "iata_code": "NYC"
+ },
+ {
+   "name": "Newburgh (NY)",
+   "country": "USA",
+   "iata_code": "SWF"
+ },
+ {
+   "name": "Newcastle - Belmont",
+   "country": "Australia",
+   "iata_code": "BEO"
+ },
+ {
+   "name": "Newcastle - Williamtown",
+   "country": "Australia",
+   "iata_code": "NTL"
+ },
+ {
+   "name": "Newcastle",
+   "country": "United Kingdom",
+   "iata_code": "NCL"
+ },
+ {
+   "name": "Newcastle",
+   "country": "South Africa",
+   "iata_code": "NCS"
+ },
+ {
+   "name": "Newman",
+   "country": "Australia",
+   "iata_code": "ZNE"
+ },
+ {
+   "name": "Newport News/Williamsburg (VA)",
+   "country": "USA",
+   "iata_code": "PHF"
+ },
+ {
+   "name": "N'Gaoundere",
+   "country": "Cameroon",
+   "iata_code": "NGE"
+ },
+ {
+   "name": "Niagara Falls International",
+   "country": "USA",
+   "iata_code": "IAG"
+ },
+ {
+   "name": "Niamey",
+   "country": "Niger",
+   "iata_code": "NIM"
+ },
+ {
+   "name": "Nice - Cote D'Azur Airport",
+   "country": "France",
+   "iata_code": "NCE"
+ },
+ {
+   "name": "Nicosia",
+   "country": "Cyprus",
+   "iata_code": "NIC"
+ },
+ {
+   "name": "Nikolaev",
+   "country": "Ukraine",
+   "iata_code": "NLV"
+ },
+ {
+   "name": "Niigata",
+   "country": "Japan",
+   "iata_code": "KIJ"
+ },
+ {
+   "name": "Nimes",
+   "country": "France",
+   "iata_code": "FNI"
+ },
+ {
+   "name": "Nis",
+   "country": "Serbia",
+   "iata_code": "INI"
+ },
+ {
+   "name": "Nizhny Novgorod - Strigino International Airport",
+   "country": "Russia",
+   "iata_code": "GOJ"
+ },
+ {
+   "name": "Nome (AK)",
+   "country": "USA",
+   "iata_code": "OME"
+ },
+ {
+   "name": "Noosa",
+   "country": "Australia",
+   "iata_code": "NSA"
+ },
+ {
+   "name": "Norfolk Island",
+   "country": "Australia",
+   "iata_code": "NLK"
+ },
+ {
+   "name": "Norfolk/Virginia Beach (VA)",
+   "country": "USA",
+   "iata_code": "ORF"
+ },
+ {
+   "name": "Norman Wells",
+   "country": "Canada",
+   "iata_code": "YVQ"
+ },
+ {
+   "name": "Norrkoeping",
+   "country": "Sweden",
+   "iata_code": "NRK"
+ },
+ {
+   "name": "North Bend (OR)",
+   "country": "USA",
+   "iata_code": "OTH"
+ },
+ {
+   "name": "North Eleuthera",
+   "country": "Bahamas",
+   "iata_code": "ELH"
+ },
+ {
+   "name": "Norwich",
+   "country": "United Kingdom",
+   "iata_code": "NWI"
+ },
+ {
+   "name": "Nottingham - East Midlands",
+   "country": "United Kingdom",
+   "iata_code": "EMA"
+ },
+ {
+   "name": "Nouadhibou",
+   "country": "Mauritania",
+   "iata_code": "NDB"
+ },
+ {
+   "name": "Nouakchott",
+   "country": "Mauritania",
+   "iata_code": "NKC"
+ },
+ {
+   "name": "Noumea",
+   "country": "New Caledonia",
+   "iata_code": "NOU"
+ },
+ {
+   "name": "Novi Sad",
+   "country": "Serbia",
+   "iata_code": "QND"
+ },
+ {
+   "name": "Novosibirsk - Tolmachevo Airport",
+   "country": "Russia",
+   "iata_code": "OVB"
+ },
+ {
+   "name": "Nürnberg (Nuremberg)",
+   "country": "Germany",
+   "iata_code": "NUE"
+ },
+ {
+   "name": "Nuevo Laredo",
+   "country": "Mexico",
+   "iata_code": "NLD"
+ },
+ {
+   "name": "Nuku'alofa - Fua'Amotu International",
+   "country": "Tonga",
+   "iata_code": "TBU"
+ },
+ {
+   "name": "Oakland (CA)",
+   "country": "USA",
+   "iata_code": "OAK"
+ },
+ {
+   "name": "Oaxaca - Xoxocotlan",
+   "country": "Mexico",
+   "iata_code": "OAX"
+ },
+ {
+   "name": "Odense",
+   "country": "Denmark",
+   "iata_code": "ODE"
+ },
+ {
+   "name": "Odessa",
+   "country": "Ukraine",
+   "iata_code": "ODS"
+ },
+ {
+   "name": "Oerebro",
+   "country": "Sweden",
+   "iata_code": "ORB"
+ },
+ {
+   "name": "Ohrid",
+   "country": "Macedonia",
+   "iata_code": "OHD"
+ },
+ {
+   "name": "Oita",
+   "country": "Japan",
+   "iata_code": "OIT"
+ },
+ {
+   "name": "Okayama",
+   "country": "Japan",
+   "iata_code": "OKJ"
+ },
+ {
+   "name": "Okinawa, Ryukyo Island - Naha",
+   "country": "Japan",
+   "iata_code": "OKA"
+ },
+ {
+   "name": "Oklahoma City (OK) - Will Rogers World",
+   "country": "USA",
+   "iata_code": "OKC"
+ },
+ {
+   "name": "Olbia",
+   "country": "Italy",
+   "iata_code": "OLB"
+ },
+ {
+   "name": "Olympic Dam",
+   "country": "Australia",
+   "iata_code": "OLP"
+ },
+ {
+   "name": "Omaha (NE)",
+   "country": "USA",
+   "iata_code": "OMA"
+ },
+ {
+   "name": "Ondangwa",
+   "country": "Namibia",
+   "iata_code": "OND"
+ },
+ {
+   "name": "Ontario (CA)",
+   "country": "USA",
+   "iata_code": "ONT"
+ },
+ {
+   "name": "Oran (Ouahran)",
+   "country": "Algeria",
+   "iata_code": "ORN"
+ },
+ {
+   "name": "Orange",
+   "country": "Australia",
+   "iata_code": "OAG"
+ },
+ {
+   "name": "Orange County (Santa Ana) (CA)",
+   "country": "USA",
+   "iata_code": "SNA"
+ },
+ {
+   "name": "Oranjemund",
+   "country": "Namibia",
+   "iata_code": "OMD"
+ },
+ {
+   "name": "Oranjestad - Reina Beatrix International",
+   "country": "Aruba",
+   "iata_code": "AUA"
+ },
+ {
+   "name": "Orkney - Kirkwall",
+   "country": "United Kingdom",
+   "iata_code": "KOI"
+ },
+ {
+   "name": "Orlando Metropolitan Area (FL)",
+   "country": "USA",
+   "iata_code": "ORL"
+ },
+ {
+   "name": "Orlando - International Airport (FL)",
+   "country": "USA",
+   "iata_code": "MCO"
+ },
+ {
+   "name": "Orpheus Island",
+   "country": "Australia",
+   "iata_code": "ORS"
+ },
+ {
+   "name": "Osaka, Metropolitan Area",
+   "country": "Japan",
+   "iata_code": "OSA"
+ },
+ {
+   "name": "Osaka - Itami",
+   "country": "Japan",
+   "iata_code": "ITM"
+ },
+ {
+   "name": "Osaka - Kansai International Airport",
+   "country": "Japan",
+   "iata_code": "KIX"
+ },
+ {
+   "name": "Oshkosh (WI)",
+   "country": "USA",
+   "iata_code": "OSH"
+ },
+ {
+   "name": "Osijek",
+   "country": "Croatia (Hrvatska)",
+   "iata_code": "OSI"
+ },
+ {
+   "name": "Oslo - Oslo Airport, Gardermoen",
+   "country": "Norway",
+   "iata_code": "OSL"
+ },
+ {
+   "name": "Oslo - Fornebu",
+   "country": "Norway",
+   "iata_code": "FBU"
+ },
+ {
+   "name": "Oslo - Sandefjord",
+   "country": "Norway",
+   "iata_code": "TRF"
+ },
+ {
+   "name": "Ottawa - Hull",
+   "country": "Canada",
+   "iata_code": "YOW"
+ },
+ {
+   "name": "Ouadda",
+   "country": "Central African Republic",
+   "iata_code": "ODA"
+ },
+ {
+   "name": "Ouarzazate",
+   "country": "Morocco",
+   "iata_code": "OZZ"
+ },
+ {
+   "name": "Oudtshoorn",
+   "country": "South Africa",
+   "iata_code": "OUH"
+ },
+ {
+   "name": "Ouagadougou",
+   "country": "Burkina Faso",
+   "iata_code": "OUA"
+ },
+ {
+   "name": "Oujda",
+   "country": "Morocco",
+   "iata_code": "OUD"
+ },
+ {
+   "name": "Oulu",
+   "country": "Finland",
+   "iata_code": "OUL"
+ },
+ {
+   "name": "Out Skerries (Shetland)",
+   "country": "United Kingdom",
+   "iata_code": "OUK"
+ },
+ {
+   "name": "Oviedo",
+   "country": "Spain",
+   "iata_code": "OVD"
+ },
+ {
+   "name": "Owensboro (KY)",
+   "country": "USA",
+   "iata_code": "OWB"
+ },
+ {
+   "name": "Oxnard (CA)",
+   "country": "USA",
+   "iata_code": "OXR"
+ },
+ {
+   "name": "Oyem",
+   "country": "Gabon/Loyautte",
+   "iata_code": "UVE"
+ },
+ {
+   "name": "Paderborn/Lippstadt",
+   "country": "Germany",
+   "iata_code": "PAD"
+ },
+ {
+   "name": "Paducah (KY)",
+   "country": "USA",
+   "iata_code": "PAH"
+ },
+ {
+   "name": "Page/Lake Powell (AZ)",
+   "country": "USA",
+   "iata_code": "PGA"
+ },
+ {
+   "name": "Pago Pago",
+   "country": "American Samoa",
+   "iata_code": "PPG"
+ },
+ {
+   "name": "Pakersburg (WV) /Marietta (OH)",
+   "country": "USA",
+   "iata_code": "PKB"
+ },
+ {
+   "name": "Palermo - Punta Raisi",
+   "country": "Italy",
+   "iata_code": "PMO"
+ },
+ {
+   "name": "Palma de Mallorca",
+   "country": "Spain",
+   "iata_code": "PMI"
+ },
+ {
+   "name": "Palmas",
+   "country": "Brazil",
+   "iata_code": "PMW"
+ },
+ {
+   "name": "Palmdale/Lancaster (CA)",
+   "country": "USA",
+   "iata_code": "PMD"
+ },
+ {
+   "name": "Palmerston North",
+   "country": "New Zealand",
+   "iata_code": "PMR"
+ },
+ {
+   "name": "Palm Springs (CA)",
+   "country": "USA",
+   "iata_code": "PSP"
+ },
+ {
+   "name": "Panama City - Tocumen International",
+   "country": "Panama",
+   "iata_code": "PTY"
+ },
+ {
+   "name": "Panama City (FL)",
+   "country": "USA",
+   "iata_code": "PFN"
+ },
+ {
+   "name": "Panjgur",
+   "country": "Pakistan",
+   "iata_code": "PJG"
+ },
+ {
+   "name": "Pantelleria",
+   "country": "Italy",
+   "iata_code": "PNL"
+ },
+ {
+   "name": "Papeete - Faaa",
+   "country": "French Polynesia (Tahiti)",
+   "iata_code": "PPT"
+ },
+ {
+   "name": "Paphos",
+   "country": "Cyprus",
+   "iata_code": "PFO"
+ },
+ {
+   "name": "Paraburdoo",
+   "country": "Australia",
+   "iata_code": "PBO"
+ },
+ {
+   "name": "Paramaribo - Zanderij International",
+   "country": "Suriname",
+   "iata_code": "PBM"
+ },
+ {
+   "name": "Paris",
+   "country": "France",
+   "iata_code": "PAR"
+ },
+ {
+   "name": "Paris - Charles de Gaulle",
+   "country": "France",
+   "iata_code": "CDG"
+ },
+ {
+   "name": "Paris - Le Bourget",
+   "country": "France",
+   "iata_code": "LBG"
+ },
+ {
+   "name": "Paris - Orly",
+   "country": "France",
+   "iata_code": "ORY"
+ },
+ {
+   "name": "Paro",
+   "country": "Bhutan",
+   "iata_code": "PBH"
+ },
+ {
+   "name": "Pasco (WA)",
+   "country": "USA",
+   "iata_code": "PSC"
+ },
+ {
+   "name": "Pasni",
+   "country": "Pakistan",
+   "iata_code": "PSI"
+ },
+ {
+   "name": "Patna",
+   "country": "India",
+   "iata_code": "PAT"
+ },
+ {
+   "name": "Pattaya",
+   "country": "Thailand",
+   "iata_code": "PYX"
+ },
+ {
+   "name": "Pau",
+   "country": "France",
+   "iata_code": "PUF"
+ },
+ {
+   "name": "Pellston (MI)",
+   "country": "USA",
+   "iata_code": "PLN"
+ },
+ {
+   "name": "Penang International",
+   "country": "Malaysia",
+   "iata_code": "PEN"
+ },
+ {
+   "name": "Pendelton (OR)",
+   "country": "USA",
+   "iata_code": "PDT"
+ },
+ {
+   "name": "Pensacola (FL)",
+   "country": "USA",
+   "iata_code": "PNS"
+ },
+ {
+   "name": "Peoria/Bloomington (IL)",
+   "country": "USA",
+   "iata_code": "PIA"
+ },
+ {
+   "name": "Pereira",
+   "country": "Colombia",
+   "iata_code": "PEI"
+ },
+ {
+   "name": "Perpignan",
+   "country": "France",
+   "iata_code": "PGF"
+ },
+ {
+   "name": "Perth International",
+   "country": "Australia",
+   "iata_code": "PER"
+ },
+ {
+   "name": "Perugia",
+   "country": "Italy",
+   "iata_code": "PEG"
+ },
+ {
+   "name": "Pescara",
+   "country": "Italy",
+   "iata_code": "PSR"
+ },
+ {
+   "name": "Peshawar",
+   "country": "Pakistan",
+   "iata_code": "PEW"
+ },
+ {
+   "name": "Petersburg (AK)",
+   "country": "USA",
+   "iata_code": "PSG"
+ },
+ {
+   "name": "Phalaborwa",
+   "country": "South Africa",
+   "iata_code": "PHW"
+ },
+ {
+   "name": "Philadelphia (PA) - International",
+   "country": "USA",
+   "iata_code": "PHL"
+ },
+ {
+   "name": "Phnom Penh - Pochentong",
+   "country": "Cambodia",
+   "iata_code": "PNH"
+ },
+ {
+   "name": "Phoenix (AZ) - Sky Harbor International",
+   "country": "USA",
+   "iata_code": "PHX"
+ },
+ {
+   "name": "Phuket",
+   "country": "Thailand",
+   "iata_code": "HKT"
+ },
+ {
+   "name": "Pierre (SD)",
+   "country": "USA",
+   "iata_code": "PIR"
+ },
+ {
+   "name": "Pietermaritzburg",
+   "country": "South Africa",
+   "iata_code": "PZB"
+ },
+ {
+   "name": "Pietersburg",
+   "country": "South Africa",
+   "iata_code": "PTG"
+ },
+ {
+   "name": "Pilanesberg/Sun City",
+   "country": "South Africa",
+   "iata_code": "NTY"
+ },
+ {
+   "name": "Pisa - Galileo Galilei",
+   "country": "Italy",
+   "iata_code": "PSA"
+ },
+ {
+   "name": "Pittsburgh International Airport (PA)",
+   "country": "USA",
+   "iata_code": "PIT"
+ },
+ {
+   "name": "Plattsburgh (NY)",
+   "country": "USA",
+   "iata_code": "PLB"
+ },
+ {
+   "name": "Plettenberg Bay",
+   "country": "South Africa",
+   "iata_code": "PBZ"
+ },
+ {
+   "name": "Pocatello (ID)",
+   "country": "USA",
+   "iata_code": "PIH"
+ },
+ {
+   "name": "Podgorica",
+   "country": "Montenegro",
+   "iata_code": "TGD"
+ },
+ {
+   "name": "Pohnpei",
+   "country": "Micronesia",
+   "iata_code": "PNI"
+ },
+ {
+   "name": "Pointe a Pitre",
+   "country": "Guadeloupe",
+   "iata_code": "PTP"
+ },
+ {
+   "name": "Pointe Noire",
+   "country": "Congo (ROC)",
+   "iata_code": "PNR"
+ },
+ {
+   "name": "Poitiers - Biard",
+   "country": "France",
+   "iata_code": "PIS"
+ },
+ {
+   "name": "Ponce",
+   "country": "Puerto Rico",
+   "iata_code": "PSE"
+ },
+ {
+   "name": "Ponta Delgada",
+   "country": "Portugal",
+   "iata_code": "PDL"
+ },
+ {
+   "name": "Pori",
+   "country": "Finland",
+   "iata_code": "POR"
+ },
+ {
+   "name": "Port Angeles (WA)",
+   "country": "USA",
+   "iata_code": "CLM"
+ },
+ {
+   "name": "Port au Prince",
+   "country": "Haiti",
+   "iata_code": "PAP"
+ },
+ {
+   "name": "Port Augusta",
+   "country": "Australia",
+   "iata_code": "PUG"
+ },
+ {
+   "name": "Port Elizabeth",
+   "country": "South Africa",
+   "iata_code": "PLZ"
+ },
+ {
+   "name": "Port Gentil",
+   "country": "Gabon",
+   "iata_code": "POG"
+ },
+ {
+   "name": "Port Harcourt",
+   "country": "Nigeria",
+   "iata_code": "PHC"
+ },
+ {
+   "name": "Port Hedland",
+   "country": "Australia",
+   "iata_code": "PHE"
+ },
+ {
+   "name": "Portland",
+   "country": "Australia",
+   "iata_code": "PTJ"
+ },
+ {
+   "name": "Portland (ME)",
+   "country": "USA",
+   "iata_code": "PWM"
+ },
+ {
+   "name": "Portland International (OR)",
+   "country": "USA",
+   "iata_code": "PDX"
+ },
+ {
+   "name": "Port Lincoln",
+   "country": "Australia",
+   "iata_code": "PLO"
+ },
+ {
+   "name": "Port Macquarie",
+   "country": "Australia",
+   "iata_code": "PQQ"
+ },
+ {
+   "name": "Port Menier, PQ",
+   "country": "Canada",
+   "iata_code": "YPN"
+ },
+ {
+   "name": "Port Moresby - Jackson Field",
+   "country": "Papua New Guinea",
+   "iata_code": "POM"
+ },
+ {
+   "name": "Porto",
+   "country": "Portugal",
+   "iata_code": "OPO"
+ },
+ {
+   "name": "Porto Alegre - Salgado Filho International Airport",
+   "country": "Brazil",
+   "iata_code": "POA"
+ },
+ {
+   "name": "Port of Spain - Piarco International",
+   "country": "Trinidad and Tobago",
+   "iata_code": "POS"
+ },
+ {
+   "name": "Port Said",
+   "country": "Egypt",
+   "iata_code": "PSD"
+ },
+ {
+   "name": "Porto Santo",
+   "country": "Portugal",
+   "iata_code": "PXO"
+ },
+ {
+   "name": "Porto Velho",
+   "country": "Brazil",
+   "iata_code": "PVH"
+ },
+ {
+   "name": "Port Vila",
+   "country": "Vanuatu",
+   "iata_code": "VLI"
+ },
+ {
+   "name": "Poughkeepsie (NY)",
+   "country": "USA",
+   "iata_code": "POU"
+ },
+ {
+   "name": "Poznan, Lawica",
+   "country": "Poland",
+   "iata_code": "POZ"
+ },
+ {
+   "name": "Prague - Václav Havel Airport (formerly Ruzyne)",
+   "country": "Czech Republic",
+   "iata_code": "PRG"
+ },
+ {
+   "name": "Praia - Nelson Mandela International Airport",
+   "country": "Cape Verde",
+   "iata_code": "RAI"
+ },
+ {
+   "name": "Presque Island (ME)",
+   "country": "USA",
+   "iata_code": "PQI"
+ },
+ {
+   "name": "Pretoria - Wonderboom Apt.",
+   "country": "South Africa",
+   "iata_code": "PRY"
+ },
+ {
+   "name": "Preveza/Lefkas",
+   "country": "Greece",
+   "iata_code": "PVK"
+ },
+ {
+   "name": "Prince George",
+   "country": "Canada",
+   "iata_code": "YXS"
+ },
+ {
+   "name": "Prince Rupert/Digby Island",
+   "country": "Canada",
+   "iata_code": "YPR"
+ },
+ {
+   "name": "Pristina",
+   "country": "Serbia",
+   "iata_code": "PRN"
+ },
+ {
+   "name": "Prosperpine",
+   "country": "Australia",
+   "iata_code": "PPP"
+ },
+ {
+   "name": "Providence (RI)",
+   "country": "USA",
+   "iata_code": "PVD"
+ },
+ {
+   "name": "Prudhoe Bay (AK)",
+   "country": "USA",
+   "iata_code": "SCC"
+ },
+ {
+   "name": "Puebla",
+   "country": "Mexico",
+   "iata_code": "PBC"
+ },
+ {
+   "name": "Pueblo (CO)",
+   "country": "USA",
+   "iata_code": "PUB"
+ },
+ {
+   "name": "Puerto Escondido",
+   "country": "Mexico",
+   "iata_code": "PXM"
+ },
+ {
+   "name": "Puerto Ordaz",
+   "country": "Venezuela",
+   "iata_code": "PZO"
+ },
+ {
+   "name": "Puerto Plata",
+   "country": "Dominican Republic",
+   "iata_code": "POP"
+ },
+ {
+   "name": "Puerto Vallarta",
+   "country": "Mexico",
+   "iata_code": "PVR"
+ },
+ {
+   "name": "Pukatawagan",
+   "country": "Canada",
+   "iata_code": "XPK"
+ },
+ {
+   "name": "Pula",
+   "country": "Croatia (Hrvatska)",
+   "iata_code": "PUY"
+ },
+ {
+   "name": "Pullman (WA)",
+   "country": "USA",
+   "iata_code": "PUW"
+ },
+ {
+   "name": "Pune",
+   "country": "India, Maharashtra",
+   "iata_code": "PNQ"
+ },
+ {
+   "name": "Punta Arenas - Presidente Carlos Ibáñez del Campo",
+   "country": "Chile",
+   "iata_code": "PUQ"
+ },
+ {
+   "name": "Punta Cana - Punta Cana International",
+   "country": "Dominican Republic",
+   "iata_code": "PUJ"
+ },
+ {
+   "name": "Pu San (Busan) - Gimhae International Airport",
+   "country": "South Korea",
+   "iata_code": "PUS"
+ },
+ {
+   "name": "Pyongyang - Sunan International Airport",
+   "country": "North Korea",
+   "iata_code": "FNJ"
+ },
+ {
+   "name": "Quebec - Quebec International",
+   "country": "Canada",
+   "iata_code": "YQB"
+ },
+ {
+   "name": "Queenstown",
+   "country": "Australia",
+   "iata_code": "UEE"
+ },
+ {
+   "name": "Queenstown",
+   "country": "New Zealand",
+   "iata_code": "ZQN"
+ },
+ {
+   "name": "Quetta",
+   "country": "Pakistan",
+   "iata_code": "UET"
+ },
+ {
+   "name": "Qingdao",
+   "country": "Shandong, PR China",
+   "iata_code": "TAO"
+ },
+ {
+   "name": "Quimper",
+   "country": "France",
+   "iata_code": "UIP"
+ },
+ {
+   "name": "Quincy (IL)",
+   "country": "USA",
+   "iata_code": "UIN"
+ },
+ {
+   "name": "Quito - Mariscal Sucre International Airport",
+   "country": "Ecuador",
+   "iata_code": "UIO"
+ },
+ {
+   "name": "Rabat - Rabat-Salé Airport",
+   "country": "Morocco",
+   "iata_code": "RBA"
+ },
+ {
+   "name": "Rahim Yar Khan - Shaikh Zayed International Airport",
+   "country": "Pakistan",
+   "iata_code": "RYK"
+ },
+ {
+   "name": "Raiatea",
+   "country": "French Polynesia",
+   "iata_code": "RFP"
+ },
+ {
+   "name": "Rainbow Lake, AB",
+   "country": "Canada",
+   "iata_code": "YOP"
+ },
+ {
+   "name": "Rajkot",
+   "country": "India",
+   "iata_code": "RAJ"
+ },
+ {
+   "name": "Raleigh/Durham (NC)",
+   "country": "USA",
+   "iata_code": "RDU"
+ },
+ {
+   "name": "Ranchi",
+   "country": "India",
+   "iata_code": "IXR"
+ },
+ {
+   "name": "Rangiroa",
+   "country": "French Polynesia",
+   "iata_code": "RGI"
+ },
+ {
+   "name": "Rangoon (Yangon) - Mingaladon",
+   "country": "Myanmar",
+   "iata_code": "RGN"
+ },
+ {
+   "name": "Rapid City (SD)",
+   "country": "USA",
+   "iata_code": "RAP"
+ },
+ {
+   "name": "Rarotonga",
+   "country": "Cook Island",
+   "iata_code": "RAR"
+ },
+ {
+   "name": "Ras al Khaymah (Ras al Khaimah)",
+   "country": "United Arab Emirates",
+   "iata_code": "RKT"
+ },
+ {
+   "name": "Rawala Kot",
+   "country": "Pakistan",
+   "iata_code": "RAZ"
+ },
+ {
+   "name": "Rawalpindi",
+   "country": "Pakistan",
+   "iata_code": "RWP"
+ },
+ {
+   "name": "Reading (PA)",
+   "country": "USA",
+   "iata_code": "RDG"
+ },
+ {
+   "name": "Recife - Guararapes-Gilberto Freyre International",
+   "country": "Brazil",
+   "iata_code": "REC"
+ },
+ {
+   "name": "Redding (CA)",
+   "country": "USA",
+   "iata_code": "RDD"
+ },
+ {
+   "name": "Redmond (OR)",
+   "country": "USA",
+   "iata_code": "RDM"
+ },
+ {
+   "name": "Reggio Calabria",
+   "country": "Italy",
+   "iata_code": "REG"
+ },
+ {
+   "name": "Regina",
+   "country": "Canada",
+   "iata_code": "YQR"
+ },
+ {
+   "name": "Reina Sofia",
+   "country": "Teneriffa/Spain",
+   "iata_code": "TFS"
+ },
+ {
+   "name": "Rennes",
+   "country": "France",
+   "iata_code": "RNS"
+ },
+ {
+   "name": "Reno (NV)",
+   "country": "USA",
+   "iata_code": "RNO"
+ },
+ {
+   "name": "Resolute Bay",
+   "country": "Canada",
+   "iata_code": "YRB"
+ },
+ {
+   "name": "Reus",
+   "country": "Spain",
+   "iata_code": "REU"
+ },
+ {
+   "name": "Reykjavik - Metropolitan Area",
+   "country": "Iceland",
+   "iata_code": "REK"
+ },
+ {
+   "name": "Reykjavik - Keflavik International",
+   "country": "Iceland",
+   "iata_code": "KEF"
+ },
+ {
+   "name": "Rhinelander (WI)",
+   "country": "USA",
+   "iata_code": "RHI"
+ },
+ {
+   "name": "Rhodos",
+   "country": "Greece",
+   "iata_code": "RHO"
+ },
+ {
+   "name": "Richards Bay",
+   "country": "South Africa",
+   "iata_code": "RCB"
+ },
+ {
+   "name": "Richmond (VA)",
+   "country": "USA",
+   "iata_code": "RIC"
+ },
+ {
+   "name": "Riga",
+   "country": "Latvia",
+   "iata_code": "RIX"
+ },
+ {
+   "name": "Rijeka",
+   "country": "Croatia (Hrvatska)",
+   "iata_code": "RJK"
+ },
+ {
+   "name": "Rimini",
+   "country": "Italy",
+   "iata_code": "RMI"
+ },
+ {
+   "name": "Rio Branco - Plácido de Castro International Airport",
+   "country": "Brazil",
+   "iata_code": "RBR"
+ },
+ {
+   "name": "Rio de Janeiro - Galeao",
+   "country": "Brazil",
+   "iata_code": "GIG"
+ },
+ {
+   "name": "Rio de Janeiro - Santos Dumont",
+   "country": "Brazil",
+   "iata_code": "SDU"
+ },
+ {
+   "name": "Rio de Janeiro",
+   "country": "Brazil",
+   "iata_code": "RIO"
+ },
+ {
+   "name": "Riyadh - King Khaled International",
+   "country": "Saudi Arabia",
+   "iata_code": "RUH"
+ },
+ {
+   "name": "Roanne",
+   "country": "France",
+   "iata_code": "RNE"
+ },
+ {
+   "name": "Roanoke (VA)",
+   "country": "USA",
+   "iata_code": "ROA"
+ },
+ {
+   "name": "Roatan",
+   "country": "Honduras",
+   "iata_code": "RTB"
+ },
+ {
+   "name": "Rochester (MN)",
+   "country": "USA",
+   "iata_code": "RST"
+ },
+ {
+   "name": "Rochester (NY)",
+   "country": "USA",
+   "iata_code": "ROC"
+ },
+ {
+   "name": "Rock Sound",
+   "country": "Bahamas",
+   "iata_code": "RSD"
+ },
+ {
+   "name": "Rock Springs (WY)",
+   "country": "USA",
+   "iata_code": "RKS"
+ },
+ {
+   "name": "Rockford (IL)",
+   "country": "USA",
+   "iata_code": "RFD"
+ },
+ {
+   "name": "Rockhampton",
+   "country": "Australia",
+   "iata_code": "ROK"
+ },
+ {
+   "name": "Rockland (ME)",
+   "country": "USA",
+   "iata_code": "RKD"
+ },
+ {
+   "name": "Rocky Mount - Wilson (NC)",
+   "country": "USA",
+   "iata_code": "RWI"
+ },
+ {
+   "name": "Rodez",
+   "country": "France",
+   "iata_code": "RDZ"
+ },
+ {
+   "name": "Rodrigues Island",
+   "country": "Mauritius",
+   "iata_code": "RRG"
+ },
+ {
+   "name": "Roenne",
+   "country": "Denmark",
+   "iata_code": "RNN"
+ },
+ {
+   "name": "Rome",
+   "country": "Italy",
+   "iata_code": "ROM"
+ },
+ {
+   "name": "Rome - Ciampino",
+   "country": "Italy",
+   "iata_code": "CIA"
+ },
+ {
+   "name": "Rome - Fuimicino",
+   "country": "Italy",
+   "iata_code": "FCO"
+ },
+ {
+   "name": "Ronneby",
+   "country": "Sweden",
+   "iata_code": "RNB"
+ },
+ {
+   "name": "Rosario",
+   "country": "Argentina",
+   "iata_code": "ROS"
+ },
+ {
+   "name": "Rostov-on-Don - Rostov-on-Don Airport",
+   "country": "Russia",
+   "iata_code": "RVI"
+ },
+ {
+   "name": "Rostov-on-Don - Platov International Airport",
+   "country": "Russia",
+   "iata_code": "ROV"
+ },
+ {
+   "name": "Rotorua",
+   "country": "New Zealand",
+   "iata_code": "ROT"
+ },
+ {
+   "name": "Rotterdam",
+   "country": "Netherlands",
+   "iata_code": "RTM"
+ },
+ {
+   "name": "Rovaniemi",
+   "country": "Finland",
+   "iata_code": "RVN"
+ },
+ {
+   "name": "Rundu",
+   "country": "Namibia",
+   "iata_code": "NDU"
+ },
+ {
+   "name": "Ruse",
+   "country": "Bulgaria",
+   "iata_code": "ROU"
+ },
+ {
+   "name": "Saarbruecken",
+   "country": "Germany",
+   "iata_code": "SCN"
+ },
+ {
+   "name": "Sacramento (CA)",
+   "country": "USA",
+   "iata_code": "SMF"
+ },
+ {
+   "name": "Sado Shima",
+   "country": "Japan",
+   "iata_code": "SDS"
+ },
+ {
+   "name": "Saginaw/Bay City/Midland (MI)",
+   "country": "USA",
+   "iata_code": "MBS"
+ },
+ {
+   "name": "Saidu Sharif",
+   "country": "Pakistan",
+   "iata_code": "SDT"
+ },
+ {
+   "name": "Saigon (Ho Chi Minh City) - Tan Son Nhat International",
+   "country": "Viet Nam",
+   "iata_code": "SGN"
+ },
+ {
+   "name": "Saint Brieuc",
+   "country": "France",
+   "iata_code": "SBK"
+ },
+ {
+   "name": "Saint Denis - Roland Garros Airport",
+   "country": "Reunion",
+   "iata_code": "RUN"
+ },
+ {
+   "name": "Saint John",
+   "country": "Canada",
+   "iata_code": "YSJ"
+ },
+ {
+   "name": "Saipan",
+   "country": "Northern Mariana Islands",
+   "iata_code": "SPN"
+ },
+ {
+   "name": "Sal",
+   "country": "Cape Verde",
+   "iata_code": "SID"
+ },
+ {
+   "name": "Salalah",
+   "country": "Oman",
+   "iata_code": "SLL"
+ },
+ {
+   "name": "Salem (OR)",
+   "country": "USA",
+   "iata_code": "SLE"
+ },
+ {
+   "name": "Salinas (CA)",
+   "country": "USA",
+   "iata_code": "SNS"
+ },
+ {
+   "name": "Salinas",
+   "country": "Ecuador",
+   "iata_code": "SNC"
+ },
+ {
+   "name": "Salisbury",
+   "country": "Zimbabwe",
+   "iata_code": "SAY"
+ },
+ {
+   "name": "Salisbury (MD)",
+   "country": "USA",
+   "iata_code": "SBY"
+ },
+ {
+   "name": "Saloniki",
+   "country": "Greece",
+   "iata_code": "SKG"
+ },
+ {
+   "name": "Salta, Gen Belgrano",
+   "country": "Argentina",
+   "iata_code": "SLA"
+ },
+ {
+   "name": "Salt Lake City (UT)",
+   "country": "USA",
+   "iata_code": "SLC"
+ },
+ {
+   "name": "Salvador - Salvador International Airport",
+   "country": "Brazil",
+   "iata_code": "SSA"
+ },
+ {
+   "name": "Salzburg - W.A. Mozart",
+   "country": "Austria",
+   "iata_code": "SZG"
+ },
+ {
+   "name": "Samara - Kurumoch International Airport",
+   "country": "Russia",
+   "iata_code": "KUF"
+ },
+ {
+   "name": "Samarkand - Samarkand International Airport",
+   "country": "Uzbekistan",
+   "iata_code": "SKD"
+ },
+ {
+   "name": "Samos",
+   "country": "Greece",
+   "iata_code": "SMI"
+ },
+ {
+   "name": "Samsun",
+   "country": "Turkey",
+   "iata_code": "SZF"
+ },
+ {
+   "name": "San Andres",
+   "country": "Colombia",
+   "iata_code": "ADZ"
+ },
+ {
+   "name": "San Angelo (TX)",
+   "country": "USA",
+   "iata_code": "SJT"
+ },
+ {
+   "name": "San Antonio (TX)",
+   "country": "USA",
+   "iata_code": "SAT"
+ },
+ {
+   "name": "San Carlos de Bariloche",
+   "country": "Argentina",
+   "iata_code": "BRC"
+ },
+ {
+   "name": "San Diego - Lindberg Field International (CA)",
+   "country": "USA",
+   "iata_code": "SAN"
+ },
+ {
+   "name": "San Francisco - International Airport, SA",
+   "country": "USA",
+   "iata_code": "SFO"
+ },
+ {
+   "name": "San Jose Cabo",
+   "country": "Mexico",
+   "iata_code": "SJD"
+ },
+ {
+   "name": "San Jose",
+   "country": "Costa Rica",
+   "iata_code": "SJO"
+ },
+ {
+   "name": "San Jose (CA)",
+   "country": "USA",
+   "iata_code": "SJC"
+ },
+ {
+   "name": "San Juan - Luis Munoz Marin International Airport",
+   "country": "Puerto Rico",
+   "iata_code": "SJU"
+ },
+ {
+   "name": "San Luis Obisco (CA)",
+   "country": "USA",
+   "iata_code": "SBP"
+ },
+ {
+   "name": "San Luis Potosi",
+   "country": "Mexico",
+   "iata_code": "SLP"
+ },
+ {
+   "name": "San Pedro",
+   "country": "Cote d'Ivoire",
+   "iata_code": "SPY"
+ },
+ {
+   "name": "San Pedro Sula",
+   "country": "Honduras",
+   "iata_code": "SAP"
+ },
+ {
+   "name": "San Salvador",
+   "country": "Bahamas",
+   "iata_code": "ZSA"
+ },
+ {
+   "name": "San Salvador",
+   "country": "El Salvador",
+   "iata_code": "SAL"
+ },
+ {
+   "name": "San Sebastian",
+   "country": "Spain",
+   "iata_code": "EAS"
+ },
+ {
+   "name": "Sanaa (Sana'a) - Sana'a International",
+   "country": "Yemen",
+   "iata_code": "SAH"
+ },
+ {
+   "name": "Sandspit",
+   "country": "Canada",
+   "iata_code": "YZP"
+ },
+ {
+   "name": "Santa Ana - John Wayne Airport (CA)",
+   "country": "USA",
+   "iata_code": "SNA"
+ },
+ {
+   "name": "Santa Barbara (CA)",
+   "country": "USA",
+   "iata_code": "SBA"
+ },
+ {
+   "name": "Santa Cruz de la Palma",
+   "country": "Spain",
+   "iata_code": "SPC"
+ },
+ {
+   "name": "Santa Cruz de la Sierra",
+   "country": "Bolivia",
+   "iata_code": "SRZ"
+ },
+ {
+   "name": "Santa Katarina - Mount Sinai",
+   "country": "Egypt",
+   "iata_code": "SKV"
+ },
+ {
+   "name": "Santa Maria",
+   "country": "Portugal",
+   "iata_code": "SMA"
+ },
+ {
+   "name": "Santa Maria (CA)",
+   "country": "USA",
+   "iata_code": "SMX"
+ },
+ {
+   "name": "Santander",
+   "country": "Spain",
+   "iata_code": "SDR"
+ },
+ {
+   "name": "Santa Rosa (CA)",
+   "country": "USA",
+   "iata_code": "STS"
+ },
+ {
+   "name": "Santa Rosa",
+   "country": "Bolivia",
+   "iata_code": "SRB"
+ },
+ {
+   "name": "Santa Rosa",
+   "country": "Brazil",
+   "iata_code": "SRA"
+ },
+ {
+   "name": "Santa Rosa",
+   "country": "Argentina",
+   "iata_code": "RSA"
+ },
+ {
+   "name": "Santa Rosa, Copan",
+   "country": "Honduras",
+   "iata_code": "SDH"
+ },
+ {
+   "name": "Santa Rosalia",
+   "country": "Colombia",
+   "iata_code": "SSL"
+ },
+ {
+   "name": "Santa Rosalia",
+   "country": "Mexico",
+   "iata_code": "SRL"
+ },
+ {
+   "name": "Santiago - Antonio Maceo Airport",
+   "country": "Cuba",
+   "iata_code": "SCU"
+ },
+ {
+   "name": "Santiago de Chile - Arturo Merino Benitez",
+   "country": "Chile",
+   "iata_code": "SCL"
+ },
+ {
+   "name": "Santiago de Compostela",
+   "country": "Spain",
+   "iata_code": "SCQ"
+ },
+ {
+   "name": "Santo",
+   "country": "Vanuatu",
+   "iata_code": "SON"
+ },
+ {
+   "name": "Santo Domingo",
+   "country": "Dominican Republic",
+   "iata_code": "SDQ"
+ },
+ {
+   "name": "Sao Luis - Marechal Cunha Machado International",
+   "country": "Brazil",
+   "iata_code": "SLZ"
+ },
+ {
+   "name": "Sao Paulo",
+   "country": "Brazil",
+   "iata_code": "SAO"
+ },
+ {
+   "name": "Sao Paulo - Congonhas",
+   "country": "Brazil",
+   "iata_code": "CGH"
+ },
+ {
+   "name": "Sao Paulo - Guarulhos",
+   "country": "Brazil",
+   "iata_code": "GRU"
+ },
+ {
+   "name": "Sao Paulo - Viracopos",
+   "country": "Brazil",
+   "iata_code": "VCP"
+ },
+ {
+   "name": "Sao Tome",
+   "country": "Sao Tome & Principe",
+   "iata_code": "TMS"
+ },
+ {
+   "name": "Sapporo",
+   "country": "Hokkaido, Japan",
+   "iata_code": "SPK"
+ },
+ {
+   "name": "Sapporo - Okadama",
+   "country": "Hokkaido, Japan",
+   "iata_code": "OKD"
+ },
+ {
+   "name": "Sapporo - New Chitose Airport",
+   "country": "Japan",
+   "iata_code": "CTS"
+ },
+ {
+   "name": "Sarajevo",
+   "country": "Bosnia and Herzegovina",
+   "iata_code": "SJJ"
+ },
+ {
+   "name": "Saransk - Saransk Airport",
+   "country": "Russia",
+   "iata_code": "SKX"
+ },
+ {
+   "name": "Sarasota/Bradenton (FL)",
+   "country": "USA",
+   "iata_code": "SRQ"
+ },
+ {
+   "name": "Saskatoon",
+   "country": "Canada",
+   "iata_code": "YXE"
+ },
+ {
+   "name": "Sassandra",
+   "country": "Cote d'Ivoire",
+   "iata_code": "ZSS"
+ },
+ {
+   "name": "Savannah (GA)",
+   "country": "USA",
+   "iata_code": "SAV"
+ },
+ {
+   "name": "Savonlinna",
+   "country": "Finland",
+   "iata_code": "SVL"
+ },
+ {
+   "name": "Scarborough - Crown Point International",
+   "country": "Trinidad and Tobago",
+   "iata_code": "TAB"
+ },
+ {
+   "name": "Scone",
+   "country": "Australia",
+   "iata_code": "NSO"
+ },
+ {
+   "name": "Scottsdale (AZ)",
+   "country": "USA",
+   "iata_code": "SCF"
+ },
+ {
+   "name": "Seattle/Tacoma (WA)",
+   "country": "USA",
+   "iata_code": "SEA"
+ },
+ {
+   "name": "Sehba",
+   "country": "Libya",
+   "iata_code": "SEB"
+ },
+ {
+   "name": "Seinaejoki",
+   "country": "Finland",
+   "iata_code": "SJY"
+ },
+ {
+   "name": "Selibi Phikwe",
+   "country": "Botswana",
+   "iata_code": "PKW"
+ },
+ {
+   "name": "Sendai",
+   "country": "Japan",
+   "iata_code": "SDJ"
+ },
+ {
+   "name": "Seoul - Incheon International Airport",
+   "country": "South Korea",
+   "iata_code": "ICN"
+ },
+ {
+   "name": "Seoul - Kimpo",
+   "country": "South Korea",
+   "iata_code": "SEL"
+ },
+ {
+   "name": "Sevilla",
+   "country": "Spain",
+   "iata_code": "SVQ"
+ },
+ {
+   "name": "Sfax",
+   "country": "Tunisia",
+   "iata_code": "SFA"
+ },
+ {
+   "name": "Shamattawa, MB",
+   "country": "Canada",
+   "iata_code": "ZTM"
+ },
+ {
+   "name": "Shanghai - Hongqiao",
+   "country": "China",
+   "iata_code": "SHA"
+ },
+ {
+   "name": "Shanghai - Pu Dong",
+   "country": "China",
+   "iata_code": "PVG"
+ },
+ {
+   "name": "Shannon (Limerick)",
+   "country": "Ireland",
+   "iata_code": "SNN"
+ },
+ {
+   "name": "Sharjah",
+   "country": "United Arab Emirates",
+   "iata_code": "SHJ"
+ },
+ {
+   "name": "Sharm El Sheikh",
+   "country": "Egypt",
+   "iata_code": "SSH"
+ },
+ {
+   "name": "Sheffield, City Airport",
+   "country": "United Kingdom",
+   "iata_code": "SZD"
+ },
+ {
+   "name": "Sheffield, Doncaster, Robin Hood International Airport",
+   "country": "United Kingdom",
+   "iata_code": "DSA"
+ },
+ {
+   "name": "Shenandoah Valley/Stauton (VA)",
+   "country": "USA",
+   "iata_code": "SHD"
+ },
+ {
+   "name": "Shenyang",
+   "country": "Liaoning, PR China",
+   "iata_code": "SHE"
+ },
+ {
+   "name": "Shenzhen - Shenzhen Bao'an International",
+   "country": "Guangdong, PR China",
+   "iata_code": "SZX"
+ },
+ {
+   "name": "Sheridan (WY)",
+   "country": "USA",
+   "iata_code": "SHR"
+ },
+ {
+   "name": "Shreveport, La",
+   "country": "USA",
+   "iata_code": "SHV"
+ },
+ {
+   "name": "Shute Harbour",
+   "country": "Australia",
+   "iata_code": "JHQ"
+ },
+ {
+   "name": "Sibu",
+   "country": "Malaysia",
+   "iata_code": "SBW"
+ },
+ {
+   "name": "Sidney (MT)",
+   "country": "USA",
+   "iata_code": "SDY"
+ },
+ {
+   "name": "Silistra",
+   "country": "Bulgaria",
+   "iata_code": "SLS"
+ },
+ {
+   "name": "Simferopol",
+   "country": "Ukraine",
+   "iata_code": "SIP"
+ },
+ {
+   "name": "Sindhri",
+   "country": "Pakistan",
+   "iata_code": "MPD"
+ },
+ {
+   "name": "Singapore - Changi",
+   "country": "Singapore",
+   "iata_code": "SIN"
+ },
+ {
+   "name": "Singapore - Paya Lebar",
+   "country": "Singapore",
+   "iata_code": "QPG"
+ },
+ {
+   "name": "Singapore - Seletar",
+   "country": "Singapore",
+   "iata_code": "XSP"
+ },
+ {
+   "name": "Singleton",
+   "country": "Australia",
+   "iata_code": "SIX"
+ },
+ {
+   "name": "Sioux City IA",
+   "country": "USA",
+   "iata_code": "SUX"
+ },
+ {
+   "name": "Sioux Falls (SD)",
+   "country": "USA",
+   "iata_code": "FSD"
+ },
+ {
+   "name": "Sishen",
+   "country": "South Africa",
+   "iata_code": "SIS"
+ },
+ {
+   "name": "Sitka (AK)",
+   "country": "USA",
+   "iata_code": "SIT"
+ },
+ {
+   "name": "Sivas",
+   "country": "Turkey",
+   "iata_code": "VAS"
+ },
+ {
+   "name": "Siwa",
+   "country": "Egypt",
+   "iata_code": "SEW"
+ },
+ {
+   "name": "Skagway (AK)",
+   "country": "USA",
+   "iata_code": "SGY"
+ },
+ {
+   "name": "Skardu",
+   "country": "Pakistan",
+   "iata_code": "KDU"
+ },
+ {
+   "name": "Skiathos",
+   "country": "Greece",
+   "iata_code": "JSI"
+ },
+ {
+   "name": "Skopje",
+   "country": "Macedonia",
+   "iata_code": "SKP"
+ },
+ {
+   "name": "Skrydstrup",
+   "country": "Denmark",
+   "iata_code": "SKS"
+ },
+ {
+   "name": "Skukuza",
+   "country": "South Africa",
+   "iata_code": "SZK"
+ },
+ {
+   "name": "Sligo",
+   "country": "Ireland",
+   "iata_code": "SXL"
+ },
+ {
+   "name": "Smithers",
+   "country": "Canada",
+   "iata_code": "YYD"
+ },
+ {
+   "name": "Sodankylae",
+   "country": "Finland",
+   "iata_code": "SOT"
+ },
+ {
+   "name": "Soenderborg",
+   "country": "Denmark",
+   "iata_code": "SGD"
+ },
+ {
+   "name": "Soendre Stroemfjord",
+   "country": "Greenland",
+   "iata_code": "SFJ"
+ },
+ {
+   "name": "Sofia - Vrazhdebna",
+   "country": "Bulgaria",
+   "iata_code": "SOF"
+ },
+ {
+   "name": "Sogndal",
+   "country": "Norway",
+   "iata_code": "SOG"
+ },
+ {
+   "name": "Southampton - Eastleigh",
+   "country": "United Kingdom",
+   "iata_code": "SOU"
+ },
+ {
+   "name": "South Bend (IN)",
+   "country": "USA",
+   "iata_code": "SBN"
+ },
+ {
+   "name": "South Indian Lake, MB",
+   "country": "Canada",
+   "iata_code": "XSI"
+ },
+ {
+   "name": "South Molle Island",
+   "country": "Australia",
+   "iata_code": "SOI"
+ },
+ {
+   "name": "Southend (London)",
+   "country": "United Kingdom",
+   "iata_code": "SEN"
+ },
+ {
+   "name": "Split",
+   "country": "Croatia (Hrvatska)",
+   "iata_code": "SPU"
+ },
+ {
+   "name": "Spokane (WA)",
+   "country": "USA",
+   "iata_code": "GEG"
+ },
+ {
+   "name": "Springbok",
+   "country": "South Africa",
+   "iata_code": "SBU"
+ },
+ {
+   "name": "Springfield (IL)",
+   "country": "USA",
+   "iata_code": "SPI"
+ },
+ {
+   "name": "Springfield (MO)",
+   "country": "USA",
+   "iata_code": "SGF"
+ },
+ {
+   "name": "Srinagar",
+   "country": "India",
+   "iata_code": "SXR"
+ },
+ {
+   "name": "St. Augustin, PQ",
+   "country": "Canada",
+   "iata_code": "YIF"
+ },
+ {
+   "name": "St. Croix",
+   "country": "Virgin Islands (U.S.)",
+   "iata_code": "STX"
+ },
+ {
+   "name": "St. Etienne",
+   "country": "France",
+   "iata_code": "EBU"
+ },
+ {
+   "name": "St. George (UT)",
+   "country": "USA",
+   "iata_code": "SGU"
+ },
+ {
+   "name": "St. John's",
+   "country": "Canada",
+   "iata_code": "YYT"
+ },
+ {
+   "name": "St. Kitts",
+   "country": "St. Kitts and Nevis",
+   "iata_code": "SKB"
+ },
+ {
+   "name": "St. Louis (MO) Lambert–St. Louis International Airport",
+   "country": "USA",
+   "iata_code": "STL"
+ },
+ {
+   "name": "St. Lucia Hewanorra",
+   "country": "Saint Lucia",
+   "iata_code": "UVF"
+ },
+ {
+   "name": "St. Lucia Vigle",
+   "country": "Saint Lucia",
+   "iata_code": "SLU"
+ },
+ {
+   "name": "St. Marteen",
+   "country": "Netherlands Antilles",
+   "iata_code": "SXM"
+ },
+ {
+   "name": "St. Martin",
+   "country": "St. Martin (Guadeloupe)",
+   "iata_code": "SFG"
+ },
+ {
+   "name": "St. Petersburg (Leningrad) - Pulkovo",
+   "country": "Russia",
+   "iata_code": "LED"
+ },
+ {
+   "name": "St. Pierre, NF",
+   "country": "Canada",
+   "iata_code": "FSP"
+ },
+ {
+   "name": "St. Thomas",
+   "country": "Virgin Islands (U.S.)",
+   "iata_code": "STT"
+ },
+ {
+   "name": "St. Vincent",
+   "country": "Saint Vincent and the Grenadines",
+   "iata_code": "SVD"
+ },
+ {
+   "name": "Stansted (London)",
+   "country": "United Kingdom",
+   "iata_code": "STN"
+ },
+ {
+   "name": "State College/Belefonte (PA)",
+   "country": "USA",
+   "iata_code": "SCE"
+ },
+ {
+   "name": "Stavanger",
+   "country": "Norway",
+   "iata_code": "SVG"
+ },
+ {
+   "name": "Steamboat Springs (CO)",
+   "country": "USA",
+   "iata_code": "HDN"
+ },
+ {
+   "name": "Stettin",
+   "country": "Poland",
+   "iata_code": "SZZ"
+ },
+ {
+   "name": "Stockholm Metropolitan Area",
+   "country": "Sweden",
+   "iata_code": "STO"
+ },
+ {
+   "name": "Stockholm - Arlanda",
+   "country": "Sweden",
+   "iata_code": "ARN"
+ },
+ {
+   "name": "Stockholm - Bromma",
+   "country": "Sweden",
+   "iata_code": "BMA"
+ },
+ {
+   "name": "Stockton (CA)",
+   "country": "USA",
+   "iata_code": "SCK"
+ },
+ {
+   "name": "Stornway",
+   "country": "United Kingdom",
+   "iata_code": "SYY"
+ },
+ {
+   "name": "Strasbourg - Strasbourg Airport",
+   "country": "France",
+   "iata_code": "SXB"
+ },
+ {
+   "name": "Streaky Bay",
+   "country": "Australia",
+   "iata_code": "KBY"
+ },
+ {
+   "name": "Stuttgart - Echterdingen",
+   "country": "Germany",
+   "iata_code": "STR"
+ },
+ {
+   "name": "Sui",
+   "country": "Pakistan",
+   "iata_code": "SUL"
+ },
+ {
+   "name": "Sukkur",
+   "country": "Pakistan",
+   "iata_code": "SKZ"
+ },
+ {
+   "name": "Sumburgh (Shetland)",
+   "country": "United Kingdom",
+   "iata_code": "LSI"
+ },
+ {
+   "name": "Sun Valley (ID)",
+   "country": "USA",
+   "iata_code": "SUN"
+ },
+ {
+   "name": "Sundsvall",
+   "country": "Sweden",
+   "iata_code": "SDL"
+ },
+ {
+   "name": "Sunshine Coast",
+   "country": "Australia",
+   "iata_code": "MCY"
+ },
+ {
+   "name": "Surabaya - Juanda",
+   "country": "Indonesia",
+   "iata_code": "SUB"
+ },
+ {
+   "name": "Surat",
+   "country": "India",
+   "iata_code": "STV"
+ },
+ {
+   "name": "Suva - Nausori Airport (Luvuluvu)",
+   "country": "Fiji",
+   "iata_code": "SUV"
+ },
+ {
+   "name": "Swakopmund",
+   "country": "Namibia",
+   "iata_code": "SWP"
+ },
+ {
+   "name": "Sydney - Sydney Airport",
+   "country": "Australia",
+   "iata_code": "SYD"
+ },
+ {
+   "name": "Sylhet",
+   "country": "Bangladesh",
+   "iata_code": "ZYL"
+ },
+ {
+   "name": "Syracuse (NY)",
+   "country": "USA",
+   "iata_code": "SYR"
+ },
+ {
+   "name": "Tabuk",
+   "country": "Saudi Arabia",
+   "iata_code": "TUU"
+ },
+ {
+   "name": "Taif",
+   "country": "Saudi Arabia",
+   "iata_code": "TIF"
+ },
+ {
+   "name": "Taipei - Chiang Kai Shek",
+   "country": "Taiwan",
+   "iata_code": "TPE"
+ },
+ {
+   "name": "Taipei - Sung Shan",
+   "country": "Taiwan",
+   "iata_code": "TAY"
+ },
+ {
+   "name": "Taiyuan",
+   "country": "Shanxi, PR China",
+   "iata_code": "TYN"
+ },
+ {
+   "name": "Takamatsu",
+   "country": "Japan",
+   "iata_code": "TAK"
+ },
+ {
+   "name": "Talkeetna (AK)",
+   "country": "USA",
+   "iata_code": "TKA"
+ },
+ {
+   "name": "Tallahassee (FL)",
+   "country": "USA",
+   "iata_code": "TLH"
+ },
+ {
+   "name": "Tallinn - Pirita Harbour",
+   "country": "Estonia",
+   "iata_code": "QUF"
+ },
+ {
+   "name": "Tallinn - Ulemiste",
+   "country": "Estonia",
+   "iata_code": "TLL"
+ },
+ {
+   "name": "Tampa - International (FL)",
+   "country": "USA",
+   "iata_code": "TPA"
+ },
+ {
+   "name": "Tampere",
+   "country": "Finland",
+   "iata_code": "TMP"
+ },
+ {
+   "name": "Tampico - Gen. F. Javier Mina",
+   "country": "Mexico",
+   "iata_code": "TAM"
+ },
+ {
+   "name": "Tamworth",
+   "country": "Australia",
+   "iata_code": "TMW"
+ },
+ {
+   "name": "Tangier - Boukhalef",
+   "country": "Morocco",
+   "iata_code": "TNG"
+ },
+ {
+   "name": "Taree",
+   "country": "Australia",
+   "iata_code": "TRO"
+ },
+ {
+   "name": "Targovishte",
+   "country": "Bulgaria",
+   "iata_code": "TGV"
+ },
+ {
+   "name": "Tashkent - International",
+   "country": "Uzbekistan",
+   "iata_code": "TAS"
+ },
+ {
+   "name": "Tawau",
+   "country": "Malaysia",
+   "iata_code": "TWU"
+ },
+ {
+   "name": "Tbilisi - Novo Alexeyevka",
+   "country": "Georgia",
+   "iata_code": "TBS"
+ },
+ {
+   "name": "Te Anau",
+   "country": "New Zealand",
+   "iata_code": "TEU"
+ },
+ {
+   "name": "Teesside, Durham Tees Valley",
+   "country": "United Kingdom",
+   "iata_code": "MME"
+ },
+ {
+   "name": "Tegucigalpa",
+   "country": "Honduras",
+   "iata_code": "TGU"
+ },
+ {
+   "name": "Tehran (Teheran) - Mehrabad",
+   "country": "Iran",
+   "iata_code": "THR"
+ },
+ {
+   "name": "Tekirdag - Corlu",
+   "country": "Turkey",
+   "iata_code": "TEQ"
+ },
+ {
+   "name": "Tel Aviv - Ben Gurion International",
+   "country": "Israel",
+   "iata_code": "TLV"
+ },
+ {
+   "name": "Telluride (CO)",
+   "country": "USA",
+   "iata_code": "TEX"
+ },
+ {
+   "name": "Temora",
+   "country": "Australia",
+   "iata_code": "TEM"
+ },
+ {
+   "name": "Tenerife",
+   "country": "Spain",
+   "iata_code": "TCI"
+ },
+ {
+   "name": "Tenerife - Sur Reina Sofia",
+   "country": "Spain",
+   "iata_code": "TFS"
+ },
+ {
+   "name": "Tenerife - Norte Los Rodeos",
+   "country": "Spain",
+   "iata_code": "TFN"
+ },
+ {
+   "name": "Tennant Creek",
+   "country": "Australia",
+   "iata_code": "TCA"
+ },
+ {
+   "name": "Terceira",
+   "country": "Portugal",
+   "iata_code": "TER"
+ },
+ {
+   "name": "Teresina",
+   "country": "Brazil",
+   "iata_code": "THE"
+ },
+ {
+   "name": "Termez (Termes)",
+   "country": "Uzbekistan",
+   "iata_code": "TMZ"
+ },
+ {
+   "name": "Terrace",
+   "country": "Canada",
+   "iata_code": "YXT"
+ },
+ {
+   "name": "Terre Haute (IN)",
+   "country": "USA",
+   "iata_code": "HUF"
+ },
+ {
+   "name": "Texarkana (AR)",
+   "country": "USA",
+   "iata_code": "TXK"
+ },
+ {
+   "name": "Thaba'Nchu",
+   "country": "South Africa",
+   "iata_code": "TCU"
+ },
+ {
+   "name": "The Pas",
+   "country": "Canada",
+   "iata_code": "YQD"
+ },
+ {
+   "name": "Thessaloniki - Makedonia Apt.",
+   "country": "Greece",
+   "iata_code": "SKG"
+ },
+ {
+   "name": "Thief River Falls (MN)",
+   "country": "USA",
+   "iata_code": "TVF"
+ },
+ {
+   "name": "Thira",
+   "country": "Greece",
+   "iata_code": "JTR"
+ },
+ {
+   "name": "Thiruvananthapuram",
+   "country": "India",
+   "iata_code": "TRV"
+ },
+ {
+   "name": "Thisted",
+   "country": "Denmark",
+   "iata_code": "TED"
+ },
+ {
+   "name": "Thompson",
+   "country": "Canada",
+   "iata_code": "YTH"
+ },
+ {
+   "name": "Thorne Bay (AK)",
+   "country": "USA",
+   "iata_code": "KTB"
+ },
+ {
+   "name": "Thunder Bay",
+   "country": "Canada",
+   "iata_code": "YQT"
+ },
+ {
+   "name": "Thursday Island",
+   "country": "Australia",
+   "iata_code": "TIS"
+ },
+ {
+   "name": "Tianjin",
+   "country": "China",
+   "iata_code": "TSN"
+ },
+ {
+   "name": "Tijuana - Rodriguez",
+   "country": "Mexico",
+   "iata_code": "TIJ"
+ },
+ {
+   "name": "Tioman",
+   "country": "Indonesia",
+   "iata_code": "TOD"
+ },
+ {
+   "name": "Tirana - Rinas",
+   "country": "Albania",
+   "iata_code": "TIA"
+ },
+ {
+   "name": "Tiruchirapally",
+   "country": "India",
+   "iata_code": "TRZ"
+ },
+ {
+   "name": "Tivat",
+   "country": "Montenegro",
+   "iata_code": "TIV"
+ },
+ {
+   "name": "Tobago",
+   "country": "Trinidad and Tobago",
+   "iata_code": "TAB"
+ },
+ {
+   "name": "Tokushima",
+   "country": "Japan",
+   "iata_code": "TKS"
+ },
+ {
+   "name": "Tokyo",
+   "country": "Japan",
+   "iata_code": "TYO"
+ },
+ {
+   "name": "Tokyo - Haneda",
+   "country": "Japan",
+   "iata_code": "HND"
+ },
+ {
+   "name": "Tokyo - Narita",
+   "country": "Japan",
+   "iata_code": "NRT"
+ },
+ {
+   "name": "Toledo (OH)",
+   "country": "USA",
+   "iata_code": "TOL"
+ },
+ {
+   "name": "Tom Price",
+   "country": "Australia",
+   "iata_code": "TPR"
+ },
+ {
+   "name": "Toowoomba",
+   "country": "Australia",
+   "iata_code": "TWB"
+ },
+ {
+   "name": "Toronto - Billy Bishop Toronto City Airport",
+   "country": "Canada",
+   "iata_code": "YTZ"
+ },
+ {
+   "name": "Toronto - Toronto Pearson International Airport",
+   "country": "Canada",
+   "iata_code": "YYZ"
+ },
+ {
+   "name": "Toronto",
+   "country": "Canada",
+   "iata_code": "YTO"
+ },
+ {
+   "name": "Tortola",
+   "country": "British Virgin Islands",
+   "iata_code": "TOV"
+ },
+ {
+   "name": "Touho",
+   "country": "New Caledonia",
+   "iata_code": "TOU"
+ },
+ {
+   "name": "Toulouse - Blagnac Airport",
+   "country": "France",
+   "iata_code": "TLS"
+ },
+ {
+   "name": "Townsville",
+   "country": "Australia",
+   "iata_code": "TSV"
+ },
+ {
+   "name": "Toyama",
+   "country": "Japan",
+   "iata_code": "TOY"
+ },
+ {
+   "name": "Trabzon",
+   "country": "Turkey",
+   "iata_code": "TZX"
+ },
+ {
+   "name": "Trapani",
+   "country": "Italy",
+   "iata_code": "TPS"
+ },
+ {
+   "name": "Traverse City (MI)",
+   "country": "USA",
+   "iata_code": "TVC"
+ },
+ {
+   "name": "Treasure Cay",
+   "country": "Bahamas",
+   "iata_code": "TCB"
+ },
+ {
+   "name": "Trenton/Princeton (NJ)",
+   "country": "USA",
+   "iata_code": "TTN"
+ },
+ {
+   "name": "Treviso",
+   "country": "Italy",
+   "iata_code": "TSF"
+ },
+ {
+   "name": "Tri-Cities Regional (TN) /VA",
+   "country": "USA",
+   "iata_code": "TRI"
+ },
+ {
+   "name": "Trieste",
+   "country": "Italy",
+   "iata_code": "TRS"
+ },
+ {
+   "name": "Tripoli - Tripoli International",
+   "country": "Libya",
+   "iata_code": "TIP"
+ },
+ {
+   "name": "Tromsoe",
+   "country": "Norway",
+   "iata_code": "TOS"
+ },
+ {
+   "name": "Trondheim",
+   "country": "Norway",
+   "iata_code": "TRD"
+ },
+ {
+   "name": "Tsumeb",
+   "country": "Namibia",
+   "iata_code": "TSB"
+ },
+ {
+   "name": "Tucson (AZ)",
+   "country": "USA",
+   "iata_code": "TUS"
+ },
+ {
+   "name": "Tulepo (MS)",
+   "country": "USA",
+   "iata_code": "TUP"
+ },
+ {
+   "name": "Tulsa (OK)",
+   "country": "USA",
+   "iata_code": "TUL"
+ },
+ {
+   "name": "Tunis - Carthage",
+   "country": "Tunisia",
+   "iata_code": "TUN"
+ },
+ {
+   "name": "Turbat",
+   "country": "Pakistan",
+   "iata_code": "TUK"
+ },
+ {
+   "name": "Turin",
+   "country": "Italy",
+   "iata_code": "TRN"
+ },
+ {
+   "name": "Turku",
+   "country": "Finland",
+   "iata_code": "TKU"
+ },
+ {
+   "name": "Tuscaloosa (AL)",
+   "country": "USA",
+   "iata_code": "TCL"
+ },
+ {
+   "name": "Tuxtla Gutierrez",
+   "country": "Mexico",
+   "iata_code": "TGZ"
+ },
+ {
+   "name": "Twin Falls (ID)",
+   "country": "USA",
+   "iata_code": "TWF"
+ },
+ {
+   "name": "Tyler (TX)",
+   "country": "USA",
+   "iata_code": "TYR"
+ },
+ {
+   "name": "Ua Huka",
+   "country": "French Polynesia",
+   "iata_code": "UAH"
+ },
+ {
+   "name": "Ua Pou",
+   "country": "French Polynesia",
+   "iata_code": "UAP"
+ },
+ {
+   "name": "Ube",
+   "country": "Japan",
+   "iata_code": "UBJ"
+ },
+ {
+   "name": "Uberaba",
+   "country": "Brazil",
+   "iata_code": "UBA"
+ },
+ {
+   "name": "Uberlandia - Eduardo Gomes Airport",
+   "country": "Brazil",
+   "iata_code": "UDI"
+ },
+ {
+   "name": "Ubon Ratchathani - Muang Ubon Airport",
+   "country": "Thailand",
+   "iata_code": "UBP"
+ },
+ {
+   "name": "Udaipur - Dabok Airport",
+   "country": "India",
+   "iata_code": "UDR"
+ },
+ {
+   "name": "Uden - Volkel Airport",
+   "country": "Netherlands",
+   "iata_code": "UDE"
+ },
+ {
+   "name": "Udon Thani",
+   "country": "Thailand",
+   "iata_code": "UTH"
+ },
+ {
+   "name": "Ufa",
+   "country": "Russia",
+   "iata_code": "UFA"
+ },
+ {
+   "name": "Uherske Hradiste",
+   "country": "Czech Republic",
+   "iata_code": "UHE"
+ },
+ {
+   "name": "Uige",
+   "country": "Angola",
+   "iata_code": "UGO"
+ },
+ {
+   "name": "Ujung Pandang - Hasanudin Airport",
+   "country": "Indonesia",
+   "iata_code": "UPG"
+ },
+ {
+   "name": "Ukhta",
+   "country": "Russia",
+   "iata_code": "UCT"
+ },
+ {
+   "name": "Ukiah (CA)",
+   "country": "USA",
+   "iata_code": "UKI"
+ },
+ {
+   "name": "Ulaanbaatar - Buyant Uhaa Airport",
+   "country": "Mongolia",
+   "iata_code": "ULN"
+ },
+ {
+   "name": "Ulan-Ude",
+   "country": "Russia",
+   "iata_code": "UUD"
+ },
+ {
+   "name": "Ulanhot",
+   "country": "PR China",
+   "iata_code": "HLH"
+ },
+ {
+   "name": "Ulei",
+   "country": "Vanuatu",
+   "iata_code": "ULB"
+ },
+ {
+   "name": "Ulsan",
+   "country": "South Korea",
+   "iata_code": "USN"
+ },
+ {
+   "name": "Ulundi",
+   "country": "South Africa",
+   "iata_code": "ULD"
+ },
+ {
+   "name": "Umea",
+   "country": "Sweden",
+   "iata_code": "UME"
+ },
+ {
+   "name": "Umiujaq",
+   "country": "Canada",
+   "iata_code": "YUD"
+ },
+ {
+   "name": "Umtata",
+   "country": "South Africa",
+   "iata_code": "UTT"
+ },
+ {
+   "name": "Unalakleet (AK)",
+   "country": "USA",
+   "iata_code": "UNK"
+ },
+ {
+   "name": "Union Island",
+   "country": "Saint Vincent and the Grenadines",
+   "iata_code": "UNI"
+ },
+ {
+   "name": "Unst (Shetland Island) - Baltasound Airport",
+   "country": "United Kingdom",
+   "iata_code": "UNT"
+ },
+ {
+   "name": "Upala",
+   "country": "Costa Rica",
+   "iata_code": "UPL"
+ },
+ {
+   "name": "Upernavik - Upernavik Heliport",
+   "country": "Greenland",
+   "iata_code": "JUV"
+ },
+ {
+   "name": "Upington",
+   "country": "South Africa",
+   "iata_code": "UTN"
+ },
+ {
+   "name": "Upolu Point (HI)",
+   "country": "USA",
+   "iata_code": "UPP"
+ },
+ {
+   "name": "Uranium City",
+   "country": "Canada",
+   "iata_code": "YBE"
+ },
+ {
+   "name": "Urgench",
+   "country": "Uzbekistan",
+   "iata_code": "UGC"
+ },
+ {
+   "name": "Uriman",
+   "country": "Venezuela",
+   "iata_code": "URM"
+ },
+ {
+   "name": "Urmiehm (Orumieh)",
+   "country": "Iran",
+   "iata_code": "OMH"
+ },
+ {
+   "name": "Uruapan",
+   "country": "Mexico",
+   "iata_code": "UPN"
+ },
+ {
+   "name": "Urubupunga - Ernesto Pochler Airport",
+   "country": "Brazil",
+   "iata_code": "URB"
+ },
+ {
+   "name": "Uruguaiana - Ruben Berta Airport",
+   "country": "Brazil",
+   "iata_code": "URG"
+ },
+ {
+   "name": "Urumqi",
+   "country": "Xinjiang, PR China",
+   "iata_code": "URC"
+ },
+ {
+   "name": "Uruzgan",
+   "country": "Afghanistan",
+   "iata_code": "URZ"
+ },
+ {
+   "name": "Ushuaia - Islas Malvinas Airport",
+   "country": "Argentina",
+   "iata_code": "USH"
+ },
+ {
+   "name": "Utapao (Pattaya)",
+   "country": "Thailand",
+   "iata_code": "UTP"
+ },
+ {
+   "name": "Utica (NY) - Oneida County Airport",
+   "country": "USA",
+   "iata_code": "UCA"
+ },
+ {
+   "name": "Utila",
+   "country": "Honduras",
+   "iata_code": "UII"
+ },
+ {
+   "name": "Uummannaq",
+   "country": "Greenland",
+   "iata_code": "UMD"
+ },
+ {
+   "name": "Uzhgorod",
+   "country": "Ukraine",
+   "iata_code": "UDJ"
+ },
+ {
+   "name": "Vaasa",
+   "country": "Finland",
+   "iata_code": "VAA"
+ },
+ {
+   "name": "Vaexjoe",
+   "country": "Sweden",
+   "iata_code": "VXO"
+ },
+ {
+   "name": "Vail (CO)",
+   "country": "USA",
+   "iata_code": "EGE"
+ },
+ {
+   "name": "Val d'Or",
+   "country": "Canada",
+   "iata_code": "YVO"
+ },
+ {
+   "name": "Valdez (AK)",
+   "country": "USA",
+   "iata_code": "VDZ"
+ },
+ {
+   "name": "Valdosta (GA)",
+   "country": "USA",
+   "iata_code": "VLD"
+ },
+ {
+   "name": "Valencia",
+   "country": "Spain",
+   "iata_code": "VLC"
+ },
+ {
+   "name": "Valencia",
+   "country": "Venezuela",
+   "iata_code": "VLN"
+ },
+ {
+   "name": "Valladolid",
+   "country": "Spain",
+   "iata_code": "VLL"
+ },
+ {
+   "name": "Valparaiso",
+   "country": "Chile",
+   "iata_code": "VAP"
+ },
+ {
+   "name": "Valverde",
+   "country": "Spain",
+   "iata_code": "VDE"
+ },
+ {
+   "name": "Van - Ferit Melen",
+   "country": "Turkey",
+   "iata_code": "VAN"
+ },
+ {
+   "name": "Vancouver - Vancouver International",
+   "country": "Canada",
+   "iata_code": "YVR"
+ },
+ {
+   "name": "Varadero",
+   "country": "Cuba",
+   "iata_code": "VRA"
+ },
+ {
+   "name": "Varanasi",
+   "country": "India",
+   "iata_code": "VNS"
+ },
+ {
+   "name": "Varkaus",
+   "country": "Finland",
+   "iata_code": "VRK"
+ },
+ {
+   "name": "Varna",
+   "country": "Bulgaria",
+   "iata_code": "VAR"
+ },
+ {
+   "name": "Vasteras",
+   "country": "Sweden",
+   "iata_code": "VST"
+ },
+ {
+   "name": "Velikiye Luki (Welikije Luki)",
+   "country": "Russia",
+   "iata_code": "VLU"
+ },
+ {
+   "name": "Venice - Marco Polo",
+   "country": "Italy",
+   "iata_code": "VCE"
+ },
+ {
+   "name": "Veracruz",
+   "country": "Mexico",
+   "iata_code": "VER"
+ },
+ {
+   "name": "Vernal (UT)",
+   "country": "USA",
+   "iata_code": "VEL"
+ },
+ {
+   "name": "Vero Beach/Ft. Pierce (FL)",
+   "country": "USA",
+   "iata_code": "VRB"
+ },
+ {
+   "name": "Verona (Brescia) Montichiari",
+   "country": "Italy",
+   "iata_code": "VBS"
+ },
+ {
+   "name": "Verona",
+   "country": "Italy",
+   "iata_code": "VRN"
+ },
+ {
+   "name": "Victoria",
+   "country": "Canada",
+   "iata_code": "YYJ"
+ },
+ {
+   "name": "Victoria Falls",
+   "country": "Zimbabwe",
+   "iata_code": "VFA"
+ },
+ {
+   "name": "Vidin",
+   "country": "Bulgaria",
+   "iata_code": "VID"
+ },
+ {
+   "name": "Vientiane - Wattay",
+   "country": "Lao PDR",
+   "iata_code": "VTE"
+ },
+ {
+   "name": "Vigo",
+   "country": "Spain",
+   "iata_code": "VGO"
+ },
+ {
+   "name": "Villahermosa",
+   "country": "Mexico",
+   "iata_code": "VSA"
+ },
+ {
+   "name": "Vilnius",
+   "country": "Lithuania",
+   "iata_code": "VNO"
+ },
+ {
+   "name": "Virgin Gorda",
+   "country": "Virgin Islands (British)",
+   "iata_code": "VIJ"
+ },
+ {
+   "name": "Visalia (CA)",
+   "country": "USA",
+   "iata_code": "VIS"
+ },
+ {
+   "name": "Visby",
+   "country": "Sweden",
+   "iata_code": "VBY"
+ },
+ {
+   "name": "Vitoria",
+   "country": "Spain",
+   "iata_code": "VIT"
+ },
+ {
+   "name": "Vitoria - Eurico de Aguiar Salles Airport",
+   "country": "Brazil",
+   "iata_code": "VIX"
+ },
+ {
+   "name": "Vryheid",
+   "country": "South Africa",
+   "iata_code": "VYD"
+ },
+ {
+   "name": "Wabush",
+   "country": "Canada",
+   "iata_code": "YWK"
+ },
+ {
+   "name": "Waco (TX)",
+   "country": "USA",
+   "iata_code": "ACT"
+ },
+ {
+   "name": "Wagga",
+   "country": "Australia",
+   "iata_code": "WGA"
+ },
+ {
+   "name": "Walla Walla (WA)",
+   "country": "USA",
+   "iata_code": "ALW"
+ },
+ {
+   "name": "Wallis",
+   "country": "Wallis and Futuna Islands",
+   "iata_code": "WLS"
+ },
+ {
+   "name": "Walvis Bay",
+   "country": "South Africa",
+   "iata_code": "WVB"
+ },
+ {
+   "name": "Warrnambool",
+   "country": "Australia",
+   "iata_code": "WMB"
+ },
+ {
+   "name": "Warsaw - Frédéric Chopin",
+   "country": "Poland",
+   "iata_code": "WAW"
+ },
+ {
+   "name": "Washington DC - Baltimore Washington International",
+   "country": "USA",
+   "iata_code": "BWI"
+ },
+ {
+   "name": "Washington DC - Dulles International",
+   "country": "USA",
+   "iata_code": "IAD"
+ },
+ {
+   "name": "Washington DC - Ronald Reagan National",
+   "country": "USA",
+   "iata_code": "DCA"
+ },
+ {
+   "name": "Washington DC",
+   "country": "USA",
+   "iata_code": "WAS"
+ },
+ {
+   "name": "Waterloo IA",
+   "country": "USA",
+   "iata_code": "ALO"
+ },
+ {
+   "name": "Watertown (SD)",
+   "country": "USA",
+   "iata_code": "ATY"
+ },
+ {
+   "name": "Wausau/Stevens Point (WI)",
+   "country": "USA",
+   "iata_code": "CWA"
+ },
+ {
+   "name": "Weipa",
+   "country": "Australia",
+   "iata_code": "WEI"
+ },
+ {
+   "name": "Welkom",
+   "country": "South Africa",
+   "iata_code": "WEL"
+ },
+ {
+   "name": "Wellington",
+   "country": "New Zealand",
+   "iata_code": "WLG"
+ },
+ {
+   "name": "Wenatchee (WA)",
+   "country": "USA",
+   "iata_code": "EAT"
+ },
+ {
+   "name": "West Palm Beach (FL)",
+   "country": "USA",
+   "iata_code": "PBI"
+ },
+ {
+   "name": "West Yellowstone (MT)",
+   "country": "USA",
+   "iata_code": "WYS"
+ },
+ {
+   "name": "Westerland, Sylt Airport",
+   "country": "Germany",
+   "iata_code": "GWT"
+ },
+ {
+   "name": "Whakatane",
+   "country": "New Zealand",
+   "iata_code": "WHK"
+ },
+ {
+   "name": "Whale Cove, NT",
+   "country": "Canada",
+   "iata_code": "YXN"
+ },
+ {
+   "name": "Whangarei",
+   "country": "New Zealand",
+   "iata_code": "WRE"
+ },
+ {
+   "name": "White Plains (NY)",
+   "country": "USA",
+   "iata_code": "HPN"
+ },
+ {
+   "name": "Whitehorse",
+   "country": "Canada",
+   "iata_code": "YXY"
+ },
+ {
+   "name": "Whitsunday Resort",
+   "country": "Australia",
+   "iata_code": "HAP"
+ },
+ {
+   "name": "Whyalla",
+   "country": "Australia",
+   "iata_code": "WYA"
+ },
+ {
+   "name": "Wichita Falls (TX)",
+   "country": "USA",
+   "iata_code": "SPS"
+ },
+ {
+   "name": "Wichita (KS)",
+   "country": "USA",
+   "iata_code": "ICT"
+ },
+ {
+   "name": "Wick",
+   "country": "United Kingdom",
+   "iata_code": "WIC"
+ },
+ {
+   "name": "Wickham",
+   "country": "Australia",
+   "iata_code": "WHM"
+ },
+ {
+   "name": "Wien (Vienna) - Vienna International",
+   "country": "Austria",
+   "iata_code": "VIE"
+ },
+ {
+   "name": "Wiesbaden, Air Base",
+   "country": "Germany",
+   "iata_code": "WIE"
+ },
+ {
+   "name": "Wilkes Barre/Scranton (PA)",
+   "country": "USA",
+   "iata_code": "AVP"
+ },
+ {
+   "name": "Williamsport (PA)",
+   "country": "USA",
+   "iata_code": "IPT"
+ },
+ {
+   "name": "Williston (ND)",
+   "country": "USA",
+   "iata_code": "ISL"
+ },
+ {
+   "name": "Wilmington (NC)",
+   "country": "USA",
+   "iata_code": "ILM"
+ },
+ {
+   "name": "Wilna (Vilnius)",
+   "country": "Lithuania",
+   "iata_code": "VNO"
+ },
+ {
+   "name": "Wiluna",
+   "country": "Australia",
+   "iata_code": "WUN"
+ },
+ {
+   "name": "Windhoek - Eros",
+   "country": "Namibia",
+   "iata_code": "ERS"
+ },
+ {
+   "name": "Windhoek - Hosea Kutako International",
+   "country": "Namibia",
+   "iata_code": "WDH"
+ },
+ {
+   "name": "Windsor Ontario",
+   "country": "Canada",
+   "iata_code": "YQG"
+ },
+ {
+   "name": "Winnipeg International",
+   "country": "Canada",
+   "iata_code": "YWG"
+ },
+ {
+   "name": "Wolf Point (MT)",
+   "country": "USA",
+   "iata_code": "OLF"
+ },
+ {
+   "name": "Wollongong",
+   "country": "Australia",
+   "iata_code": "WOL"
+ },
+ {
+   "name": "Woomera",
+   "country": "Australia",
+   "iata_code": "UMR"
+ },
+ {
+   "name": "Worcester (MA)",
+   "country": "USA",
+   "iata_code": "ORH"
+ },
+ {
+   "name": "Worland (WY)",
+   "country": "USA",
+   "iata_code": "WRL"
+ },
+ {
+   "name": "Wrangell (AK)",
+   "country": "USA",
+   "iata_code": "WRG"
+ },
+ {
+   "name": "Wuhan",
+   "country": "Hubei, PR China",
+   "iata_code": "WUH"
+ },
+ {
+   "name": "Wyndham",
+   "country": "Australia",
+   "iata_code": "WYN"
+ },
+ {
+   "name": "Xiamen",
+   "country": "Fujian, PR China",
+   "iata_code": "XMN"
+ },
+ {
+   "name": "Xi'an - Xianyang",
+   "country": "Shaanxi, PR China",
+   "iata_code": "XIY"
+ },
+ {
+   "name": "Yakima (WA)",
+   "country": "USA",
+   "iata_code": "YKM"
+ },
+ {
+   "name": "Yakutat (AK)",
+   "country": "USA",
+   "iata_code": "YAK"
+ },
+ {
+   "name": "Yakutsk",
+   "country": "Russia",
+   "iata_code": "YKS"
+ },
+ {
+   "name": "Yamagata, Junmachi",
+   "country": "Japan",
+   "iata_code": "GAJ"
+ },
+ {
+   "name": "Yamoussoukro",
+   "country": "Côte d'Ivoire",
+   "iata_code": "ASK"
+ },
+ {
+   "name": "Yanbu",
+   "country": "Saudi Arabia",
+   "iata_code": "YNB"
+ },
+ {
+   "name": "Yangon (Rangoon) - Mingaladon",
+   "country": "Myanmar",
+   "iata_code": "RGN"
+ },
+ {
+   "name": "Yaounde",
+   "country": "Cameroon",
+   "iata_code": "YAO"
+ },
+ {
+   "name": "Yellowknife",
+   "country": "Canada",
+   "iata_code": "YZF"
+ },
+ {
+   "name": "Yekaterinburg - Koltsovo Airport",
+   "country": "Russia",
+   "iata_code": "SVX"
+ },
+ {
+   "name": "Yichang",
+   "country": "Hubei, PR China",
+   "iata_code": "YIH"
+ },
+ {
+   "name": "Yokohama",
+   "country": "Japan",
+   "iata_code": "YOK"
+ },
+ {
+   "name": "Yuma (AZ)",
+   "country": "USA",
+   "iata_code": "YUM"
+ },
+ {
+   "name": "Zacatecas",
+   "country": "Mexico",
+   "iata_code": "ZCL"
+ },
+ {
+   "name": "Zadar",
+   "country": "Croatia (Hrvatska)",
+   "iata_code": "ZAD"
+ },
+ {
+   "name": "Zagreb - Zagreb Airport Pleso",
+   "country": "Croatia (Hrvatska)",
+   "iata_code": "ZAG"
+ },
+ {
+   "name": "Zakynthos",
+   "country": "Greece",
+   "iata_code": "ZTH"
+ },
+ {
+   "name": "Zaragoza",
+   "country": "Spain",
+   "iata_code": "ZAZ"
+ },
+ {
+   "name": "Zhob",
+   "country": "Pakistan",
+   "iata_code": "PZH"
+ },
+ {
+   "name": "Zinder",
+   "country": "Niger",
+   "iata_code": "ZND"
+ },
+ {
+   "name": "Zouerate",
+   "country": "Mauritania",
+   "iata_code": "OUZ"
+ },
+ {
+   "name": "Zurich (Zürich) - Kloten",
+   "country": "Switzerland",
+   "iata_code": "ZRH"
+ }
+]
