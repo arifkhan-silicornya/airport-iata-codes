@@ -21,4 +21,5 @@ function airport(params) {
     }
     return arr;
 }
+console.log(airport("daC"));
 module.exports = airport
