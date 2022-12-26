@@ -1,6 +1,6 @@
 {
     "name": "airport-iata-codes",
-    "version": "1.0.3",
+    "version": "1.0.5",
     "description": "find airports iata codes, airports name, city name",
     "main": "index.js",
     "scripts": {
