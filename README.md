@@ -26,6 +26,8 @@ const allData = require('airport-iata-codes')
 
 ```shell
 const data = allData(); // All Data
+const data = allData('Dhaka'); // Filter by City Name
+const data = allData('Hazrat Shahjalal International Airpor'); // Filter by Airport Name
 const data = allData('DAC'); // Filter by iata code
 
 console.log(data);

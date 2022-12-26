@@ -1,6 +1,7 @@
 const data = require('./AirportIaTaCode.json');
 
 
+
 function airport(params) {
     let arr = [];
     if (params === "undefined" || params === undefined || params === "") {
@@ -10,7 +11,9 @@ function airport(params) {
     } else {
         data.map((dat) => {
             if (
-                dat.iata_code.toLowerCase().search(params.toLowerCase()) !== -1 
+                dat.name.toLowerCase().search(params.toLowerCase()) !== -1 ||
+                dat.iata_code.toLowerCase().search(params.toLowerCase()) !== -1 ||
+                dat.country.toLowerCase().search(params.toLowerCase()) !== -1
             ) {
                 arr.push(dat);
             }
