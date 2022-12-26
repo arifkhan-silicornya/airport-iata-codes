@@ -27,6 +27,7 @@ const allData = require('airport-iata-codes')
 ```shell
 const data = allData(); // All Data
 const data = allData('DAC'); // Filter by iata code
+const data = allData('dac'); // Filter by iata code
 
 console.log(data);
 
@@ -37,9 +38,24 @@ console.log(data);
 ```shell
 [
   {
-    name: 'Dhaka - Zia International Airport',
-    country: 'Bangladesh',
-    iata_code: 'DAC'
+    id: 26534,
+    ident: 'VGZR',
+    type: 'medium_airport',
+    name: 'Dhaka / Hazrat Shahjalal International Airport',
+    latitude_deg: '23.843347',
+    longitude_deg: '90.397783',
+    elevation_ft: 30,
+    continent: 'AS',
+    iso_country: 'BD',
+    iso_region: 'BD-3',
+    municipality: 'Dhaka',
+    scheduled_service: 'yes',
+    gps_code: 'VGHS',
+    iata_code: 'DAC',
+    local_code: '',
+    home_link: '',
+    wikipedia_link: 'http://en.wikipedia.org/wiki/Zia_International_Airport',
+    keywords: 'VGZR, Zia International Airport, Dacca International Airport'
   }
 ]
 
