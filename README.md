@@ -1,6 +1,6 @@
 # airport-iata-codes
 
-Search airport related data by name,iata code and city 
+Search airport related data by iata code 
 
 
 ![npm](https://img.shields.io/npm/v/airport-iata-codes)
@@ -38,24 +38,19 @@ console.log(data);
 ```shell
 [
   {
-    id: 26534,
-    ident: 'VGZR',
-    type: 'medium_airport',
-    name: 'Dhaka / Hazrat Shahjalal International Airport',
-    latitude_deg: '23.843347',
-    longitude_deg: '90.397783',
-    elevation_ft: 30,
-    continent: 'AS',
-    iso_country: 'BD',
-    iso_region: 'BD-3',
-    municipality: 'Dhaka',
-    scheduled_service: 'yes',
-    gps_code: 'VGHS',
     iata_code: 'DAC',
-    local_code: '',
-    home_link: '',
-    wikipedia_link: 'http://en.wikipedia.org/wiki/Zia_International_Airport',
-    keywords: 'VGZR, Zia International Airport, Dacca International Airport'
+    time_zone_id: 'Asia/Dhaka',
+    name: 'Hazrat Shahjalal International Airport',
+    city_code: 'DAC',
+    country_id: 'BD',
+    location: 'POINT (90.40375285964708 23.84229135)',
+    elevation: 32,
+    url: '',
+    icao: 'VGHS',
+    city: 'Tungi',
+    county: '',
+    municipality: 'Dhaka',
+    id: 2251
   }
 ]
 

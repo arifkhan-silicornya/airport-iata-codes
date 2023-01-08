@@ -1,4 +1,4 @@
-const data = require('./airport_iata_min.json');
+const data = require('./airport_iata_v5.json');
 
 
 
