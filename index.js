@@ -19,5 +19,4 @@ function airport(params) {
     }
     return arr;
 }
-console.log(airport("ZVj"))
 module.exports = airport
