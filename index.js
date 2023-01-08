@@ -1,4 +1,4 @@
-const data = require('./airport_iata_min.json');
+const data = require('./airport_ver_6.json');
 
 
 
@@ -19,4 +19,5 @@ function airport(params) {
     }
     return arr;
 }
+console.log(airport("ZVj"))
 module.exports = airport
