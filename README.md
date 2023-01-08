@@ -1,6 +1,6 @@
 # airport-iata-codes
 
-Search airport related data by name,iata code and city 
+Search airport related data by iata code 
 
 
 ![npm](https://img.shields.io/npm/v/airport-iata-codes)
@@ -26,8 +26,8 @@ const allData = require('airport-iata-codes')
 
 ```shell
 const data = allData(); // All Data
-const data = allData('DAC'); // Filter by iata code
-const data = allData('dac'); // Filter by iata code
+const data = allData('ZVJ'); // Filter by iata code
+const data = allData('zvj'); // Filter by iata code
 
 console.log(data);
 
@@ -38,24 +38,24 @@ console.log(data);
 ```shell
 [
   {
-    id: 26534,
-    ident: 'VGZR',
-    type: 'medium_airport',
-    name: 'Dhaka / Hazrat Shahjalal International Airport',
-    latitude_deg: '23.843347',
-    longitude_deg: '90.397783',
-    elevation_ft: 30,
+    id: 27245,
+    ident: '09N',
+    type: 'small_airport',
+    name: 'EK Bus Station Airport',
+    latitude_deg: '124.432972',
+    longitude_deg: '54.651138',
+    elevation_ft: 62,
     continent: 'AS',
-    iso_country: 'BD',
-    iso_region: 'BD-3',
-    municipality: 'Dhaka',
+    iso_country: 'MH',
+    iso_region: 'MH-UTI',
+    municipality: 'Abu Dhabi,Dubai',
     scheduled_service: 'yes',
-    gps_code: 'VGHS',
-    iata_code: 'DAC',
-    local_code: '',
+    gps_code: '09N',
+    iata_code: 'ZVJ',
+    local_code: '09N',
     home_link: '',
-    wikipedia_link: 'http://en.wikipedia.org/wiki/Zia_International_Airport',
-    keywords: 'VGZR, Zia International Airport, Dacca International Airport'
+    wikipedia_link: '',
+    keywords: ''
   }
 ]
 
