@@ -38,7 +38,6 @@ console.log(data);
 ```shell
 [
   {
-<<<<<<< HEAD
     iata_code: 'ZVJ',
     time_zone_id: 'Asia/Dubai',
     name: 'EK Bus Station Airport',
@@ -52,26 +51,6 @@ console.log(data);
     county: 'United Arab Emirates',
     municipality: 'Abu Dhabi,Dubai',
     id: 9766
-=======
-    id: 27245,
-    ident: '09N',
-    type: 'small_airport',
-    name: 'EK Bus Station Airport',
-    latitude_deg: '124.432972',
-    longitude_deg: '54.651138',
-    elevation_ft: 62,
-    continent: 'AS',
-    iso_country: 'MH',
-    iso_region: 'MH-UTI',
-    municipality: 'Abu Dhabi,Dubai',
-    scheduled_service: 'yes',
-    gps_code: '09N',
-    iata_code: 'ZVJ',
-    local_code: '09N',
-    home_link: '',
-    wikipedia_link: '',
-    keywords: ''
->>>>>>> refs/remotes/origin/main
   }
 ]
 
