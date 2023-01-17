@@ -26,9 +26,8 @@ const allData = require('airport-iata-codes')
 
 ```shell
 const data = allData(); // All Data
-const data = allData('Dhaka'); // Filter by City Name
-const data = allData('Hazrat Shahjalal International Airpor'); // Filter by Airport Name
-const data = allData('DAC'); // Filter by iata code
+const data = allData('ZVJ'); // Filter by iata code
+const data = allData('zvj'); // Filter by iata code
 
 console.log(data);
 
@@ -39,9 +38,19 @@ console.log(data);
 ```shell
 [
   {
-    name: 'Dhaka - Zia International Airport',
-    country: 'Bangladesh',
-    iata_code: 'DAC'
+    iata_code: 'ZVJ',
+    time_zone_id: 'Asia/Dubai',
+    name: 'EK Bus Station Airport',
+    city_code: 'AUH',
+    country_id: 'AE',
+    location: 'POINT (124.432972 54.651138)',
+    elevation: 62,
+    url: '',
+    icao: '',
+    city: 'Abu Dhabi',
+    county: 'United Arab Emirates',
+    municipality: 'Abu Dhabi,Dubai',
+    id: 9766
   }
 ]
 
