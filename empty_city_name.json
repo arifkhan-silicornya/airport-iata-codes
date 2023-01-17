@@ -1,0 +1,8246 @@
+[
+    {
+      "code": "UGL",
+      "city": "Antarctica"
+    },
+    {
+      "code": "SXW",
+      "city": "Sauren"
+    },
+    {
+      "code": "NDV",
+      "city": ""
+    },
+    {
+      "code": "NET",
+      "city": ""
+    },
+    {
+      "code": "MSK",
+      "city": "Puerto Gaitan"
+    },
+    {
+      "code": "YIG",
+      "city": "Stuart Island"
+    },
+    {
+      "code": "LHB",
+      "city": ""
+    },
+    {
+      "code": "MZS",
+      "city": ""
+    },
+    {
+      "code": "YFL",
+      "city": "Fort Reliance"
+    },
+    {
+      "code": "YEP",
+      "city": ""
+    },
+    {
+      "code": "YGA",
+      "city": "Chongqing"
+    },
+    {
+      "code": "NKI",
+      "city": "Naukiti Bay"
+    },
+    {
+      "code": "YSV",
+      "city": ""
+    },
+    {
+      "code": "YTI",
+      "city": ""
+    },
+    {
+      "code": "YHA",
+      "city": "Port Hope Simpson"
+    },
+    {
+      "code": "NGR",
+      "city": "Ningerum"
+    },
+    {
+      "code": "AGK",
+      "city": "Kagua"
+    },
+    {
+      "code": "CBA",
+      "city": ""
+    },
+    {
+      "code": "YLE",
+      "city": "Whati"
+    },
+    {
+      "code": "YGQ",
+      "city": "Geraldton"
+    },
+    {
+      "code": "HIT",
+      "city": "Haivaro"
+    },
+    {
+      "code": "YNN",
+      "city": "Yandicoogina"
+    },
+    {
+      "code": "YOG",
+      "city": "Ogoki"
+    },
+    {
+      "code": "SSM",
+      "city": "Sault Ste Marie"
+    },
+    {
+      "code": "YFH",
+      "city": "Fort Hope"
+    },
+    {
+      "code": "CSP",
+      "city": ""
+    },
+    {
+      "code": "LCO",
+      "city": "Lage"
+    },
+    {
+      "code": "VBM",
+      "city": ""
+    },
+    {
+      "code": "YIV",
+      "city": "Island Lk/Garden Hill"
+    },
+    {
+      "code": "QMK",
+      "city": ""
+    },
+    {
+      "code": "YHF",
+      "city": "Hearst"
+    },
+    {
+      "code": "ATP",
+      "city": "Aitape"
+    },
+    {
+      "code": "AUP",
+      "city": "Agaun"
+    },
+    {
+      "code": "AME",
+      "city": "Alto Molocue"
+    },
+    {
+      "code": "BCZ",
+      "city": "Bickerton Island"
+    },
+    {
+      "code": "YLR",
+      "city": "Leaf Rapids"
+    },
+    {
+      "code": "YLJ",
+      "city": "Meadow Lake"
+    },
+    {
+      "code": "BCP",
+      "city": "Bambu"
+    },
+    {
+      "code": "YJF",
+      "city": "Fort Liard"
+    },
+    {
+      "code": "BHL",
+      "city": "Bahia de los Angeles"
+    },
+    {
+      "code": "NNK",
+      "city": "Naknek"
+    },
+    {
+      "code": "WTL",
+      "city": "Tuntutuliak"
+    },
+    {
+      "code": "YPS",
+      "city": "Port Hawkesbury"
+    },
+    {
+      "code": "BNF",
+      "city": "Baranof"
+    },
+    {
+      "code": "CHW",
+      "city": ""
+    },
+    {
+      "code": "AKV",
+      "city": "Akulivik"
+    },
+    {
+      "code": "ANH",
+      "city": ""
+    },
+    {
+      "code": "YKJ",
+      "city": "Key Lake"
+    },
+    {
+      "code": "YMG",
+      "city": "Manitouwadge"
+    },
+    {
+      "code": "YUD",
+      "city": "Umiujaq"
+    },
+    {
+      "code": "YFJ",
+      "city": "Wekweeti"
+    },
+    {
+      "code": "YPC",
+      "city": "Paulatuk"
+    },
+    {
+      "code": "YXN",
+      "city": "Whale Cove"
+    },
+    {
+      "code": "LEG",
+      "city": "Aleg"
+    },
+    {
+      "code": "YSK",
+      "city": "Sanikiluaq"
+    },
+    {
+      "code": "YCK",
+      "city": "Colville Lake"
+    },
+    {
+      "code": "YSP",
+      "city": "Marathon"
+    },
+    {
+      "code": "YST",
+      "city": "St Theresa Point"
+    },
+    {
+      "code": "BXL",
+      "city": "Nanuya Lailai"
+    },
+    {
+      "code": "YTQ",
+      "city": "Tasiujaq"
+    },
+    {
+      "code": "YGZ",
+      "city": "Grise Fiord"
+    },
+    {
+      "code": "YLH",
+      "city": "Lansdowne House"
+    },
+    {
+      "code": "YTL",
+      "city": "Big Trout Lake"
+    },
+    {
+      "code": "EFB",
+      "city": ""
+    },
+    {
+      "code": "YVM",
+      "city": "Qikiqtarjuaq"
+    },
+    {
+      "code": "MBN",
+      "city": "Mount Barnett"
+    },
+    {
+      "code": "MZD",
+      "city": "Mendez"
+    },
+    {
+      "code": "YPB",
+      "city": "Port Alberni"
+    },
+    {
+      "code": "ZLT",
+      "city": "La Tabatiere"
+    },
+    {
+      "code": "YNL",
+      "city": "Points North Landing"
+    },
+    {
+      "code": "DIO",
+      "city": "Dios"
+    },
+    {
+      "code": "YYL",
+      "city": "Lynn Lake"
+    },
+    {
+      "code": "TKM",
+      "city": ""
+    },
+    {
+      "code": "SUR",
+      "city": "Summer Beaver"
+    },
+    {
+      "code": "XGL",
+      "city": ""
+    },
+    {
+      "code": "KES",
+      "city": "Kelsey"
+    },
+    {
+      "code": "YSI",
+      "city": "Frying Pan Island"
+    },
+    {
+      "code": "BYX",
+      "city": "Baniyala"
+    },
+    {
+      "code": "AGL",
+      "city": "Wanigela"
+    },
+    {
+      "code": "BFB",
+      "city": ""
+    },
+    {
+      "code": "YZP",
+      "city": "Sandspit"
+    },
+    {
+      "code": "ZPB",
+      "city": "Sachigo Lake"
+    },
+    {
+      "code": "OBA",
+      "city": "Oban"
+    },
+    {
+      "code": "CGC",
+      "city": "Cape Gloucester"
+    },
+    {
+      "code": "RNA",
+      "city": "Arona"
+    },
+    {
+      "code": "DLO",
+      "city": ""
+    },
+    {
+      "code": "SDZ",
+      "city": "Shetland Islands"
+    },
+    {
+      "code": "BVD",
+      "city": ""
+    },
+    {
+      "code": "ZST",
+      "city": "Stewart"
+    },
+    {
+      "code": "YCQ",
+      "city": "Chetwynd"
+    },
+    {
+      "code": "YEA",
+      "city": "Edmonton"
+    },
+    {
+      "code": "QJI",
+      "city": ""
+    },
+    {
+      "code": "YAE",
+      "city": ""
+    },
+    {
+      "code": "AFR",
+      "city": "Afore"
+    },
+    {
+      "code": "CBZ",
+      "city": "Binzhou"
+    },
+    {
+      "code": "CMU",
+      "city": "Kundiawa"
+    },
+    {
+      "code": "DVD",
+      "city": "Andavadoaka"
+    },
+    {
+      "code": "YNF",
+      "city": ""
+    },
+    {
+      "code": "YNR",
+      "city": ""
+    },
+    {
+      "code": "YNE",
+      "city": "Norway House"
+    },
+    {
+      "code": "KKF",
+      "city": ""
+    },
+    {
+      "code": "KBK",
+      "city": "Kushinagar"
+    },
+    {
+      "code": "SGG",
+      "city": ""
+    },
+    {
+      "code": "HAE",
+      "city": ""
+    },
+    {
+      "code": "HAP",
+      "city": ""
+    },
+    {
+      "code": "HCB",
+      "city": ""
+    },
+    {
+      "code": "WNC",
+      "city": ""
+    },
+    {
+      "code": "RAL",
+      "city": "Riverside"
+    },
+    {
+      "code": "AEK",
+      "city": "Aseki"
+    },
+    {
+      "code": "ARL",
+      "city": "Arly"
+    },
+    {
+      "code": "BWE",
+      "city": "Braunschweig/Wolfsburg"
+    },
+    {
+      "code": "CKX",
+      "city": "Chicken"
+    },
+    {
+      "code": "CRY",
+      "city": "Carlton Hill"
+    },
+    {
+      "code": "CSL",
+      "city": ""
+    },
+    {
+      "code": "YCV",
+      "city": ""
+    },
+    {
+      "code": "AIC",
+      "city": "Airok"
+    },
+    {
+      "code": "XYP",
+      "city": ""
+    },
+    {
+      "code": "TRP",
+      "city": ""
+    },
+    {
+      "code": "YMC",
+      "city": ""
+    },
+    {
+      "code": "AGG",
+      "city": "Angoram"
+    },
+    {
+      "code": "CIV",
+      "city": ""
+    },
+    {
+      "code": "CRJ",
+      "city": "Coorabie"
+    },
+    {
+      "code": "CWS",
+      "city": "Center Island"
+    },
+    {
+      "code": "NIE",
+      "city": ""
+    },
+    {
+      "code": "ZFB",
+      "city": ""
+    },
+    {
+      "code": "CSW",
+      "city": ""
+    },
+    {
+      "code": "DAO",
+      "city": "Dabo"
+    },
+    {
+      "code": "YKM",
+      "city": "Yakima"
+    },
+    {
+      "code": "AMU",
+      "city": "Amanab"
+    },
+    {
+      "code": "AMY",
+      "city": "Ambatomainty"
+    },
+    {
+      "code": "SDZ",
+      "city": "Shetland Islands"
+    },
+    {
+      "code": "DGK",
+      "city": "Dugong Beach Lodge"
+    },
+    {
+      "code": "LPW",
+      "city": ""
+    },
+    {
+      "code": "LSR",
+      "city": "Kutacane"
+    },
+    {
+      "code": "ADC",
+      "city": "Andakombe"
+    },
+    {
+      "code": "AFT",
+      "city": "Afutara"
+    },
+    {
+      "code": "AIE",
+      "city": "Aiome"
+    },
+    {
+      "code": "FIE",
+      "city": "Fair Isle"
+    },
+    {
+      "code": "HDA",
+      "city": ""
+    },
+    {
+      "code": "NQT",
+      "city": "Nottingham"
+    },
+    {
+      "code": "WOO",
+      "city": ""
+    },
+    {
+      "code": "DDI",
+      "city": ""
+    },
+    {
+      "code": "DOI",
+      "city": "Dongying"
+    },
+    {
+      "code": "BAJ",
+      "city": "Bali"
+    },
+    {
+      "code": "YDH",
+      "city": ""
+    },
+    {
+      "code": "ARP",
+      "city": "Aragip"
+    },
+    {
+      "code": "ASQ",
+      "city": "Austin"
+    },
+    {
+      "code": "ATT",
+      "city": "Atmautluak"
+    },
+    {
+      "code": "AUE",
+      "city": "Abu Rudeis"
+    },
+    {
+      "code": "YDS",
+      "city": ""
+    },
+    {
+      "code": "AED",
+      "city": "A Coruna"
+    },
+    {
+      "code": "YCJ",
+      "city": ""
+    },
+    {
+      "code": "YDK",
+      "city": ""
+    },
+    {
+      "code": "ONN",
+      "city": ""
+    },
+    {
+      "code": "MWL",
+      "city": "Mineral Wells"
+    },
+    {
+      "code": "YMR",
+      "city": ""
+    },
+    {
+      "code": "YNK",
+      "city": ""
+    },
+    {
+      "code": "TEK",
+      "city": "Tatitlek"
+    },
+    {
+      "code": "AGM",
+      "city": ""
+    },
+    {
+      "code": "ATD",
+      "city": "Atoifi"
+    },
+    {
+      "code": "AYY",
+      "city": "Pottuvil"
+    },
+    {
+      "code": "SJX",
+      "city": "Sarteneja"
+    },
+    {
+      "code": "DGB",
+      "city": ""
+    },
+    {
+      "code": "FRP",
+      "city": ""
+    },
+    {
+      "code": "PGP",
+      "city": ""
+    },
+    {
+      "code": "LIJ",
+      "city": ""
+    },
+    {
+      "code": "LLU",
+      "city": ""
+    },
+    {
+      "code": "AUV",
+      "city": "Aumo"
+    },
+    {
+      "code": "AWR",
+      "city": "Awar"
+    },
+    {
+      "code": "DOF",
+      "city": ""
+    },
+    {
+      "code": "SZC",
+      "city": ""
+    },
+    {
+      "code": "EWD",
+      "city": ""
+    },
+    {
+      "code": "HBC",
+      "city": ""
+    },
+    {
+      "code": "AVX",
+      "city": "Avalon"
+    },
+    {
+      "code": "YNX",
+      "city": "Snap Lake"
+    },
+    {
+      "code": "DDG",
+      "city": "Dandong"
+    },
+    {
+      "code": "DEI",
+      "city": "Denis Island"
+    },
+    {
+      "code": "PRF",
+      "city": ""
+    },
+    {
+      "code": "PVY",
+      "city": ""
+    },
+    {
+      "code": "SSW",
+      "city": "Stuart Island"
+    },
+    {
+      "code": "TNK",
+      "city": "Tununak"
+    },
+    {
+      "code": "AKM",
+      "city": "Zakouma"
+    },
+    {
+      "code": "DGF",
+      "city": "Douglas Lake"
+    },
+    {
+      "code": "PNF",
+      "city": ""
+    },
+    {
+      "code": "FAQ",
+      "city": "Freida River"
+    },
+    {
+      "code": "RLA",
+      "city": ""
+    },
+    {
+      "code": "AVX",
+      "city": "Avalon"
+    },
+    {
+      "code": "GST",
+      "city": "Gustavus"
+    },
+    {
+      "code": "BAO",
+      "city": "Panzhihua"
+    },
+    {
+      "code": "BBP",
+      "city": "Bembridge"
+    },
+    {
+      "code": "BCV",
+      "city": "Belmopan"
+    },
+    {
+      "code": "RWB",
+      "city": ""
+    },
+    {
+      "code": "MWP",
+      "city": ""
+    },
+    {
+      "code": "KFP",
+      "city": "False Pass"
+    },
+    {
+      "code": "KKA",
+      "city": "Koyuk"
+    },
+    {
+      "code": "BGP",
+      "city": "Bongo"
+    },
+    {
+      "code": "HCR",
+      "city": "Holy Cross"
+    },
+    {
+      "code": "OCI",
+      "city": ""
+    },
+    {
+      "code": "UQE",
+      "city": ""
+    },
+    {
+      "code": "OHC",
+      "city": ""
+    },
+    {
+      "code": "SCJ",
+      "city": ""
+    },
+    {
+      "code": "CFA",
+      "city": ""
+    },
+    {
+      "code": "KYK",
+      "city": "Karluk"
+    },
+    {
+      "code": "CWG",
+      "city": ""
+    },
+    {
+      "code": "HSL",
+      "city": "Huslia"
+    },
+    {
+      "code": "AKN",
+      "city": "King Salmon"
+    },
+    {
+      "code": "AKP",
+      "city": "Anaktuvuk Pass"
+    },
+    {
+      "code": "BEA",
+      "city": "Bereina"
+    },
+    {
+      "code": "IAN",
+      "city": "Kiana"
+    },
+    {
+      "code": "SHX",
+      "city": "Shageluk"
+    },
+    {
+      "code": "KPH",
+      "city": ""
+    },
+    {
+      "code": "LUR",
+      "city": "Cape Lisburne"
+    },
+    {
+      "code": "LMA",
+      "city": "Lake Minchumina"
+    },
+    {
+      "code": "VCB",
+      "city": ""
+    },
+    {
+      "code": "OOK",
+      "city": "Toksook Bay"
+    },
+    {
+      "code": "KPK",
+      "city": ""
+    },
+    {
+      "code": "SMK",
+      "city": "St Michael"
+    },
+    {
+      "code": "KUW",
+      "city": ""
+    },
+    {
+      "code": "PTU",
+      "city": "Platinum"
+    },
+    {
+      "code": "SKJ",
+      "city": ""
+    },
+    {
+      "code": "VKW",
+      "city": ""
+    },
+    {
+      "code": "KPC",
+      "city": "Port Clarence"
+    },
+    {
+      "code": "WDB",
+      "city": ""
+    },
+    {
+      "code": "CZO",
+      "city": "Chistochina"
+    },
+    {
+      "code": "MLY",
+      "city": "Manley Hot Springs"
+    },
+    {
+      "code": "ORT",
+      "city": "Northway"
+    },
+    {
+      "code": "NLG",
+      "city": "Nelson Lagoon"
+    },
+    {
+      "code": "SDZ",
+      "city": "Shetland Islands"
+    },
+    {
+      "code": "FIC",
+      "city": ""
+    },
+    {
+      "code": "RBY",
+      "city": "Ruby"
+    },
+    {
+      "code": "XEO",
+      "city": ""
+    },
+    {
+      "code": "PFD",
+      "city": ""
+    },
+    {
+      "code": "XLF",
+      "city": ""
+    },
+    {
+      "code": "KSM",
+      "city": "St Mary's"
+    },
+    {
+      "code": "GBN",
+      "city": ""
+    },
+    {
+      "code": "FYU",
+      "city": "Fort Yukon"
+    },
+    {
+      "code": "JNN",
+      "city": ""
+    },
+    {
+      "code": "GAR",
+      "city": "Garaina"
+    },
+    {
+      "code": "BNM",
+      "city": "Bodinumu"
+    },
+    {
+      "code": "BNZ",
+      "city": "Banz"
+    },
+    {
+      "code": "CPN",
+      "city": "Cape Rodney"
+    },
+    {
+      "code": "SLQ",
+      "city": "Sleetmute"
+    },
+    {
+      "code": "YCI",
+      "city": ""
+    },
+    {
+      "code": "YCX",
+      "city": ""
+    },
+    {
+      "code": "YDI",
+      "city": ""
+    },
+    {
+      "code": "BOT",
+      "city": "Boset"
+    },
+    {
+      "code": "YJO",
+      "city": ""
+    },
+    {
+      "code": "YAV",
+      "city": "Mayne Island"
+    },
+    {
+      "code": "QJE",
+      "city": ""
+    },
+    {
+      "code": "KKD",
+      "city": "Kokoda"
+    },
+    {
+      "code": "KUY",
+      "city": "Kamusi"
+    },
+    {
+      "code": "KWO",
+      "city": "Kawito"
+    },
+    {
+      "code": "GEI",
+      "city": "Greybull"
+    },
+    {
+      "code": "RBH",
+      "city": ""
+    },
+    {
+      "code": "IHU",
+      "city": "Ihu"
+    },
+    {
+      "code": "YRE",
+      "city": ""
+    },
+    {
+      "code": "YSR",
+      "city": ""
+    },
+    {
+      "code": "BPB",
+      "city": "Boridi"
+    },
+    {
+      "code": "YGS",
+      "city": ""
+    },
+    {
+      "code": "BPK",
+      "city": "Biangabip"
+    },
+    {
+      "code": "BTX",
+      "city": "Betoota"
+    },
+    {
+      "code": "BUC",
+      "city": "Burketown"
+    },
+    {
+      "code": "BDW",
+      "city": "Bedford Downs"
+    },
+    {
+      "code": "HCA",
+      "city": "Big Spring"
+    },
+    {
+      "code": "BGU",
+      "city": "Bangassou"
+    },
+    {
+      "code": "YBI",
+      "city": "Black Tickle"
+    },
+    {
+      "code": "ZFL",
+      "city": "Zhaosu"
+    },
+    {
+      "code": "BLS",
+      "city": "Bollon"
+    },
+    {
+      "code": "YIO",
+      "city": "Pond Inlet"
+    },
+    {
+      "code": "EDA",
+      "city": "Edna Bay"
+    },
+    {
+      "code": "TBG",
+      "city": "Tabubil"
+    },
+    {
+      "code": "BQL",
+      "city": "Boulia"
+    },
+    {
+      "code": "GIC",
+      "city": "Boigu Island"
+    },
+    {
+      "code": "ANO",
+      "city": "Angoche"
+    },
+    {
+      "code": "HBH",
+      "city": "Entrance Island"
+    },
+    {
+      "code": "ISA",
+      "city": "Mount Isa"
+    },
+    {
+      "code": "LRE",
+      "city": "Longreach"
+    },
+    {
+      "code": "MYI",
+      "city": "Miri"
+    },
+    {
+      "code": "LHG",
+      "city": "Lightning Ridge"
+    },
+    {
+      "code": "DKL",
+      "city": ""
+    },
+    {
+      "code": "BRZ",
+      "city": ""
+    },
+    {
+      "code": "BSZ",
+      "city": ""
+    },
+    {
+      "code": "BHT",
+      "city": "Brighton Downs"
+    },
+    {
+      "code": "BVL",
+      "city": "Baures"
+    },
+    {
+      "code": "HIH",
+      "city": ""
+    },
+    {
+      "code": "HZK",
+      "city": "Husavik"
+    },
+    {
+      "code": "BXV",
+      "city": "Breiddalsvik"
+    },
+    {
+      "code": "BIU",
+      "city": "Bildudalur"
+    },
+    {
+      "code": "YKG",
+      "city": "Kangirsuk"
+    },
+    {
+      "code": "YAT",
+      "city": "Attawapiskat"
+    },
+    {
+      "code": "KZH",
+      "city": ""
+    },
+    {
+      "code": "YHK",
+      "city": "Gjoa Haven"
+    },
+    {
+      "code": "CZH",
+      "city": "Corozal"
+    },
+    {
+      "code": "FMC",
+      "city": ""
+    },
+    {
+      "code": "YGY",
+      "city": ""
+    },
+    {
+      "code": "LCS",
+      "city": "Longchuan"
+    },
+    {
+      "code": "QPW",
+      "city": ""
+    },
+    {
+      "code": "YLS",
+      "city": "Lebel-sur-Quevillon"
+    },
+    {
+      "code": "OUI",
+      "city": "Ouessant"
+    },
+    {
+      "code": "PCE",
+      "city": ""
+    },
+    {
+      "code": "PFA",
+      "city": "Harbin"
+    },
+    {
+      "code": "EPI",
+      "city": ""
+    },
+    {
+      "code": "FTL",
+      "city": ""
+    },
+    {
+      "code": "BJN",
+      "city": "Bajone"
+    },
+    {
+      "code": "BJQ",
+      "city": "Bahja"
+    },
+    {
+      "code": "YMP",
+      "city": "Port McNeill"
+    },
+    {
+      "code": "YNP",
+      "city": "Natuashish"
+    },
+    {
+      "code": "AYU",
+      "city": "Aiyura"
+    },
+    {
+      "code": "YNC",
+      "city": "Wemindji"
+    },
+    {
+      "code": "POQ",
+      "city": ""
+    },
+    {
+      "code": "RLU",
+      "city": ""
+    },
+    {
+      "code": "EXI",
+      "city": "Excursion Inlet"
+    },
+    {
+      "code": "SOI",
+      "city": "Stronsay"
+    },
+    {
+      "code": "PTR",
+      "city": ""
+    },
+    {
+      "code": "FNK",
+      "city": ""
+    },
+    {
+      "code": "FXM",
+      "city": ""
+    },
+    {
+      "code": "GTB",
+      "city": ""
+    },
+    {
+      "code": "RXA",
+      "city": "Rawdah"
+    },
+    {
+      "code": "HGT",
+      "city": ""
+    },
+    {
+      "code": "KGE",
+      "city": "Kaghau Island"
+    },
+    {
+      "code": "YPL",
+      "city": "Pickle Lake"
+    },
+    {
+      "code": "YPX",
+      "city": "Puvirnituq"
+    },
+    {
+      "code": "QUP",
+      "city": ""
+    },
+    {
+      "code": "VIK",
+      "city": ""
+    },
+    {
+      "code": "YPM",
+      "city": "Pikangikum"
+    },
+    {
+      "code": "YCP",
+      "city": ""
+    },
+    {
+      "code": "XBE",
+      "city": "Bearskin Lake"
+    },
+    {
+      "code": "JSO",
+      "city": "Sobral"
+    },
+    {
+      "code": "YTK",
+      "city": ""
+    },
+    {
+      "code": "GST",
+      "city": "Gustavus"
+    },
+    {
+      "code": "PTB",
+      "city": "Petersburg"
+    },
+    {
+      "code": "GEK",
+      "city": ""
+    },
+    {
+      "code": "GFB",
+      "city": ""
+    },
+    {
+      "code": "GLQ",
+      "city": ""
+    },
+    {
+      "code": "JCH",
+      "city": ""
+    },
+    {
+      "code": "YLF",
+      "city": ""
+    },
+    {
+      "code": "YSG",
+      "city": "Lutselke"
+    },
+    {
+      "code": "CEL",
+      "city": "Canela"
+    },
+    {
+      "code": "YSE",
+      "city": "Squamish"
+    },
+    {
+      "code": "YRT",
+      "city": "Rankin Inlet"
+    },
+    {
+      "code": "WLB",
+      "city": ""
+    },
+    {
+      "code": "KNV",
+      "city": ""
+    },
+    {
+      "code": "YDX",
+      "city": ""
+    },
+    {
+      "code": "YTN",
+      "city": ""
+    },
+    {
+      "code": "AAM",
+      "city": "Mala Mala"
+    },
+    {
+      "code": "FGL",
+      "city": ""
+    },
+    {
+      "code": "APR",
+      "city": "April River"
+    },
+    {
+      "code": "KPF",
+      "city": "Kondubol"
+    },
+    {
+      "code": "XKS",
+      "city": "Kasabonika"
+    },
+    {
+      "code": "DGG",
+      "city": ""
+    },
+    {
+      "code": "CUW",
+      "city": ""
+    },
+    {
+      "code": "BYA",
+      "city": "Boundary"
+    },
+    {
+      "code": "KPG",
+      "city": "Kurupung"
+    },
+    {
+      "code": "KRX",
+      "city": "Karkar Island"
+    },
+    {
+      "code": "KUQ",
+      "city": "Kuri"
+    },
+    {
+      "code": "EHT",
+      "city": ""
+    },
+    {
+      "code": "FAG",
+      "city": "Fagurholsmyri"
+    },
+    {
+      "code": "SWB",
+      "city": "Shaw River"
+    },
+    {
+      "code": "BBZ",
+      "city": "Zambezi"
+    },
+    {
+      "code": "GUE",
+      "city": "Guriaso"
+    },
+    {
+      "code": "NNI",
+      "city": "Namutoni"
+    },
+    {
+      "code": "KWR",
+      "city": "Kwai Harbour"
+    },
+    {
+      "code": "YXF",
+      "city": ""
+    },
+    {
+      "code": "YDW",
+      "city": "Obre Lake"
+    },
+    {
+      "code": "RSP",
+      "city": ""
+    },
+    {
+      "code": "WHD",
+      "city": "Hyder"
+    },
+    {
+      "code": "AAR",
+      "city": "Aarhus"
+    },
+    {
+      "code": "YSZ",
+      "city": ""
+    },
+    {
+      "code": "MGM",
+      "city": "Montgomery"
+    },
+    {
+      "code": "IIN",
+      "city": ""
+    },
+    {
+      "code": "XKO",
+      "city": ""
+    },
+    {
+      "code": "KNY",
+      "city": ""
+    },
+    {
+      "code": "YDA",
+      "city": "Dawson City"
+    },
+    {
+      "code": "WLN",
+      "city": ""
+    },
+    {
+      "code": "RRS",
+      "city": "Roros"
+    },
+    {
+      "code": "WRH",
+      "city": "Wuerhe"
+    },
+    {
+      "code": "MKO",
+      "city": "Muskogee"
+    },
+    {
+      "code": "YBM",
+      "city": ""
+    },
+    {
+      "code": "WAN",
+      "city": ""
+    },
+    {
+      "code": "WUG",
+      "city": "Wau"
+    },
+    {
+      "code": "UMB",
+      "city": ""
+    },
+    {
+      "code": "YRA",
+      "city": "Gameti"
+    },
+    {
+      "code": "ASI",
+      "city": "Ashley"
+    },
+    {
+      "code": "HNX",
+      "city": ""
+    },
+    {
+      "code": "FIN",
+      "city": "Finschhafen"
+    },
+    {
+      "code": "IUM",
+      "city": ""
+    },
+    {
+      "code": "LSA",
+      "city": "Kiriwina Island"
+    },
+    {
+      "code": "RBV",
+      "city": "Ramata Island"
+    },
+    {
+      "code": "AOD",
+      "city": "Abou Deia"
+    },
+    {
+      "code": "IRA",
+      "city": "Kirakira"
+    },
+    {
+      "code": "QBC",
+      "city": "Bella Coola"
+    },
+    {
+      "code": "KEA",
+      "city": "Kerki"
+    },
+    {
+      "code": "AMF",
+      "city": "Ama"
+    },
+    {
+      "code": "SVY",
+      "city": "Savo Island"
+    },
+    {
+      "code": "VAO",
+      "city": "Suavanao"
+    },
+    {
+      "code": "YAU",
+      "city": "Kattiniq"
+    },
+    {
+      "code": "YAD",
+      "city": "Moose Lake"
+    },
+    {
+      "code": "YAX",
+      "city": "Angling Lake"
+    },
+    {
+      "code": "BBV",
+      "city": "Grand Bereby"
+    },
+    {
+      "code": "GBC",
+      "city": "Gasuke"
+    },
+    {
+      "code": "GUV",
+      "city": "Mougulu"
+    },
+    {
+      "code": "MRM",
+      "city": "Manari"
+    },
+    {
+      "code": "TPI",
+      "city": "Tapini"
+    },
+    {
+      "code": "SBE",
+      "city": "Suabi"
+    },
+    {
+      "code": "YBV",
+      "city": "Berens River"
+    },
+    {
+      "code": "YBW",
+      "city": "Bedwell Harbour"
+    },
+    {
+      "code": "YBB",
+      "city": "Kugaaruk"
+    },
+    {
+      "code": "YBF",
+      "city": "Bamfield"
+    },
+    {
+      "code": "YDB",
+      "city": "Burwash Landing"
+    },
+    {
+      "code": "YER",
+      "city": "Fort Severn"
+    },
+    {
+      "code": "YCS",
+      "city": "Chesterfield Inlet"
+    },
+    {
+      "code": "APE",
+      "city": "Anapolis"
+    },
+    {
+      "code": "YLM",
+      "city": "Clinton Creek"
+    },
+    {
+      "code": "YKE",
+      "city": "Knee Lake"
+    },
+    {
+      "code": "YGK",
+      "city": "Kingston"
+    },
+    {
+      "code": "WAQ",
+      "city": "Antsalova"
+    },
+    {
+      "code": "YIK",
+      "city": "Ivujivik"
+    },
+    {
+      "code": "DJN",
+      "city": "Delta Junction"
+    },
+    {
+      "code": "EFO",
+      "city": ""
+    },
+    {
+      "code": "MFZ",
+      "city": "Meselia"
+    },
+    {
+      "code": "YLC",
+      "city": "Kimmirut"
+    },
+    {
+      "code": "YPO",
+      "city": "Peawanuck"
+    },
+    {
+      "code": "YPI",
+      "city": "Port Simpson"
+    },
+    {
+      "code": "YQN",
+      "city": "Nakina"
+    },
+    {
+      "code": "APP",
+      "city": "Asapa"
+    },
+    {
+      "code": "MWY",
+      "city": "Miranda Downs"
+    },
+    {
+      "code": "MWG",
+      "city": "Marawaka"
+    },
+    {
+      "code": "MXH",
+      "city": "Moro"
+    },
+    {
+      "code": "KMR",
+      "city": "Karimui"
+    },
+    {
+      "code": "LMG",
+      "city": "Lamassa"
+    },
+    {
+      "code": "DRC",
+      "city": "Dirico"
+    },
+    {
+      "code": "HVA",
+      "city": "Analalava"
+    },
+    {
+      "code": "IAM",
+      "city": "In Amenas"
+    },
+    {
+      "code": "IDB",
+      "city": "Idre"
+    },
+    {
+      "code": "AKU",
+      "city": "Aksu"
+    },
+    {
+      "code": "AOS",
+      "city": "Amook Bay"
+    },
+    {
+      "code": "PCK",
+      "city": ""
+    },
+    {
+      "code": "DCK",
+      "city": "Dahl Creek"
+    },
+    {
+      "code": "EGS",
+      "city": "Egilsstadir"
+    },
+    {
+      "code": "MGX",
+      "city": "Moabi"
+    },
+    {
+      "code": "KVU",
+      "city": "Korolevu"
+    },
+    {
+      "code": "AHY",
+      "city": "Ambatolahy"
+    },
+    {
+      "code": "ARZ",
+      "city": "N'zeto"
+    },
+    {
+      "code": "AUI",
+      "city": "Anatom Island"
+    },
+    {
+      "code": "BMZ",
+      "city": "Bamu"
+    },
+    {
+      "code": "FOU",
+      "city": "Fougamou"
+    },
+    {
+      "code": "IGE",
+      "city": "Iguela"
+    },
+    {
+      "code": "BPY",
+      "city": "Besalampy"
+    },
+    {
+      "code": "NNB",
+      "city": "Santa Ana Island"
+    },
+    {
+      "code": "WBD",
+      "city": "Befandriana"
+    },
+    {
+      "code": "BMD",
+      "city": "Belo Tsiribihina"
+    },
+    {
+      "code": "MNT",
+      "city": "Minto"
+    },
+    {
+      "code": "KMA",
+      "city": "Kerema"
+    },
+    {
+      "code": "TCJ",
+      "city": "Torembi"
+    },
+    {
+      "code": "ASS",
+      "city": "Arathusa Safari Lodge"
+    },
+    {
+      "code": "FRK",
+      "city": "Fregate Island"
+    },
+    {
+      "code": "FSL",
+      "city": "Fossil Downs Station"
+    },
+    {
+      "code": "GSL",
+      "city": "Taltheilei Narrows"
+    },
+    {
+      "code": "YSX",
+      "city": "Bella Bella"
+    },
+    {
+      "code": "LSJ",
+      "city": "Long Island"
+    },
+    {
+      "code": "BFO",
+      "city": "Chiredzi"
+    },
+    {
+      "code": "NUT",
+      "city": "Nutuve"
+    },
+    {
+      "code": "LWI",
+      "city": "Lowai"
+    },
+    {
+      "code": "BRJ",
+      "city": "Bright"
+    },
+    {
+      "code": "WDN",
+      "city": "Waldron Island"
+    },
+    {
+      "code": "XMP",
+      "city": "Macmillan Pass"
+    },
+    {
+      "code": "XCL",
+      "city": "Cluff Lake"
+    },
+    {
+      "code": "YLX",
+      "city": "Yulin - Guangxi"
+    },
+    {
+      "code": "YKU",
+      "city": "Chisasibi"
+    },
+    {
+      "code": "NKU",
+      "city": "Nkau"
+    },
+    {
+      "code": "MUA",
+      "city": "Munda"
+    },
+    {
+      "code": "SSM",
+      "city": "Sault Ste Marie"
+    },
+    {
+      "code": "LEF",
+      "city": "Lebakeng"
+    },
+    {
+      "code": "LES",
+      "city": "Lesobeng"
+    },
+    {
+      "code": "CIP",
+      "city": "Chipata"
+    },
+    {
+      "code": "LCT",
+      "city": "Shijiazhuang"
+    },
+    {
+      "code": "DAU",
+      "city": "Daru"
+    },
+    {
+      "code": "MNV",
+      "city": "Mount Valley"
+    },
+    {
+      "code": "YFO",
+      "city": "Flin Flon"
+    },
+    {
+      "code": "OMG",
+      "city": "Omega"
+    },
+    {
+      "code": "YGV",
+      "city": "Havre-St-Pierre"
+    },
+    {
+      "code": "JLA",
+      "city": "Cooper Landing"
+    },
+    {
+      "code": "KGH",
+      "city": "Yongai"
+    },
+    {
+      "code": "KCJ",
+      "city": "Komaio"
+    },
+    {
+      "code": "AAH",
+      "city": "Aachen"
+    },
+    {
+      "code": "COX",
+      "city": "Paris"
+    },
+    {
+      "code": "YGO",
+      "city": "Gods Lake Narrows"
+    },
+    {
+      "code": "YDJ",
+      "city": "Hatchet Lake"
+    },
+    {
+      "code": "YEU",
+      "city": "Eureka"
+    },
+    {
+      "code": "WDH",
+      "city": "Windhoek"
+    },
+    {
+      "code": "CRH",
+      "city": "Cherrabah"
+    },
+    {
+      "code": "CSA",
+      "city": "Colonsay"
+    },
+    {
+      "code": "OUU",
+      "city": "Ouanga"
+    },
+    {
+      "code": "MEZ",
+      "city": "Messina"
+    },
+    {
+      "code": "MNB",
+      "city": "Muanda"
+    },
+    {
+      "code": "BJD",
+      "city": "Bakkafjordur"
+    },
+    {
+      "code": "BOA",
+      "city": "Boma"
+    },
+    {
+      "code": "CSD",
+      "city": "Cresswell Downs"
+    },
+    {
+      "code": "YFG",
+      "city": "Fontanges"
+    },
+    {
+      "code": "YOA",
+      "city": "Ekati"
+    },
+    {
+      "code": "DRF",
+      "city": "Drift River"
+    },
+    {
+      "code": "SVB",
+      "city": "Sambava"
+    },
+    {
+      "code": "AMG",
+      "city": "Amboin"
+    },
+    {
+      "code": "TNS",
+      "city": "Tungsten"
+    },
+    {
+      "code": "YHP",
+      "city": "Poplar Hill"
+    },
+    {
+      "code": "CTI",
+      "city": "Cuito Cuanavale"
+    },
+    {
+      "code": "CTR",
+      "city": "Cattle Creek"
+    },
+    {
+      "code": "LZI",
+      "city": "Luozi"
+    },
+    {
+      "code": "PDB",
+      "city": "Pedro Bay"
+    },
+    {
+      "code": "TPR",
+      "city": "Tom Price"
+    },
+    {
+      "code": "YOS",
+      "city": "Owen Sound"
+    },
+    {
+      "code": "YUT",
+      "city": "Repulse Bay"
+    },
+    {
+      "code": "AOM",
+      "city": "Adam"
+    },
+    {
+      "code": "AON",
+      "city": "Arona"
+    },
+    {
+      "code": "MXM",
+      "city": "Morombe"
+    },
+    {
+      "code": "SZK",
+      "city": "Skukuza"
+    },
+    {
+      "code": "NIS",
+      "city": "Simberi Island"
+    },
+    {
+      "code": "ASZ",
+      "city": "Asirim"
+    },
+    {
+      "code": "YWS",
+      "city": "Whistler"
+    },
+    {
+      "code": "KLY",
+      "city": "Kalima"
+    },
+    {
+      "code": "DOO",
+      "city": "Dorobisoro"
+    },
+    {
+      "code": "EKT",
+      "city": "Eskilstuna"
+    },
+    {
+      "code": "AVU",
+      "city": "Avu Avu"
+    },
+    {
+      "code": "BNC",
+      "city": "Beni"
+    },
+    {
+      "code": "NDY",
+      "city": "Sanday"
+    },
+    {
+      "code": "TTS",
+      "city": "Tsaratanana"
+    },
+    {
+      "code": "CVQ",
+      "city": "Carnarvon"
+    },
+    {
+      "code": "GAB",
+      "city": "Gabbs"
+    },
+    {
+      "code": "AKE",
+      "city": "Akieni"
+    },
+    {
+      "code": "TWY",
+      "city": "Tawa"
+    },
+    {
+      "code": "BCS",
+      "city": "Belle Chasse"
+    },
+    {
+      "code": "BCW",
+      "city": "Benguerra Island"
+    },
+    {
+      "code": "AYD",
+      "city": "Alroy Downs"
+    },
+    {
+      "code": "LVD",
+      "city": "Lime Village"
+    },
+    {
+      "code": "ZQS",
+      "city": "Queen Charlotte"
+    },
+    {
+      "code": "BLC",
+      "city": "Bali"
+    },
+    {
+      "code": "FLH",
+      "city": "Flotta"
+    },
+    {
+      "code": "GAZ",
+      "city": "Guasopa"
+    },
+    {
+      "code": "PPV",
+      "city": "Port Protection"
+    },
+    {
+      "code": "MXT",
+      "city": "Maintirano"
+    },
+    {
+      "code": "OBY",
+      "city": "Obidos"
+    },
+    {
+      "code": "NSX",
+      "city": ""
+    },
+    {
+      "code": "PQT",
+      "city": ""
+    },
+    {
+      "code": "FOA",
+      "city": "Foula"
+    },
+    {
+      "code": "GDA",
+      "city": "Gounda"
+    },
+    {
+      "code": "NTM",
+      "city": "Miracema do Tocantins"
+    },
+    {
+      "code": "NKV",
+      "city": ""
+    },
+    {
+      "code": "NOL",
+      "city": ""
+    },
+    {
+      "code": "ABP",
+      "city": "Atkamba"
+    },
+    {
+      "code": "MHM",
+      "city": "Malaita"
+    },
+    {
+      "code": "GHE",
+      "city": "Garachine"
+    },
+    {
+      "code": "GLP",
+      "city": "Gulgubip"
+    },
+    {
+      "code": "GLY",
+      "city": "Mount Goldsworthy"
+    },
+    {
+      "code": "OBT",
+      "city": ""
+    },
+    {
+      "code": "NME",
+      "city": "Nightmute"
+    },
+    {
+      "code": "OKU",
+      "city": "Mokuti Lodge"
+    },
+    {
+      "code": "MJO",
+      "city": "Mount Etjo"
+    },
+    {
+      "code": "PBK",
+      "city": ""
+    },
+    {
+      "code": "KKU",
+      "city": "Ekuk"
+    },
+    {
+      "code": "BGG",
+      "city": "Bingol"
+    },
+    {
+      "code": "BOQ",
+      "city": "Boku"
+    },
+    {
+      "code": "PJS",
+      "city": ""
+    },
+    {
+      "code": "PBY",
+      "city": ""
+    },
+    {
+      "code": "PPO",
+      "city": ""
+    },
+    {
+      "code": "DJM",
+      "city": "Djambala"
+    },
+    {
+      "code": "DUE",
+      "city": "Dundo"
+    },
+    {
+      "code": "UAR",
+      "city": "Bouarfa"
+    },
+    {
+      "code": "HAL",
+      "city": "Halali"
+    },
+    {
+      "code": "NUI",
+      "city": "Nuiqsut"
+    },
+    {
+      "code": "PKL",
+      "city": ""
+    },
+    {
+      "code": "PMU",
+      "city": ""
+    },
+    {
+      "code": "NWT",
+      "city": "Nowata"
+    },
+    {
+      "code": "OCM",
+      "city": "Boolgeeda"
+    },
+    {
+      "code": "ORS",
+      "city": "Orpheus Island"
+    },
+    {
+      "code": "UGS",
+      "city": "Ugashik"
+    },
+    {
+      "code": "MWU",
+      "city": "Mussau Island"
+    },
+    {
+      "code": "AIH",
+      "city": "Aiambak"
+    },
+    {
+      "code": "MKH",
+      "city": "Mokhotlong"
+    },
+    {
+      "code": "KVG",
+      "city": "Kavieng"
+    },
+    {
+      "code": "BRH",
+      "city": "Braham"
+    },
+    {
+      "code": "HED",
+      "city": "Herendeen Bay"
+    },
+    {
+      "code": "HLW",
+      "city": "Hluhluwe"
+    },
+    {
+      "code": "BOE",
+      "city": "Boundji"
+    },
+    {
+      "code": "KKW",
+      "city": "Kikwit"
+    },
+    {
+      "code": "PRT",
+      "city": ""
+    },
+    {
+      "code": "SQW",
+      "city": "Skive"
+    },
+    {
+      "code": "RMN",
+      "city": "Rumginae"
+    },
+    {
+      "code": "YAO",
+      "city": "Yaounde"
+    },
+    {
+      "code": "NIN",
+      "city": "Ninilchik"
+    },
+    {
+      "code": "NKN",
+      "city": "Nankina"
+    },
+    {
+      "code": "NMN",
+      "city": "Nomane"
+    },
+    {
+      "code": "PEL",
+      "city": "Pelaneng"
+    },
+    {
+      "code": "OMD",
+      "city": "Oranjemund"
+    },
+    {
+      "code": "NUP",
+      "city": "Nunapitchuk"
+    },
+    {
+      "code": "OBM",
+      "city": "Morobe"
+    },
+    {
+      "code": "OKP",
+      "city": "Oksapmin"
+    },
+    {
+      "code": "OFJ",
+      "city": "Olafsfjordur"
+    },
+    {
+      "code": "BMH",
+      "city": "Bomai"
+    },
+    {
+      "code": "IMN",
+      "city": "Imane"
+    },
+    {
+      "code": "INF",
+      "city": "In Guezzam"
+    },
+    {
+      "code": "PPW",
+      "city": "Papa Westray"
+    },
+    {
+      "code": "OFI",
+      "city": "Ouango Fitini"
+    },
+    {
+      "code": "GOC",
+      "city": "Gora"
+    },
+    {
+      "code": "MJA",
+      "city": "Manja"
+    },
+    {
+      "code": "BSP",
+      "city": "Bensbach"
+    },
+    {
+      "code": "BUL",
+      "city": "Bulolo"
+    },
+    {
+      "code": "KSX",
+      "city": "Yasuru"
+    },
+    {
+      "code": "EMN",
+      "city": "Nema"
+    },
+    {
+      "code": "SGJ",
+      "city": "Sagarai"
+    },
+    {
+      "code": "GMT",
+      "city": "Granite Mountain"
+    },
+    {
+      "code": "GRH",
+      "city": "Garuahi"
+    },
+    {
+      "code": "ODA",
+      "city": "Ouadda"
+    },
+    {
+      "code": "BWP",
+      "city": "Bewani"
+    },
+    {
+      "code": "ALZ",
+      "city": "Alitak"
+    },
+    {
+      "code": "OPB",
+      "city": "Open Bay"
+    },
+    {
+      "code": "ONE",
+      "city": "Onepusu"
+    },
+    {
+      "code": "OUK",
+      "city": "Out Skerries"
+    },
+    {
+      "code": "WYB",
+      "city": "Yes Bay"
+    },
+    {
+      "code": "ENJ",
+      "city": "El Naranjo"
+    },
+    {
+      "code": "IKL",
+      "city": "Ikela"
+    },
+    {
+      "code": "SGW",
+      "city": "Saginaw Bay"
+    },
+    {
+      "code": "KEE",
+      "city": "Kelle"
+    },
+    {
+      "code": "ABW",
+      "city": "Abau"
+    },
+    {
+      "code": "GNU",
+      "city": "Goodnews Bay"
+    },
+    {
+      "code": "KGR",
+      "city": "Kulgera"
+    },
+    {
+      "code": "MYH",
+      "city": "Marble Canyon"
+    },
+    {
+      "code": "OMB",
+      "city": "Omboue"
+    },
+    {
+      "code": "YWM",
+      "city": "Williams Harbour"
+    },
+    {
+      "code": "SHK",
+      "city": "Sehonghong"
+    },
+    {
+      "code": "SMJ",
+      "city": "Sim"
+    },
+    {
+      "code": "KBO",
+      "city": "Kabalo"
+    },
+    {
+      "code": "AEO",
+      "city": "Aioun el Atrouss"
+    },
+    {
+      "code": "NDB",
+      "city": "Nouadhibou"
+    },
+    {
+      "code": "PEB",
+      "city": "Pebane"
+    },
+    {
+      "code": "EIA",
+      "city": "Eia"
+    },
+    {
+      "code": "ALJ",
+      "city": "Alexander Bay"
+    },
+    {
+      "code": "FGD",
+      "city": "Fderik"
+    },
+    {
+      "code": "PGB",
+      "city": "Pangoa"
+    },
+    {
+      "code": "PFJ",
+      "city": "Patreksfjordur"
+    },
+    {
+      "code": "PAW",
+      "city": "Pambwa"
+    },
+    {
+      "code": "KND",
+      "city": "Kindu"
+    },
+    {
+      "code": "NDD",
+      "city": "Sumbe"
+    },
+    {
+      "code": "ANZ",
+      "city": "Angus Downs Station"
+    },
+    {
+      "code": "AOA",
+      "city": "Aroa"
+    },
+    {
+      "code": "BGJ",
+      "city": "Borgarfjordur eystri"
+    },
+    {
+      "code": "PTC",
+      "city": "Port Alice"
+    },
+    {
+      "code": "PKM",
+      "city": "Port Kaituma"
+    },
+    {
+      "code": "EAL",
+      "city": "Elenak"
+    },
+    {
+      "code": "EGM",
+      "city": "Seghe"
+    },
+    {
+      "code": "PIQ",
+      "city": "Pipillipai"
+    },
+    {
+      "code": "AIG",
+      "city": "Yalinga"
+    },
+    {
+      "code": "AQY",
+      "city": "Girdwood"
+    },
+    {
+      "code": "DIW",
+      "city": "Dikwella"
+    },
+    {
+      "code": "DOE",
+      "city": "Djoemoe"
+    },
+    {
+      "code": "EPN",
+      "city": "Epena"
+    },
+    {
+      "code": "BTO",
+      "city": "Botopasi"
+    },
+    {
+      "code": "BCG",
+      "city": "Bemichi"
+    },
+    {
+      "code": "GWN",
+      "city": "Gnarowein"
+    },
+    {
+      "code": "HZP",
+      "city": "Fort MacKay"
+    },
+    {
+      "code": "LZM",
+      "city": "Luzamba"
+    },
+    {
+      "code": "AIW",
+      "city": "Ai-Ais"
+    },
+    {
+      "code": "AZB",
+      "city": "Amazon Bay"
+    },
+    {
+      "code": "XGR",
+      "city": "Kangiqsualujjuaq"
+    },
+    {
+      "code": "CDL",
+      "city": "Candle"
+    },
+    {
+      "code": "XPK",
+      "city": "Pukatawagan"
+    },
+    {
+      "code": "GRC",
+      "city": "Grand Cess"
+    },
+    {
+      "code": "CXT",
+      "city": "Charters Towers"
+    },
+    {
+      "code": "BDZ",
+      "city": "Baindoung"
+    },
+    {
+      "code": "BGB",
+      "city": "Booue"
+    },
+    {
+      "code": "BOV",
+      "city": "Boang Island"
+    },
+    {
+      "code": "YAA",
+      "city": "Anahim Lake"
+    },
+    {
+      "code": "XSI",
+      "city": "South Indian Lake"
+    },
+    {
+      "code": "CXC",
+      "city": "Chitina"
+    },
+    {
+      "code": "MBF",
+      "city": "Mount Buffalo"
+    },
+    {
+      "code": "MDM",
+      "city": "Munduku"
+    },
+    {
+      "code": "CHY",
+      "city": "Choiseul Bay"
+    },
+    {
+      "code": "PQS",
+      "city": "Pilot Station"
+    },
+    {
+      "code": "YCO",
+      "city": "Kugluktuk"
+    },
+    {
+      "code": "GEF",
+      "city": "Geva"
+    },
+    {
+      "code": "CYM",
+      "city": "Chatham"
+    },
+    {
+      "code": "MFO",
+      "city": "Manguna"
+    },
+    {
+      "code": "YEK",
+      "city": "Arviat"
+    },
+    {
+      "code": "BMQ",
+      "city": "Bamburi"
+    },
+    {
+      "code": "RCP",
+      "city": ""
+    },
+    {
+      "code": "QCU",
+      "city": ""
+    },
+    {
+      "code": "YFX",
+      "city": "St Lewis (Fox Harbour)"
+    },
+    {
+      "code": "QFI",
+      "city": ""
+    },
+    {
+      "code": "YGM",
+      "city": "Gimli"
+    },
+    {
+      "code": "SPH",
+      "city": "Sopu"
+    },
+    {
+      "code": "YHC",
+      "city": "Hakai Passage"
+    },
+    {
+      "code": "YPJ",
+      "city": "Aupaluk"
+    },
+    {
+      "code": "CPG",
+      "city": "Carmen de Patagones"
+    },
+    {
+      "code": "YKK",
+      "city": "Kitkatla"
+    },
+    {
+      "code": "DAJ",
+      "city": ""
+    },
+    {
+      "code": "SBC",
+      "city": "Selbang"
+    },
+    {
+      "code": "DAS",
+      "city": "Great Bear Lake"
+    },
+    {
+      "code": "GRL",
+      "city": "Garasa"
+    },
+    {
+      "code": "HZP",
+      "city": "Fort MacKay"
+    },
+    {
+      "code": "YNA",
+      "city": "Natashquan"
+    },
+    {
+      "code": "YSO",
+      "city": "Postville"
+    },
+    {
+      "code": "YPH",
+      "city": "Inukjuak"
+    },
+    {
+      "code": "MIX",
+      "city": "Miriti Parana"
+    },
+    {
+      "code": "KPM",
+      "city": "Kompiam"
+    },
+    {
+      "code": "YPN",
+      "city": "Port-Menier"
+    },
+    {
+      "code": "YPY",
+      "city": "Fort Chipewyan"
+    },
+    {
+      "code": "BLO",
+      "city": "Blonduos"
+    },
+    {
+      "code": "MKB",
+      "city": "Mekambo"
+    },
+    {
+      "code": "RTE",
+      "city": "Sao Paulo"
+    },
+    {
+      "code": "YTB",
+      "city": "Hartley Bay"
+    },
+    {
+      "code": "YWY",
+      "city": "Wrigley"
+    },
+    {
+      "code": "ZEL",
+      "city": "Bella Bella"
+    },
+    {
+      "code": "BMM",
+      "city": "Bitam"
+    },
+    {
+      "code": "ZGS",
+      "city": "La Romaine"
+    },
+    {
+      "code": "YZX",
+      "city": "Greenwood"
+    },
+    {
+      "code": "PUO",
+      "city": ""
+    },
+    {
+      "code": "JQA",
+      "city": "Qaarsut"
+    },
+    {
+      "code": "MPF",
+      "city": "Mapoda"
+    },
+    {
+      "code": "RFN",
+      "city": "Raufarhofn"
+    },
+    {
+      "code": "RAL",
+      "city": "Riverside"
+    },
+    {
+      "code": "ADY",
+      "city": "Alldays"
+    },
+    {
+      "code": "AGW",
+      "city": "Agnew"
+    },
+    {
+      "code": "ZSJ",
+      "city": "Sandy Lake"
+    },
+    {
+      "code": "MRH",
+      "city": "May River"
+    },
+    {
+      "code": "YRR",
+      "city": "Stuart Island"
+    },
+    {
+      "code": "RRI",
+      "city": "Barora"
+    },
+    {
+      "code": "ABK",
+      "city": "Kebri Dehar"
+    },
+    {
+      "code": "DBT",
+      "city": "Debre Tabor"
+    },
+    {
+      "code": "DOS",
+      "city": "Dios"
+    },
+    {
+      "code": "DRY",
+      "city": "Drysdale River"
+    },
+    {
+      "code": "MSG",
+      "city": "Matsaile"
+    },
+    {
+      "code": "MTF",
+      "city": "Mizan Teferi"
+    },
+    {
+      "code": "NEK",
+      "city": "Nekemte"
+    },
+    {
+      "code": "ASO",
+      "city": "Asosa"
+    },
+    {
+      "code": "BRP",
+      "city": "Biaru"
+    },
+    {
+      "code": "WMK",
+      "city": "Meyers Chuck"
+    },
+    {
+      "code": "DNU",
+      "city": "Dinangat"
+    },
+    {
+      "code": "DON",
+      "city": "Dos Lagunas"
+    },
+    {
+      "code": "DPU",
+      "city": "Dumpu"
+    },
+    {
+      "code": "BSW",
+      "city": "Boswell Bay"
+    },
+    {
+      "code": "LGX",
+      "city": "Lugh Ganane"
+    },
+    {
+      "code": "DVK",
+      "city": "Diavik"
+    },
+    {
+      "code": "YMU",
+      "city": "Mansons Landing"
+    },
+    {
+      "code": "CNP",
+      "city": "Neerlerit Inaat"
+    },
+    {
+      "code": "KEW",
+      "city": "Keewaywin"
+    },
+    {
+      "code": "DVP",
+      "city": "Davenport Downs"
+    },
+    {
+      "code": "DVR",
+      "city": "Daly River Mission"
+    },
+    {
+      "code": "MWI",
+      "city": "Maramuni"
+    },
+    {
+      "code": "UPR",
+      "city": "Upiara"
+    },
+    {
+      "code": "KDJ",
+      "city": "Ndjole"
+    },
+    {
+      "code": "DXD",
+      "city": "Dixie"
+    },
+    {
+      "code": "DYA",
+      "city": "Dysart"
+    },
+    {
+      "code": "DYW",
+      "city": "Daly Waters"
+    },
+    {
+      "code": "KUE",
+      "city": "Kukundu"
+    },
+    {
+      "code": "YOH",
+      "city": "Oxford House"
+    },
+    {
+      "code": "MZN",
+      "city": "Minj"
+    },
+    {
+      "code": "PNP",
+      "city": "Popondetta"
+    },
+    {
+      "code": "BVP",
+      "city": "Bolovip"
+    },
+    {
+      "code": "BWJ",
+      "city": "Bawan"
+    },
+    {
+      "code": "NRL",
+      "city": "North Ronaldsay"
+    },
+    {
+      "code": "EDD",
+      "city": "Erldunda"
+    },
+    {
+      "code": "KWS",
+      "city": "Kwailibesi"
+    },
+    {
+      "code": "SGB",
+      "city": "Singaua"
+    },
+    {
+      "code": "ASA",
+      "city": "Assab"
+    },
+    {
+      "code": "TCP",
+      "city": "Taba"
+    },
+    {
+      "code": "BXZ",
+      "city": "Bunsil"
+    },
+    {
+      "code": "LOK",
+      "city": "Lodwar"
+    },
+    {
+      "code": "OTV",
+      "city": "Ontong Java Atoll"
+    },
+    {
+      "code": "UVO",
+      "city": "Uvol"
+    },
+    {
+      "code": "KGM",
+      "city": "Kungim"
+    },
+    {
+      "code": "EOI",
+      "city": "Eday"
+    },
+    {
+      "code": "EFG",
+      "city": "Efogi"
+    },
+    {
+      "code": "KEU",
+      "city": "Maasai Mara"
+    },
+    {
+      "code": "WPC",
+      "city": "Pincher Creek"
+    },
+    {
+      "code": "EIH",
+      "city": "Einasleigh"
+    },
+    {
+      "code": "PHR",
+      "city": "Pacific Harbour"
+    },
+    {
+      "code": "EKD",
+      "city": "Elkedra"
+    },
+    {
+      "code": "ELC",
+      "city": "Elcho Island"
+    },
+    {
+      "code": "LMX",
+      "city": "El Trapiche"
+    },
+    {
+      "code": "EGA",
+      "city": "Engati"
+    },
+    {
+      "code": "ENB",
+      "city": "Eneabba"
+    },
+    {
+      "code": "ELW",
+      "city": "Ellamar"
+    },
+    {
+      "code": "PMN",
+      "city": "Pumani"
+    },
+    {
+      "code": "EMS",
+      "city": "Embessa"
+    },
+    {
+      "code": "YGL",
+      "city": "La Grande Riviere"
+    },
+    {
+      "code": "KNE",
+      "city": "Kanainj"
+    },
+    {
+      "code": "YHO",
+      "city": "Hopedale"
+    },
+    {
+      "code": "ERB",
+      "city": "Ernabella"
+    },
+    {
+      "code": "ERQ",
+      "city": "Elrose Mine"
+    },
+    {
+      "code": "WDH",
+      "city": "Windhoek"
+    },
+    {
+      "code": "LPN",
+      "city": "Leron Plains"
+    },
+    {
+      "code": "PEP",
+      "city": "Peppimenarti"
+    },
+    {
+      "code": "CKD",
+      "city": "Crooked Creek"
+    },
+    {
+      "code": "WAJ",
+      "city": "Wawoi Falls"
+    },
+    {
+      "code": "TEH",
+      "city": "Tetlin"
+    },
+    {
+      "code": "FRE",
+      "city": "Fera Island"
+    },
+    {
+      "code": "PGI",
+      "city": "Chitato"
+    },
+    {
+      "code": "THO",
+      "city": "Thorshofn"
+    },
+    {
+      "code": "ETD",
+      "city": "Etadunna"
+    },
+    {
+      "code": "TKD",
+      "city": "Takoradi"
+    },
+    {
+      "code": "EUC",
+      "city": "Eucla"
+    },
+    {
+      "code": "EVD",
+      "city": "Eva Downs"
+    },
+    {
+      "code": "DYM",
+      "city": "Diamantina Lakes"
+    },
+    {
+      "code": "TKB",
+      "city": "Tekadu"
+    },
+    {
+      "code": "BIZ",
+      "city": "Bimin"
+    },
+    {
+      "code": "TKI",
+      "city": "Tokeen"
+    },
+    {
+      "code": "EXM",
+      "city": "Exmouth"
+    },
+    {
+      "code": "GAK",
+      "city": ""
+    },
+    {
+      "code": "EYS",
+      "city": "Eliye Springs"
+    },
+    {
+      "code": "YSY",
+      "city": "Sachs Harbour"
+    },
+    {
+      "code": "NAQ",
+      "city": "Qaanaaq"
+    },
+    {
+      "code": "CKR",
+      "city": "Crane Island"
+    },
+    {
+      "code": "SMC",
+      "city": "Santa Maria"
+    },
+    {
+      "code": "SVM",
+      "city": "St Pauls"
+    },
+    {
+      "code": "YFA",
+      "city": "Fort Albany"
+    },
+    {
+      "code": "FEA",
+      "city": "Fetlar"
+    },
+    {
+      "code": "TWA",
+      "city": "Twin Hills"
+    },
+    {
+      "code": "TSW",
+      "city": "Tsewi"
+    },
+    {
+      "code": "YWB",
+      "city": "Kangiqsujuaq"
+    },
+    {
+      "code": "IES",
+      "city": "Riesa"
+    },
+    {
+      "code": "CFF",
+      "city": "Cafunfo"
+    },
+    {
+      "code": "PSV",
+      "city": "Papa Stour"
+    },
+    {
+      "code": "YMN",
+      "city": "Makkovik"
+    },
+    {
+      "code": "YHR",
+      "city": "Chevery"
+    },
+    {
+      "code": "TWP",
+      "city": "Torwood"
+    },
+    {
+      "code": "CVL",
+      "city": "Cape Vogel"
+    },
+    {
+      "code": "FLJ",
+      "city": ""
+    },
+    {
+      "code": "GEW",
+      "city": "Gewoia"
+    },
+    {
+      "code": "HRI",
+      "city": "Hambantota"
+    },
+    {
+      "code": "RIN",
+      "city": "Ringgi Cove"
+    },
+    {
+      "code": "XTL",
+      "city": "Tadoule Lake"
+    },
+    {
+      "code": "UMC",
+      "city": "Umba"
+    },
+    {
+      "code": "LLP",
+      "city": "Linda Downs"
+    },
+    {
+      "code": "KIF",
+      "city": "Kingfisher Lake"
+    },
+    {
+      "code": "XRR",
+      "city": "Ross River"
+    },
+    {
+      "code": "BUA",
+      "city": "Buka"
+    },
+    {
+      "code": "SOY",
+      "city": "Stronsay"
+    },
+    {
+      "code": "YDL",
+      "city": "Dease Lake"
+    },
+    {
+      "code": "EJT",
+      "city": "Enejet Island"
+    },
+    {
+      "code": "YAL",
+      "city": "Alert Bay"
+    },
+    {
+      "code": "YBE",
+      "city": "Uranium City"
+    },
+    {
+      "code": "YBS",
+      "city": "Opapamiskan Lake"
+    },
+    {
+      "code": "JUV",
+      "city": "Upernavik"
+    },
+    {
+      "code": "WOA",
+      "city": "Wonenara"
+    },
+    {
+      "code": "YFR",
+      "city": "Fort Resolution"
+    },
+    {
+      "code": "JVA",
+      "city": "Ankavandra"
+    },
+    {
+      "code": "FUM",
+      "city": "Fuma"
+    },
+    {
+      "code": "KDE",
+      "city": "Koroba"
+    },
+    {
+      "code": "KBD",
+      "city": "Kimberley Downs Stn"
+    },
+    {
+      "code": "YHS",
+      "city": "Sechelt"
+    },
+    {
+      "code": "KBG",
+      "city": "Kabalega Falls"
+    },
+    {
+      "code": "KBQ",
+      "city": "Kasungu"
+    },
+    {
+      "code": "EKE",
+      "city": "Ekereku"
+    },
+    {
+      "code": "YIF",
+      "city": "St-Augustin/Pakuashipi"
+    },
+    {
+      "code": "KAP",
+      "city": "Kapanga"
+    },
+    {
+      "code": "GAM",
+      "city": "Gambell"
+    },
+    {
+      "code": "GAS",
+      "city": "Garissa"
+    },
+    {
+      "code": "GBA",
+      "city": "Kemble"
+    },
+    {
+      "code": "COB",
+      "city": "Coolibah"
+    },
+    {
+      "code": "YCY",
+      "city": "Clyde River"
+    },
+    {
+      "code": "FUB",
+      "city": "Fulleborn"
+    },
+    {
+      "code": "GBS",
+      "city": ""
+    },
+    {
+      "code": "GBU",
+      "city": "Khashm el Girba"
+    },
+    {
+      "code": "GDH",
+      "city": "Golden Horn"
+    },
+    {
+      "code": "GDJ",
+      "city": "Gandajika"
+    },
+    {
+      "code": "GGR",
+      "city": "Garowe"
+    },
+    {
+      "code": "WBM",
+      "city": "Wapenamanda"
+    },
+    {
+      "code": "WAI",
+      "city": "Waynesburg"
+    },
+    {
+      "code": "YMD",
+      "city": "Mould Bay"
+    },
+    {
+      "code": "YNO",
+      "city": "North Spirit Lake"
+    },
+    {
+      "code": "YWA",
+      "city": "Petawawa"
+    },
+    {
+      "code": "CPI",
+      "city": "Cape Orford"
+    },
+    {
+      "code": "WOR",
+      "city": "Ankorefo"
+    },
+    {
+      "code": "XPP",
+      "city": "Poplar River"
+    },
+    {
+      "code": "YAC",
+      "city": "Cat Lake"
+    },
+    {
+      "code": "WNN",
+      "city": "Wunnummin Lake"
+    },
+    {
+      "code": "YBK",
+      "city": "Baker Lake"
+    },
+    {
+      "code": "YBT",
+      "city": "Brochet"
+    },
+    {
+      "code": "WBO",
+      "city": "Beroroha"
+    },
+    {
+      "code": "KLL",
+      "city": "Levelock"
+    },
+    {
+      "code": "WML",
+      "city": "Malaimbandy"
+    },
+    {
+      "code": "WLR",
+      "city": "Loring"
+    },
+    {
+      "code": "WPL",
+      "city": "Powell River"
+    },
+    {
+      "code": "YBG",
+      "city": "Saguenay-Bagotville"
+    },
+    {
+      "code": "YAH",
+      "city": "La Grande-4"
+    },
+    {
+      "code": "FLT",
+      "city": "Flat"
+    },
+    {
+      "code": "YRG",
+      "city": "Rigolet"
+    },
+    {
+      "code": "YCN",
+      "city": "Cochrane"
+    },
+    {
+      "code": "SSK",
+      "city": "Sturt Creek"
+    },
+    {
+      "code": "YCB",
+      "city": "Cambridge Bay"
+    },
+    {
+      "code": "YCR",
+      "city": "Cross Lake"
+    },
+    {
+      "code": "KKK",
+      "city": "Kalakaket Creek"
+    },
+    {
+      "code": "KTH",
+      "city": "Tikchik"
+    },
+    {
+      "code": "YDP",
+      "city": "Nain"
+    },
+    {
+      "code": "YDV",
+      "city": "Bloodvein"
+    },
+    {
+      "code": "YUX",
+      "city": "Sanirajak"
+    },
+    {
+      "code": "YDU",
+      "city": "Kasba Lake"
+    },
+    {
+      "code": "LAE",
+      "city": "Lae"
+    },
+    {
+      "code": "DDM",
+      "city": "Dodoima"
+    },
+    {
+      "code": "LDZ",
+      "city": "Londolozi"
+    },
+    {
+      "code": "KIY",
+      "city": "Kilwa Masoko"
+    },
+    {
+      "code": "BBH",
+      "city": "Stralsund"
+    },
+    {
+      "code": "MSA",
+      "city": "Muskrat Dam"
+    },
+    {
+      "code": "CZN",
+      "city": "Chisana"
+    },
+    {
+      "code": "DAF",
+      "city": "Daup"
+    },
+    {
+      "code": "GKN",
+      "city": "Gulkana"
+    },
+    {
+      "code": "YVN",
+      "city": "Cape Dyer"
+    },
+    {
+      "code": "TEP",
+      "city": "Teptep"
+    },
+    {
+      "code": "RRT",
+      "city": "Warroad"
+    },
+    {
+      "code": "BYL",
+      "city": "Belle Yella"
+    },
+    {
+      "code": "CBC",
+      "city": "Cherrabun"
+    },
+    {
+      "code": "DHB",
+      "city": "Deer Harbor"
+    },
+    {
+      "code": "FLI",
+      "city": "Flateyri"
+    },
+    {
+      "code": "LNI",
+      "city": "Lonely"
+    },
+    {
+      "code": "MBV",
+      "city": "Masa"
+    },
+    {
+      "code": "MBR",
+      "city": "Mbout"
+    },
+    {
+      "code": "AAS",
+      "city": "Apalapsili"
+    },
+    {
+      "code": "BYW",
+      "city": "Blakely Island"
+    },
+    {
+      "code": "BZM",
+      "city": "Bemolanga"
+    },
+    {
+      "code": "GAP",
+      "city": "Gusap"
+    },
+    {
+      "code": "GAV",
+      "city": "Gag Island"
+    },
+    {
+      "code": "YAB",
+      "city": "Arctic Bay"
+    },
+    {
+      "code": "BJG",
+      "city": "Kota Mobagu"
+    },
+    {
+      "code": "BXM",
+      "city": "Batom"
+    },
+    {
+      "code": "YMH",
+      "city": "Mary's Harbour"
+    },
+    {
+      "code": "YZW",
+      "city": "Teslin"
+    },
+    {
+      "code": "KCD",
+      "city": "Kamur"
+    },
+    {
+      "code": "EMO",
+      "city": "Emo"
+    },
+    {
+      "code": "ERU",
+      "city": "Erume"
+    },
+    {
+      "code": "EWE",
+      "city": "Ewer"
+    },
+    {
+      "code": "GLC",
+      "city": "Geladi"
+    },
+    {
+      "code": "GUG",
+      "city": "Guari"
+    },
+    {
+      "code": "LRQ",
+      "city": "Laurie River"
+    },
+    {
+      "code": "YRF",
+      "city": "Cartwright"
+    },
+    {
+      "code": "RDA",
+      "city": "Rockhampton Downs"
+    },
+    {
+      "code": "SPV",
+      "city": "Sepik Plains"
+    },
+    {
+      "code": "ATN",
+      "city": "Namatanai"
+    },
+    {
+      "code": "BKF",
+      "city": "Katmai National Park"
+    },
+    {
+      "code": "YDE",
+      "city": "Paradise River"
+    },
+    {
+      "code": "YGH",
+      "city": "Fort Good Hope"
+    },
+    {
+      "code": "EWO",
+      "city": "Ewo"
+    },
+    {
+      "code": "YVQ",
+      "city": "Norman Wells"
+    },
+    {
+      "code": "TLW",
+      "city": "Talasea"
+    },
+    {
+      "code": "YWJ",
+      "city": "Deline"
+    },
+    {
+      "code": "XLB",
+      "city": "Lac Brochet"
+    },
+    {
+      "code": "BAP",
+      "city": "Baibara"
+    },
+    {
+      "code": "YRN",
+      "city": "Rivers Inlet"
+    },
+    {
+      "code": "YRS",
+      "city": "Red Sucker Lake"
+    },
+    {
+      "code": "GIM",
+      "city": "Miele Mimbale"
+    },
+    {
+      "code": "GJR",
+      "city": "Gjogur"
+    },
+    {
+      "code": "GOB",
+      "city": "Goba"
+    },
+    {
+      "code": "GOG",
+      "city": "Gobabis"
+    },
+    {
+      "code": "GUT",
+      "city": "Guetersloh"
+    },
+    {
+      "code": "TWE",
+      "city": "Taylor"
+    },
+    {
+      "code": "YTE",
+      "city": "Kinngait"
+    },
+    {
+      "code": "KOF",
+      "city": "Komatipoort"
+    },
+    {
+      "code": "KFA",
+      "city": "Kiffa"
+    },
+    {
+      "code": "AWE",
+      "city": "Alowe"
+    },
+    {
+      "code": "KBF",
+      "city": "Karubaga"
+    },
+    {
+      "code": "WKK",
+      "city": "Aleknagik"
+    },
+    {
+      "code": "AUJ",
+      "city": "Ambunti"
+    },
+    {
+      "code": "KRI",
+      "city": "Kikori"
+    },
+    {
+      "code": "KGB",
+      "city": "Konge"
+    },
+    {
+      "code": "YMA",
+      "city": "Mayo"
+    },
+    {
+      "code": "KSB",
+      "city": "Kasanombe"
+    },
+    {
+      "code": "GSQ",
+      "city": "Shark el-Owainat"
+    },
+    {
+      "code": "GSR",
+      "city": "Gardo"
+    },
+    {
+      "code": "KLP",
+      "city": "Seruyan"
+    },
+    {
+      "code": "KOZ",
+      "city": "Ouzinkie"
+    },
+    {
+      "code": "LAB",
+      "city": "Lab Lab"
+    },
+    {
+      "code": "KYX",
+      "city": "Yalumet"
+    },
+    {
+      "code": "BAW",
+      "city": "Biawonque"
+    },
+    {
+      "code": "YHG",
+      "city": "Charlottetown"
+    },
+    {
+      "code": "MUF",
+      "city": "Muting"
+    },
+    {
+      "code": "RUF",
+      "city": "Yuruf"
+    },
+    {
+      "code": "RAQ",
+      "city": "Muna"
+    },
+    {
+      "code": "LIQ",
+      "city": "Lisala"
+    },
+    {
+      "code": "BPF",
+      "city": "Batuna"
+    },
+    {
+      "code": "FNE",
+      "city": "Fane"
+    },
+    {
+      "code": "FAK",
+      "city": "False Island"
+    },
+    {
+      "code": "FRQ",
+      "city": "Feramin"
+    },
+    {
+      "code": "GAX",
+      "city": "Gamba"
+    },
+    {
+      "code": "AHW",
+      "city": "Saih Rawl"
+    },
+    {
+      "code": "BNV",
+      "city": "Boana"
+    },
+    {
+      "code": "BZB",
+      "city": "Bazaruto Island"
+    },
+    {
+      "code": "GBF",
+      "city": "Negarbo"
+    },
+    {
+      "code": "GDI",
+      "city": "Melle"
+    },
+    {
+      "code": "GZO",
+      "city": "Gizo"
+    },
+    {
+      "code": "AFD",
+      "city": "Port Alfred"
+    },
+    {
+      "code": "CEX",
+      "city": "Chena Hot Springs"
+    },
+    {
+      "code": "ELR",
+      "city": "Elelim"
+    },
+    {
+      "code": "YNM",
+      "city": "Matagami"
+    },
+    {
+      "code": "DST",
+      "city": "Dubai"
+    },
+    {
+      "code": "GCT",
+      "city": "Grand Canyon"
+    },
+    {
+      "code": "RPU",
+      "city": "Coari"
+    },
+    {
+      "code": "CFM",
+      "city": "Conklin"
+    },
+    {
+      "code": "GGF",
+      "city": "Almeirim"
+    },
+    {
+      "code": "KFM",
+      "city": "Conklin"
+    },
+    {
+      "code": "HAY",
+      "city": "Aguachica"
+    },
+    {
+      "code": "HAZ",
+      "city": "Hatzfeldthaven"
+    },
+    {
+      "code": "HBD",
+      "city": "Habi"
+    },
+    {
+      "code": "KQR",
+      "city": "Karara"
+    },
+    {
+      "code": "GHK",
+      "city": "Kennedy Lake"
+    },
+    {
+      "code": "GYZ",
+      "city": "Gruyere"
+    },
+    {
+      "code": "PFM",
+      "city": "Primrose"
+    },
+    {
+      "code": "OJU",
+      "city": "Tojo Una Una"
+    },
+    {
+      "code": "GXA",
+      "city": "Muara Teweh"
+    },
+    {
+      "code": "HEO",
+      "city": "Haelogo"
+    },
+    {
+      "code": "DEX",
+      "city": "Yahukimo"
+    },
+    {
+      "code": "NIU",
+      "city": "Niau"
+    },
+    {
+      "code": "ORV",
+      "city": "Noorvik"
+    },
+    {
+      "code": "HID",
+      "city": "Horn Island"
+    },
+    {
+      "code": "WOG",
+      "city": "Woodgreen"
+    },
+    {
+      "code": "HIG",
+      "city": "Highbury"
+    },
+    {
+      "code": "FID",
+      "city": "Fishers Island"
+    },
+    {
+      "code": "JOP",
+      "city": "Josephstaal"
+    },
+    {
+      "code": "KXU",
+      "city": "Katiu"
+    },
+    {
+      "code": "GHS",
+      "city": "West Kutai"
+    },
+    {
+      "code": "DRO",
+      "city": "Durango"
+    },
+    {
+      "code": "CQW",
+      "city": "Wulong"
+    },
+    {
+      "code": "HCQ",
+      "city": "Halls Creek"
+    },
+    {
+      "code": "HGD",
+      "city": "Hughenden"
+    },
+    {
+      "code": "HGZ",
+      "city": "Hogatza"
+    },
+    {
+      "code": "HIP",
+      "city": "Headingly"
+    },
+    {
+      "code": "HRY",
+      "city": "Henbury"
+    },
+    {
+      "code": "LTW",
+      "city": "Leonardtown"
+    },
+    {
+      "code": "PCT",
+      "city": "Princeton/Rocky Hill"
+    },
+    {
+      "code": "SIY",
+      "city": "Montague/Yreka"
+    },
+    {
+      "code": "CIL",
+      "city": "Council"
+    },
+    {
+      "code": "JVI",
+      "city": "Manville"
+    },
+    {
+      "code": "HIL",
+      "city": "Shilabo"
+    },
+    {
+      "code": "HKB",
+      "city": "Healy Lake"
+    },
+    {
+      "code": "KAF",
+      "city": "Karato"
+    },
+    {
+      "code": "AEE",
+      "city": "Adareil"
+    },
+    {
+      "code": "AGS",
+      "city": "Augusta"
+    },
+    {
+      "code": "NML",
+      "city": "Fort McMurray"
+    },
+    {
+      "code": "AIZ",
+      "city": "Kaiser/Lake Ozark"
+    },
+    {
+      "code": "HLV",
+      "city": "Helenvale"
+    },
+    {
+      "code": "HMS",
+      "city": "Muara Teweh"
+    },
+    {
+      "code": "HMV",
+      "city": "Hemavan/Tarnaby"
+    },
+    {
+      "code": "HNE",
+      "city": ""
+    },
+    {
+      "code": "HNN",
+      "city": "Honinabi"
+    },
+    {
+      "code": "HOC",
+      "city": "Komako"
+    },
+    {
+      "code": "HOK",
+      "city": "Lajamanu"
+    },
+    {
+      "code": "HOW",
+      "city": "Lord Howe Island"
+    },
+    {
+      "code": "HPE",
+      "city": "Hopevale"
+    },
+    {
+      "code": "HSM",
+      "city": "Horsham"
+    },
+    {
+      "code": "HTU",
+      "city": "Hopetoun"
+    },
+    {
+      "code": "HUB",
+      "city": "Humbert River"
+    },
+    {
+      "code": "HUE",
+      "city": "Humera"
+    },
+    {
+      "code": "HVK",
+      "city": "Holmavik"
+    },
+    {
+      "code": "HWA",
+      "city": "Hawabango"
+    },
+    {
+      "code": "HWI",
+      "city": "Hawk Inlet"
+    },
+    {
+      "code": "HWK",
+      "city": "Hawker"
+    },
+    {
+      "code": "HYL",
+      "city": "Hollis"
+    },
+    {
+      "code": "IAU",
+      "city": "Iaura"
+    },
+    {
+      "code": "IBI",
+      "city": "Iboki"
+    },
+    {
+      "code": "ICY",
+      "city": "Icy Bay"
+    },
+    {
+      "code": "IDF",
+      "city": "Idiofa"
+    },
+    {
+      "code": "IDK",
+      "city": "Indulkana"
+    },
+    {
+      "code": "IDN",
+      "city": "Indagen"
+    },
+    {
+      "code": "IFF",
+      "city": "Iffley"
+    },
+    {
+      "code": "IFJ",
+      "city": "Isafjordur"
+    },
+    {
+      "code": "IGG",
+      "city": "Igiugig"
+    },
+    {
+      "code": "IGH",
+      "city": "Ingham"
+    },
+    {
+      "code": "IHC",
+      "city": "Inhaca"
+    },
+    {
+      "code": "IKP",
+      "city": "Inkerman"
+    },
+    {
+      "code": "ILX",
+      "city": "Ileg"
+    },
+    {
+      "code": "IMA",
+      "city": "Iamalele"
+    },
+    {
+      "code": "IMD",
+      "city": "Imonda"
+    },
+    {
+      "code": "INE",
+      "city": "Chinde"
+    },
+    {
+      "code": "INJ",
+      "city": "Injune"
+    },
+    {
+      "code": "INO",
+      "city": "Inongo"
+    },
+    {
+      "code": "IOK",
+      "city": "Iokea"
+    },
+    {
+      "code": "IOP",
+      "city": "Ioma"
+    },
+    {
+      "code": "ITK",
+      "city": "Itokama"
+    },
+    {
+      "code": "IUL",
+      "city": "Ilu"
+    },
+    {
+      "code": "IUS",
+      "city": "Inus"
+    },
+    {
+      "code": "IVH",
+      "city": ""
+    },
+    {
+      "code": "IVI",
+      "city": "Viveros Island"
+    },
+    {
+      "code": "KBM",
+      "city": "Kabwum"
+    },
+    {
+      "code": "CEQ",
+      "city": "Cannes"
+    },
+    {
+      "code": "KGZ",
+      "city": "Glacier Creek"
+    },
+    {
+      "code": "JEG",
+      "city": "Aasiaat"
+    },
+    {
+      "code": "JFR",
+      "city": "Paamiut"
+    },
+    {
+      "code": "JGO",
+      "city": ""
+    },
+    {
+      "code": "JGR",
+      "city": ""
+    },
+    {
+      "code": "HZP",
+      "city": "Fort MacKay"
+    },
+    {
+      "code": "JHS",
+      "city": "Sisimiut"
+    },
+    {
+      "code": "JJA",
+      "city": "Jajao"
+    },
+    {
+      "code": "MMA",
+      "city": "Malmo"
+    },
+    {
+      "code": "KAQ",
+      "city": "Kamulai"
+    },
+    {
+      "code": "AVX",
+      "city": "Avalon"
+    },
+    {
+      "code": "LTS",
+      "city": "Altus"
+    },
+    {
+      "code": "BCE",
+      "city": "Bryce Canyon"
+    },
+    {
+      "code": "BDE",
+      "city": "Baudette"
+    },
+    {
+      "code": "KBE",
+      "city": "Bell Island"
+    },
+    {
+      "code": "BML",
+      "city": "Berlin"
+    },
+    {
+      "code": "SSI",
+      "city": "Brunswick"
+    },
+    {
+      "code": "BTY",
+      "city": "Beatty"
+    },
+    {
+      "code": "BYH",
+      "city": "Blytheville"
+    },
+    {
+      "code": "UBS",
+      "city": "Columbus"
+    },
+    {
+      "code": "CGS",
+      "city": "College Park"
+    },
+    {
+      "code": "SSM",
+      "city": "Sault Ste Marie"
+    },
+    {
+      "code": "KCC",
+      "city": "Coffman Cove"
+    },
+    {
+      "code": "KCR",
+      "city": "Colorado Creek"
+    },
+    {
+      "code": "CSG",
+      "city": "Columbus"
+    },
+    {
+      "code": "KCN",
+      "city": "Chernofski Harbor"
+    },
+    {
+      "code": "CYS",
+      "city": "Cheyenne"
+    },
+    {
+      "code": "DNN",
+      "city": "Dalton"
+    },
+    {
+      "code": "MRE",
+      "city": "Maasai Mara"
+    },
+    {
+      "code": "KDQ",
+      "city": "Kamberatoro"
+    },
+    {
+      "code": "KDS",
+      "city": "Kamaran Downs"
+    },
+    {
+      "code": "LKU",
+      "city": "Lake Turkana"
+    },
+    {
+      "code": "KEB",
+      "city": "Nanwalek"
+    },
+    {
+      "code": "KDP",
+      "city": "Kandep"
+    },
+    {
+      "code": "DRA",
+      "city": "Mercury"
+    },
+    {
+      "code": "DRE",
+      "city": "Drummond Island"
+    },
+    {
+      "code": "KRV",
+      "city": "Kimwarer"
+    },
+    {
+      "code": "KEK",
+      "city": "Ekwok"
+    },
+    {
+      "code": "KEG",
+      "city": "Keglsugl"
+    },
+    {
+      "code": "EFK",
+      "city": "Newport"
+    },
+    {
+      "code": "KEX",
+      "city": "Kanabea"
+    },
+    {
+      "code": "FAF",
+      "city": "Fort Eustis"
+    },
+    {
+      "code": "NFL",
+      "city": "Fallon"
+    },
+    {
+      "code": "TOP",
+      "city": "Topeka"
+    },
+    {
+      "code": "FSI",
+      "city": "Lawton/Fort Sill"
+    },
+    {
+      "code": "FTW",
+      "city": "Fort Worth"
+    },
+    {
+      "code": "KGX",
+      "city": "Grayling"
+    },
+    {
+      "code": "GWS",
+      "city": "Glenwood Springs"
+    },
+    {
+      "code": "KGW",
+      "city": "Kagi"
+    },
+    {
+      "code": "HTW",
+      "city": "Chesapeake"
+    },
+    {
+      "code": "INS",
+      "city": "Indian Springs"
+    },
+    {
+      "code": "IPL",
+      "city": "Imperial/El Centro"
+    },
+    {
+      "code": "KIA",
+      "city": "Kaiapit"
+    },
+    {
+      "code": "KIB",
+      "city": "Ivanof Bay"
+    },
+    {
+      "code": "KIQ",
+      "city": "Kira"
+    },
+    {
+      "code": "KIZ",
+      "city": "Kikinonda"
+    },
+    {
+      "code": "KJU",
+      "city": "Kamiraba"
+    },
+    {
+      "code": "KKB",
+      "city": "Kitoi Bay"
+    },
+    {
+      "code": "KKL",
+      "city": "Karluk Lake"
+    },
+    {
+      "code": "KLS",
+      "city": "Kelso"
+    },
+    {
+      "code": "LSF",
+      "city": "Columbus"
+    },
+    {
+      "code": "KMB",
+      "city": "Koinambe"
+    },
+    {
+      "code": "KMF",
+      "city": "Kamina"
+    },
+    {
+      "code": "MGE",
+      "city": "Marietta"
+    },
+    {
+      "code": "MGM",
+      "city": "Montgomery"
+    },
+    {
+      "code": "SAC",
+      "city": "Sacramento"
+    },
+    {
+      "code": "KMM",
+      "city": "Kimam"
+    },
+    {
+      "code": "IPL",
+      "city": "Imperial/El Centro"
+    },
+    {
+      "code": "KMY",
+      "city": "Moser Bay"
+    },
+    {
+      "code": "KNL",
+      "city": "Kelanoa"
+    },
+    {
+      "code": "KOL",
+      "city": "Koumala"
+    },
+    {
+      "code": "NRB",
+      "city": "Mayport"
+    },
+    {
+      "code": "KOM",
+      "city": "Komo"
+    },
+    {
+      "code": "GLB",
+      "city": "Globe"
+    },
+    {
+      "code": "KPB",
+      "city": "Point Baker"
+    },
+    {
+      "code": "KPE",
+      "city": "Yapsiei"
+    },
+    {
+      "code": "KPL",
+      "city": "Kapal"
+    },
+    {
+      "code": "KPR",
+      "city": "Port Williams"
+    },
+    {
+      "code": "KRJ",
+      "city": "Karawari"
+    },
+    {
+      "code": "RFG",
+      "city": "Refugio"
+    },
+    {
+      "code": "KPY",
+      "city": "Port Bailey"
+    },
+    {
+      "code": "KQA",
+      "city": "Akutan"
+    },
+    {
+      "code": "KQL",
+      "city": "Kol"
+    },
+    {
+      "code": "KRU",
+      "city": "Kerau"
+    },
+    {
+      "code": "SCH",
+      "city": "Schenectady"
+    },
+    {
+      "code": "GEG",
+      "city": "Spokane"
+    },
+    {
+      "code": "KSG",
+      "city": "Kisengam"
+    },
+    {
+      "code": "KTB",
+      "city": "Thorne Bay"
+    },
+    {
+      "code": "SSC",
+      "city": "Sumter"
+    },
+    {
+      "code": "KSP",
+      "city": "Kosipe"
+    },
+    {
+      "code": "KUX",
+      "city": "Kuyol"
+    },
+    {
+      "code": "BFG",
+      "city": "Glen Canyon"
+    },
+    {
+      "code": "KUP",
+      "city": "Kupiano"
+    },
+    {
+      "code": "KVE",
+      "city": "Kitava Island"
+    },
+    {
+      "code": "KWF",
+      "city": "Waterfall"
+    },
+    {
+      "code": "KWP",
+      "city": "West Point"
+    },
+    {
+      "code": "KWV",
+      "city": "Kurwina"
+    },
+    {
+      "code": "KWX",
+      "city": "Kiwai Island"
+    },
+    {
+      "code": "KWY",
+      "city": "Kiwayu"
+    },
+    {
+      "code": "KXA",
+      "city": "Kasaan"
+    },
+    {
+      "code": "KZB",
+      "city": "Zachar Bay"
+    },
+    {
+      "code": "KZF",
+      "city": "Kaintiba"
+    },
+    {
+      "code": "LBM",
+      "city": "Luabo"
+    },
+    {
+      "code": "LDW",
+      "city": "Lansdowne Station"
+    },
+    {
+      "code": "ABC",
+      "city": "Albacete"
+    },
+    {
+      "code": "CQM",
+      "city": "Ciudad Real"
+    },
+    {
+      "code": "LTT",
+      "city": "St-Tropez"
+    },
+    {
+      "code": "EAP",
+      "city": "Basel/Mulhouse"
+    },
+    {
+      "code": "TLN",
+      "city": "Toulon/Hyeres"
+    },
+    {
+      "code": "PEV",
+      "city": "Pecs"
+    },
+    {
+      "code": "LGE",
+      "city": "Lake Gregory"
+    },
+    {
+      "code": "FOG",
+      "city": "Foggia"
+    },
+    {
+      "code": "LGM",
+      "city": "Laiagam"
+    },
+    {
+      "code": "LGN",
+      "city": "Linga Linga"
+    },
+    {
+      "code": "LHP",
+      "city": "Lehu"
+    },
+    {
+      "code": "PIX",
+      "city": "Pico Island"
+    },
+    {
+      "code": "VIC",
+      "city": "Vicenza"
+    },
+    {
+      "code": "LNM",
+      "city": "Langimar"
+    },
+    {
+      "code": "LNC",
+      "city": "Lengbati"
+    },
+    {
+      "code": "LNF",
+      "city": "Munbil"
+    },
+    {
+      "code": "LNQ",
+      "city": "Loani"
+    },
+    {
+      "code": "LLH",
+      "city": "Las Limas"
+    },
+    {
+      "code": "CVU",
+      "city": "Corvo Island"
+    },
+    {
+      "code": "LLL",
+      "city": "Lissadell"
+    },
+    {
+      "code": "EIY",
+      "city": "Ein Yahav"
+    },
+    {
+      "code": "FLW",
+      "city": "Flores Island"
+    },
+    {
+      "code": "HOH",
+      "city": "Hohenems/Dornbirn"
+    },
+    {
+      "code": "BUH",
+      "city": "Bucharest"
+    },
+    {
+      "code": "LUZ",
+      "city": "Lublin"
+    },
+    {
+      "code": "KZR",
+      "city": "Kutahya"
+    },
+    {
+      "code": "NOP",
+      "city": "Sinop"
+    },
+    {
+      "code": "IZM",
+      "city": "Izmir"
+    },
+    {
+      "code": "ESK",
+      "city": "Eskisehir"
+    },
+    {
+      "code": "GNY",
+      "city": "Sanliurfa"
+    },
+    {
+      "code": "MAP",
+      "city": "Mamai"
+    },
+    {
+      "code": "MDS",
+      "city": "Middle Caicos"
+    },
+    {
+      "code": "MDV",
+      "city": "Medouneu"
+    },
+    {
+      "code": "MGG",
+      "city": "Margarima"
+    },
+    {
+      "code": "MGP",
+      "city": "Manga"
+    },
+    {
+      "code": "AIM",
+      "city": "Ailuk Island"
+    },
+    {
+      "code": "BII",
+      "city": "Bhisho"
+    },
+    {
+      "code": "CMM",
+      "city": "Carmelita"
+    },
+    {
+      "code": "SLX",
+      "city": "Salt Cay"
+    },
+    {
+      "code": "DOA",
+      "city": "Doany"
+    },
+    {
+      "code": "CDD",
+      "city": "Cauquira"
+    },
+    {
+      "code": "MJE",
+      "city": "Majkin"
+    },
+    {
+      "code": "MHY",
+      "city": "Morehead"
+    },
+    {
+      "code": "KBT",
+      "city": "Kaben Island"
+    },
+    {
+      "code": "MIZ",
+      "city": "Mainoru"
+    },
+    {
+      "code": "MJJ",
+      "city": "Moki"
+    },
+    {
+      "code": "EBN",
+      "city": "Ebadon Island"
+    },
+    {
+      "code": "JEJ",
+      "city": "Jeh Island"
+    },
+    {
+      "code": "MKN",
+      "city": "Malekolon"
+    },
+    {
+      "code": "MLQ",
+      "city": "Malalaua"
+    },
+    {
+      "code": "MUG",
+      "city": "Mulege"
+    },
+    {
+      "code": "NOG",
+      "city": "Nogales"
+    },
+    {
+      "code": "CUA",
+      "city": "Ciudad Constitucion"
+    },
+    {
+      "code": "BZA",
+      "city": "Bonanza"
+    },
+    {
+      "code": "MNP",
+      "city": "Maron Island"
+    },
+    {
+      "code": "MPG",
+      "city": "Makini"
+    },
+    {
+      "code": "MPU",
+      "city": "Mabua"
+    },
+    {
+      "code": "MPX",
+      "city": "Miyanmin"
+    },
+    {
+      "code": "MQO",
+      "city": "Malam"
+    },
+    {
+      "code": "CSC",
+      "city": "Canas"
+    },
+    {
+      "code": "NCT",
+      "city": "Nicoya"
+    },
+    {
+      "code": "MRT",
+      "city": "Moroak"
+    },
+    {
+      "code": "NOB",
+      "city": "Nosara"
+    },
+    {
+      "code": "DRK",
+      "city": "Drake Bay"
+    },
+    {
+      "code": "GER",
+      "city": "Nueva Gerona"
+    },
+    {
+      "code": "MVI",
+      "city": "Manetai"
+    },
+    {
+      "code": "MWR",
+      "city": "Motswari"
+    },
+    {
+      "code": "MYX",
+      "city": "Menyamya"
+    },
+    {
+      "code": "MXK",
+      "city": "Mindik"
+    },
+    {
+      "code": "LLM",
+      "city": "Lomlom"
+    },
+    {
+      "code": "MYK",
+      "city": "May Creek"
+    },
+    {
+      "code": "MYG",
+      "city": "Mayaguana"
+    },
+    {
+      "code": "CCZ",
+      "city": "Chub Cay"
+    },
+    {
+      "code": "CXY",
+      "city": "Cat Cays"
+    },
+    {
+      "code": "NMC",
+      "city": "Norman's Cay"
+    },
+    {
+      "code": "RCY",
+      "city": "Rum Cay"
+    },
+    {
+      "code": "GHC",
+      "city": "Great Harbour Cay"
+    },
+    {
+      "code": "MZE",
+      "city": "Manatee"
+    },
+    {
+      "code": "MGS",
+      "city": "Mangaia Island"
+    },
+    {
+      "code": "AQS",
+      "city": "Saqani"
+    },
+    {
+      "code": "MUK",
+      "city": "Mauke Island"
+    },
+    {
+      "code": "MHX",
+      "city": "Manihiki Atoll"
+    },
+    {
+      "code": "KDV",
+      "city": "Kadavu Island"
+    },
+    {
+      "code": "NDI",
+      "city": "Namudi"
+    },
+    {
+      "code": "LBS",
+      "city": "Labasa"
+    },
+    {
+      "code": "LEV",
+      "city": "Levuka"
+    },
+    {
+      "code": "LKB",
+      "city": "Lakeba Island"
+    },
+    {
+      "code": "KXF",
+      "city": "Koro Island"
+    },
+    {
+      "code": "MOI",
+      "city": "Monterrey"
+    },
+    {
+      "code": "KAY",
+      "city": "Wakaya Island"
+    },
+    {
+      "code": "AIT",
+      "city": "Aitutaki Island"
+    },
+    {
+      "code": "AIU",
+      "city": "Atiu Island"
+    },
+    {
+      "code": "BEZ",
+      "city": "Beru"
+    },
+    {
+      "code": "BVF",
+      "city": "Bua"
+    },
+    {
+      "code": "IBO",
+      "city": "Ibo"
+    },
+    {
+      "code": "TTL",
+      "city": "Nanuya Levu"
+    },
+    {
+      "code": "ICI",
+      "city": "Icy Bay"
+    },
+    {
+      "code": "IMI",
+      "city": "Ine Island"
+    },
+    {
+      "code": "NDN",
+      "city": "Nadunumu"
+    },
+    {
+      "code": "MNF",
+      "city": "Mana Island"
+    },
+    {
+      "code": "LUC",
+      "city": "Laucala Island"
+    },
+    {
+      "code": "MFJ",
+      "city": "Moala Island"
+    },
+    {
+      "code": "NFO",
+      "city": "Niuafo'ou"
+    },
+    {
+      "code": "KUC",
+      "city": "Kuria"
+    },
+    {
+      "code": "ONU",
+      "city": "Ono-i-Lau"
+    },
+    {
+      "code": "NIG",
+      "city": "Nikunau"
+    },
+    {
+      "code": "PYE",
+      "city": "Penrhyn Atoll"
+    },
+    {
+      "code": "VAU",
+      "city": "Vatukoula"
+    },
+    {
+      "code": "MKP",
+      "city": "Makemo"
+    },
+    {
+      "code": "FAC",
+      "city": "Faaite"
+    },
+    {
+      "code": "TBF",
+      "city": "Tabiteuea North"
+    },
+    {
+      "code": "FAV",
+      "city": "Fakarava"
+    },
+    {
+      "code": "FGU",
+      "city": "Fangatau"
+    },
+    {
+      "code": "FHZ",
+      "city": "Fakahina"
+    },
+    {
+      "code": "NAU",
+      "city": "Napuka"
+    },
+    {
+      "code": "FTI",
+      "city": "Fitiuta"
+    },
+    {
+      "code": "GMR",
+      "city": "Gambier"
+    },
+    {
+      "code": "MVT",
+      "city": "Mataiva"
+    },
+    {
+      "code": "NON",
+      "city": "Nonouti"
+    },
+    {
+      "code": "HHZ",
+      "city": "Hikueru"
+    },
+    {
+      "code": "RVV",
+      "city": "Raivavae"
+    },
+    {
+      "code": "TIH",
+      "city": "Tikehau"
+    },
+    {
+      "code": "KKR",
+      "city": "Kaukura"
+    },
+    {
+      "code": "TKV",
+      "city": "Tatakoto"
+    },
+    {
+      "code": "TKP",
+      "city": "Takapoto"
+    },
+    {
+      "code": "KHZ",
+      "city": "Kauehi"
+    },
+    {
+      "code": "NOO",
+      "city": "Naoro"
+    },
+    {
+      "code": "AAK",
+      "city": "Aranuka"
+    },
+    {
+      "code": "AEA",
+      "city": "Abemama"
+    },
+    {
+      "code": "AHE",
+      "city": "Ahe"
+    },
+    {
+      "code": "APK",
+      "city": "Apataki"
+    },
+    {
+      "code": "BBG",
+      "city": "Butaritari"
+    },
+    {
+      "code": "NPG",
+      "city": "Nipa"
+    },
+    {
+      "code": "NRY",
+      "city": "Newry"
+    },
+    {
+      "code": "NIK",
+      "city": "Niokolo-Koba"
+    },
+    {
+      "code": "NOM",
+      "city": "Nomad River"
+    },
+    {
+      "code": "PKP",
+      "city": "Puka Puka"
+    },
+    {
+      "code": "NTA",
+      "city": "Natadola"
+    },
+    {
+      "code": "NUK",
+      "city": "Nukutavake"
+    },
+    {
+      "code": "RMT",
+      "city": "Rimatara"
+    },
+    {
+      "code": "PUK",
+      "city": "Pukarua"
+    },
+    {
+      "code": "RKA",
+      "city": "Aratika"
+    },
+    {
+      "code": "REA",
+      "city": "Reao"
+    },
+    {
+      "code": "RUR",
+      "city": "Rurutu"
+    },
+    {
+      "code": "RRR",
+      "city": "Raroia"
+    },
+    {
+      "code": "UAH",
+      "city": "Ua Huka"
+    },
+    {
+      "code": "LOD",
+      "city": "Longana"
+    },
+    {
+      "code": "LNE",
+      "city": "Lonorore"
+    },
+    {
+      "code": "MTV",
+      "city": "Mota Lava Island"
+    },
+    {
+      "code": "UOA",
+      "city": "Moruroa Atoll"
+    },
+    {
+      "code": "TGH",
+      "city": "Tongoa Island"
+    },
+    {
+      "code": "MWF",
+      "city": "Maewo Island"
+    },
+    {
+      "code": "TOH",
+      "city": "Torres Islands"
+    },
+    {
+      "code": "LPM",
+      "city": "Lamap"
+    },
+    {
+      "code": "AUQ",
+      "city": "Hiva Oa"
+    },
+    {
+      "code": "AUY",
+      "city": "Anatom Island"
+    },
+    {
+      "code": "AWD",
+      "city": "Aniwa Island"
+    },
+    {
+      "code": "BOB",
+      "city": "Bora Bora"
+    },
+    {
+      "code": "LNB",
+      "city": "Lamen Bay"
+    },
+    {
+      "code": "MEE",
+      "city": "Mare"
+    },
+    {
+      "code": "NHV",
+      "city": "Nuku Hiva"
+    },
+    {
+      "code": "UIQ",
+      "city": "Quoin Hill"
+    },
+    {
+      "code": "DLY",
+      "city": "Dillon's Bay"
+    },
+    {
+      "code": "EAE",
+      "city": "Emae Island"
+    },
+    {
+      "code": "FTA",
+      "city": "Futuna Island"
+    },
+    {
+      "code": "HOI",
+      "city": "Hoy"
+    },
+    {
+      "code": "IPA",
+      "city": "Ipota"
+    },
+    {
+      "code": "NUG",
+      "city": "Nuguria Islands"
+    },
+    {
+      "code": "PBJ",
+      "city": "Paama Island"
+    },
+    {
+      "code": "RGI",
+      "city": "Rangiroa"
+    },
+    {
+      "code": "SLH",
+      "city": "Sola"
+    },
+    {
+      "code": "SSR",
+      "city": "Sara"
+    },
+    {
+      "code": "SWJ",
+      "city": "South West Bay"
+    },
+    {
+      "code": "VHZ",
+      "city": "Vahitahi"
+    },
+    {
+      "code": "RAG",
+      "city": "Raglan"
+    },
+    {
+      "code": "CMV",
+      "city": "Coromandel"
+    },
+    {
+      "code": "DGR",
+      "city": "Dargaville"
+    },
+    {
+      "code": "OAZ",
+      "city": "Camp Bastion"
+    },
+    {
+      "code": "AHB",
+      "city": "Abha"
+    },
+    {
+      "code": "OGE",
+      "city": "Ogeramnang"
+    },
+    {
+      "code": "SLF",
+      "city": "Sulayel"
+    },
+    {
+      "code": "OGM",
+      "city": "Ustupo Island"
+    },
+    {
+      "code": "AEU",
+      "city": "Abu Musa Island"
+    },
+    {
+      "code": "OKV",
+      "city": "Okao"
+    },
+    {
+      "code": "XSB",
+      "city": "Sir Bani Yas Island"
+    },
+    {
+      "code": "OLH",
+      "city": "Old Harbor"
+    },
+    {
+      "code": "OLQ",
+      "city": "Olsobip"
+    },
+    {
+      "code": "ONB",
+      "city": "Ononge"
+    },
+    {
+      "code": "OMM",
+      "city": "Marmul"
+    },
+    {
+      "code": "AAN",
+      "city": "Al Ain"
+    },
+    {
+      "code": "SGI",
+      "city": "Sargodha"
+    },
+    {
+      "code": "DEA",
+      "city": "Dera Ghazi Khan"
+    },
+    {
+      "code": "DQM",
+      "city": "Duqm"
+    },
+    {
+      "code": "FAU",
+      "city": "Fahud"
+    },
+    {
+      "code": "JNJ",
+      "city": "Duqm"
+    },
+    {
+      "code": "IQA",
+      "city": "Al Asad"
+    },
+    {
+      "code": "OSE",
+      "city": "Omora"
+    },
+    {
+      "code": "ORI",
+      "city": "Paris"
+    },
+    {
+      "code": "OSG",
+      "city": "Ossima"
+    },
+    {
+      "code": "OTY",
+      "city": "Oria"
+    },
+    {
+      "code": "OXO",
+      "city": "Orientos"
+    },
+    {
+      "code": "BMX",
+      "city": "Big Mountain"
+    },
+    {
+      "code": "BTI",
+      "city": "Barter Island"
+    },
+    {
+      "code": "BTT",
+      "city": "Bettles"
+    },
+    {
+      "code": "BVU",
+      "city": "Beluga"
+    },
+    {
+      "code": "CEM",
+      "city": "Central"
+    },
+    {
+      "code": "ADK",
+      "city": "Adak Island"
+    },
+    {
+      "code": "AKB",
+      "city": "Atka"
+    },
+    {
+      "code": "ATU",
+      "city": "Attu Island"
+    },
+    {
+      "code": "AXK",
+      "city": "Ataq"
+    },
+    {
+      "code": "BFQ",
+      "city": "Bahia Pina"
+    },
+    {
+      "code": "BKC",
+      "city": "Buckland"
+    },
+    {
+      "code": "CIK",
+      "city": "Chalkyitsik"
+    },
+    {
+      "code": "CTE",
+      "city": "Carti"
+    },
+    {
+      "code": "CXF",
+      "city": "Coldfoot"
+    },
+    {
+      "code": "KKH",
+      "city": "Kongiganak"
+    },
+    {
+      "code": "CYF",
+      "city": "Chefornak"
+    },
+    {
+      "code": "CYT",
+      "city": "Yakataga"
+    },
+    {
+      "code": "MPP",
+      "city": "Mulatupo"
+    },
+    {
+      "code": "CZF",
+      "city": "Cape Romanzof"
+    },
+    {
+      "code": "MLL",
+      "city": "Marshall"
+    },
+    {
+      "code": "PML",
+      "city": "Port Moller"
+    },
+    {
+      "code": "PTD",
+      "city": "Port Alexander"
+    },
+    {
+      "code": "SCM",
+      "city": "Scammon Bay"
+    },
+    {
+      "code": "RDB",
+      "city": "Red Dog"
+    },
+    {
+      "code": "DLG",
+      "city": "Dillingham"
+    },
+    {
+      "code": "DRG",
+      "city": "Deering"
+    },
+    {
+      "code": "EHM",
+      "city": "Cape Newenham"
+    },
+    {
+      "code": "ELE",
+      "city": "El Real"
+    },
+    {
+      "code": "EMK",
+      "city": "Emmonak"
+    },
+    {
+      "code": "EAA",
+      "city": "Eagle"
+    },
+    {
+      "code": "EEK",
+      "city": "Eek"
+    },
+    {
+      "code": "MCG",
+      "city": "McGrath"
+    },
+    {
+      "code": "MOU",
+      "city": "Mountain Village"
+    },
+    {
+      "code": "MCL",
+      "city": "McKinley"
+    },
+    {
+      "code": "MDO",
+      "city": "Middleton Island"
+    },
+    {
+      "code": "MTM",
+      "city": "Metlakatla"
+    },
+    {
+      "code": "KWK",
+      "city": "Kwigillingok"
+    },
+    {
+      "code": "NIB",
+      "city": "Nikolai"
+    },
+    {
+      "code": "WAA",
+      "city": "Wales"
+    },
+    {
+      "code": "AGN",
+      "city": "Angoon"
+    },
+    {
+      "code": "AKK",
+      "city": "Akhiok"
+    },
+    {
+      "code": "UTO",
+      "city": "Utopia Creek"
+    },
+    {
+      "code": "KGK",
+      "city": "Koliganek"
+    },
+    {
+      "code": "KPN",
+      "city": "Kipnuk"
+    },
+    {
+      "code": "EGX",
+      "city": "Egegik"
+    },
+    {
+      "code": "LKK",
+      "city": "Kulik Lake"
+    },
+    {
+      "code": "FWL",
+      "city": "Farewell"
+    },
+    {
+      "code": "UUK",
+      "city": "Kuparuk"
+    },
+    {
+      "code": "GAL",
+      "city": "Galena"
+    },
+    {
+      "code": "GBH",
+      "city": "Galbraith Lake"
+    },
+    {
+      "code": "KLG",
+      "city": "Kalskag"
+    },
+    {
+      "code": "HUS",
+      "city": "Hughes"
+    },
+    {
+      "code": "KMO",
+      "city": "Manokotak"
+    },
+    {
+      "code": "IKO",
+      "city": "Nikolski"
+    },
+    {
+      "code": "MYU",
+      "city": "Mekoryuk"
+    },
+    {
+      "code": "MXY",
+      "city": "McCarthy"
+    },
+    {
+      "code": "NNL",
+      "city": "Nondalton"
+    },
+    {
+      "code": "NUL",
+      "city": "Nulato"
+    },
+    {
+      "code": "OBU",
+      "city": "Kobuk"
+    },
+    {
+      "code": "PCA",
+      "city": "Portage Creek"
+    },
+    {
+      "code": "UNK",
+      "city": "Unalakleet"
+    },
+    {
+      "code": "KNW",
+      "city": "New Stuyahok"
+    },
+    {
+      "code": "KPV",
+      "city": "Perryville"
+    },
+    {
+      "code": "PPC",
+      "city": "Prospect Creek"
+    },
+    {
+      "code": "KWN",
+      "city": "Quinhagak"
+    },
+    {
+      "code": "PKA",
+      "city": "Napaskiak"
+    },
+    {
+      "code": "SHH",
+      "city": "Shishmaref"
+    },
+    {
+      "code": "ARC",
+      "city": "Arctic Village"
+    },
+    {
+      "code": "ATK",
+      "city": "Atqasuk"
+    },
+    {
+      "code": "TAL",
+      "city": "Tanana"
+    },
+    {
+      "code": "TNC",
+      "city": "Tin City"
+    },
+    {
+      "code": "AUK",
+      "city": "Alakanuk"
+    },
+    {
+      "code": "TOG",
+      "city": "Togiak"
+    },
+    {
+      "code": "RSH",
+      "city": "Russian Mission"
+    },
+    {
+      "code": "TLJ",
+      "city": "Tatalina"
+    },
+    {
+      "code": "UMT",
+      "city": "Umiat"
+    },
+    {
+      "code": "FNR",
+      "city": "Funter Bay"
+    },
+    {
+      "code": "SKW",
+      "city": "Skwentna"
+    },
+    {
+      "code": "SVW",
+      "city": "Sparrevohn"
+    },
+    {
+      "code": "WNA",
+      "city": "Napakiak"
+    },
+    {
+      "code": "WLK",
+      "city": "Selawik"
+    },
+    {
+      "code": "EMI",
+      "city": "El-Minya"
+    },
+    {
+      "code": "ERE",
+      "city": "Erave"
+    },
+    {
+      "code": "KVC",
+      "city": "King Cove"
+    },
+    {
+      "code": "ESA",
+      "city": "Esa'ala"
+    },
+    {
+      "code": "GMI",
+      "city": "Gasmata"
+    },
+    {
+      "code": "GOE",
+      "city": "Gonaili"
+    },
+    {
+      "code": "KVL",
+      "city": "Kivalina"
+    },
+    {
+      "code": "GVI",
+      "city": "Green River"
+    },
+    {
+      "code": "HYF",
+      "city": "Hayfield"
+    },
+    {
+      "code": "IIS",
+      "city": "Nissan Island"
+    },
+    {
+      "code": "JAQ",
+      "city": "Jacquinot Bay"
+    },
+    {
+      "code": "NCN",
+      "city": "Chenega"
+    },
+    {
+      "code": "KUK",
+      "city": "Kasigluk"
+    },
+    {
+      "code": "PCO",
+      "city": "La Ribera"
+    },
+    {
+      "code": "KTS",
+      "city": "Brevig Mission"
+    },
+    {
+      "code": "TKJ",
+      "city": "Tok"
+    },
+    {
+      "code": "KYU",
+      "city": "Koyukuk"
+    },
+    {
+      "code": "KNK",
+      "city": "Kokhanok"
+    },
+    {
+      "code": "PDI",
+      "city": "Pindiu"
+    },
+    {
+      "code": "KWT",
+      "city": "Kwethluk"
+    },
+    {
+      "code": "ATP",
+      "city": "Aitape"
+    },
+    {
+      "code": "AKG",
+      "city": "Anguganak"
+    },
+    {
+      "code": "AKI",
+      "city": "Sittwe"
+    },
+    {
+      "code": "BAA",
+      "city": "Bialla"
+    },
+    {
+      "code": "CLP",
+      "city": "Clarks Point"
+    },
+    {
+      "code": "KXR",
+      "city": "Karoola"
+    },
+    {
+      "code": "CVB",
+      "city": "Chungrebu"
+    },
+    {
+      "code": "PEC",
+      "city": "Pecs"
+    },
+    {
+      "code": "SKK",
+      "city": "Shaktoolik"
+    },
+    {
+      "code": "SGK",
+      "city": "Sangapi"
+    },
+    {
+      "code": "VAK",
+      "city": "Chevak"
+    },
+    {
+      "code": "LMI",
+      "city": "Lumi"
+    },
+    {
+      "code": "LMY",
+      "city": "Lake Murray"
+    },
+    {
+      "code": "BKH",
+      "city": "Kekaha"
+    },
+    {
+      "code": "LUP",
+      "city": "Kalaupapa"
+    },
+    {
+      "code": "TFM",
+      "city": "Telefomin"
+    },
+    {
+      "code": "UKU",
+      "city": "Nuku"
+    },
+    {
+      "code": "MDY",
+      "city": "Sand Island"
+    },
+    {
+      "code": "JRF",
+      "city": "Kapolei"
+    },
+    {
+      "code": "TFI",
+      "city": "Tufi"
+    },
+    {
+      "code": "TLO",
+      "city": "Tol"
+    },
+    {
+      "code": "PGM",
+      "city": "Port Graham"
+    },
+    {
+      "code": "OPU",
+      "city": "Balimo"
+    },
+    {
+      "code": "PLE",
+      "city": "Paiela"
+    },
+    {
+      "code": "PIZ",
+      "city": "Point Lay"
+    },
+    {
+      "code": "PPX",
+      "city": "Param"
+    },
+    {
+      "code": "WPM",
+      "city": "Wipim"
+    },
+    {
+      "code": "VMU",
+      "city": "Baimuru"
+    },
+    {
+      "code": "KAI",
+      "city": "Wakaya Island"
+    },
+    {
+      "code": "TNQ",
+      "city": "Teraina"
+    },
+    {
+      "code": "LZN",
+      "city": "Matsu (Nangan)"
+    },
+    {
+      "code": "MZG",
+      "city": "Penghu"
+    },
+    {
+      "code": "MUS",
+      "city": "Minamitorishima"
+    },
+    {
+      "code": "RAA",
+      "city": "Rakanda"
+    },
+    {
+      "code": "OLK",
+      "city": "Fuerte Olimpo"
+    },
+    {
+      "code": "PCJ",
+      "city": "Puerto La Victoria"
+    },
+    {
+      "code": "AWK",
+      "city": "Wake Island"
+    },
+    {
+      "code": "BFA",
+      "city": "Bahia Negra"
+    },
+    {
+      "code": "HCN",
+      "city": "Hengchun"
+    },
+    {
+      "code": "IWO",
+      "city": "Iwoto (Iwo Jima)"
+    },
+    {
+      "code": "PUI",
+      "city": "Pula"
+    },
+    {
+      "code": "PWR",
+      "city": "Port Walter"
+    },
+    {
+      "code": "RDV",
+      "city": "Red Devil"
+    },
+    {
+      "code": "RAX",
+      "city": "Oram"
+    },
+    {
+      "code": "RBP",
+      "city": "Raba Raba"
+    },
+    {
+      "code": "RGE",
+      "city": "Porgera"
+    },
+    {
+      "code": "RHR",
+      "city": "Ras al Khaimah"
+    },
+    {
+      "code": "RBJ",
+      "city": "Rebun"
+    },
+    {
+      "code": "KUM",
+      "city": "Yakushima"
+    },
+    {
+      "code": "OKE",
+      "city": "Okierabu"
+    },
+    {
+      "code": "OKI",
+      "city": "Oki"
+    },
+    {
+      "code": "ASJ",
+      "city": "Amami"
+    },
+    {
+      "code": "CHN",
+      "city": "Jeonju"
+    },
+    {
+      "code": "HAC",
+      "city": "Hachijojima"
+    },
+    {
+      "code": "KKX",
+      "city": "Kikai"
+    },
+    {
+      "code": "KAG",
+      "city": "Gangneung"
+    },
+    {
+      "code": "MMY",
+      "city": "Miyako"
+    },
+    {
+      "code": "MTS",
+      "city": "Manzini"
+    },
+    {
+      "code": "KTD",
+      "city": "Kitadaito"
+    },
+    {
+      "code": "AGJ",
+      "city": "Aguni"
+    },
+    {
+      "code": "RLP",
+      "city": "Rosella Plains"
+    },
+    {
+      "code": "HTR",
+      "city": "Hateruma"
+    },
+    {
+      "code": "IEJ",
+      "city": "Iejima"
+    },
+    {
+      "code": "RMP",
+      "city": "Rampart"
+    },
+    {
+      "code": "RKY",
+      "city": "Rokeby"
+    },
+    {
+      "code": "RNR",
+      "city": "Robinson River"
+    },
+    {
+      "code": "USU",
+      "city": "Busuanga"
+    },
+    {
+      "code": "LPS",
+      "city": "Lopez Island"
+    },
+    {
+      "code": "RRM",
+      "city": "Marromeu"
+    },
+    {
+      "code": "RPV",
+      "city": "Roper Valley"
+    },
+    {
+      "code": "RUU",
+      "city": "Kawbenaberi"
+    },
+    {
+      "code": "RAF",
+      "city": "Rafaela"
+    },
+    {
+      "code": "CVH",
+      "city": "Caviahue"
+    },
+    {
+      "code": "LHS",
+      "city": "Las Heras"
+    },
+    {
+      "code": "AFL",
+      "city": "Alta Floresta"
+    },
+    {
+      "code": "JCR",
+      "city": "Jacareacanga"
+    },
+    {
+      "code": "OYK",
+      "city": "Oiapoque"
+    },
+    {
+      "code": "PMW",
+      "city": "Palmas"
+    },
+    {
+      "code": "DPB",
+      "city": "Cameron"
+    },
+    {
+      "code": "WCA",
+      "city": "Castro"
+    },
+    {
+      "code": "OIA",
+      "city": "Ourilandia do Norte"
+    },
+    {
+      "code": "CNR",
+      "city": "Chanaral"
+    },
+    {
+      "code": "CPP",
+      "city": "Pica"
+    },
+    {
+      "code": "PZS",
+      "city": "Temuco"
+    },
+    {
+      "code": "SDI",
+      "city": "Saidor"
+    },
+    {
+      "code": "LVR",
+      "city": "Lucas do Rio Verde"
+    },
+    {
+      "code": "PRE",
+      "city": "Pore"
+    },
+    {
+      "code": "AYI",
+      "city": "Pottuvil"
+    },
+    {
+      "code": "NPR",
+      "city": "Novo Progresso"
+    },
+    {
+      "code": "ECO",
+      "city": "El Encanto"
+    },
+    {
+      "code": "ESG",
+      "city": "Mariscal Estigarribia"
+    },
+    {
+      "code": "PCC",
+      "city": "Puerto Rico"
+    },
+    {
+      "code": "PTZ",
+      "city": "Shell Mera"
+    },
+    {
+      "code": "SFU",
+      "city": "Safia"
+    },
+    {
+      "code": "SIZ",
+      "city": "Sissano"
+    },
+    {
+      "code": "SQF",
+      "city": "Solano"
+    },
+    {
+      "code": "JUA",
+      "city": "Juara"
+    },
+    {
+      "code": "MFB",
+      "city": "Monfort"
+    },
+    {
+      "code": "MHF",
+      "city": "Morichal"
+    },
+    {
+      "code": "PUU",
+      "city": "Puerto Asis"
+    },
+    {
+      "code": "SOH",
+      "city": "Solita"
+    },
+    {
+      "code": "ARF",
+      "city": "Acaricuara"
+    },
+    {
+      "code": "BHF",
+      "city": "Cupica"
+    },
+    {
+      "code": "CSR",
+      "city": "Casuarito"
+    },
+    {
+      "code": "CUO",
+      "city": "Caruru"
+    },
+    {
+      "code": "ECR",
+      "city": "El Charco"
+    },
+    {
+      "code": "HRR",
+      "city": "La Herrera"
+    },
+    {
+      "code": "ASC",
+      "city": "Ascension"
+    },
+    {
+      "code": "PCR",
+      "city": "Puerto Carreno"
+    },
+    {
+      "code": "PZA",
+      "city": "Paz de Ariporo"
+    },
+    {
+      "code": "MGD",
+      "city": "Magdalena"
+    },
+    {
+      "code": "OEM",
+      "city": "Paloemeu"
+    },
+    {
+      "code": "ABN",
+      "city": "Albina"
+    },
+    {
+      "code": "BVK",
+      "city": "Huacaraje"
+    },
+    {
+      "code": "CCA",
+      "city": "Chimore"
+    },
+    {
+      "code": "CEP",
+      "city": "Concepcion"
+    },
+    {
+      "code": "SJB",
+      "city": "San Joaquin"
+    },
+    {
+      "code": "DRJ",
+      "city": "Drietabbetje"
+    },
+    {
+      "code": "RDC",
+      "city": "Redencao"
+    },
+    {
+      "code": "SNM",
+      "city": "San Ignacio de Moxos"
+    },
+    {
+      "code": "SMH",
+      "city": "Sapmanga"
+    },
+    {
+      "code": "SMP",
+      "city": "Stockholm"
+    },
+    {
+      "code": "MPY",
+      "city": "Maripasoula"
+    },
+    {
+      "code": "ALD",
+      "city": "Alerta"
+    },
+    {
+      "code": "GSI",
+      "city": "Grand-Santi"
+    },
+    {
+      "code": "GTA",
+      "city": "Gatokae"
+    },
+    {
+      "code": "ITI",
+      "city": "Itambacuri"
+    },
+    {
+      "code": "OBI",
+      "city": "Obidos"
+    },
+    {
+      "code": "SRV",
+      "city": "Stony River"
+    },
+    {
+      "code": "KCB",
+      "city": "Kasikasima"
+    },
+    {
+      "code": "SQT",
+      "city": "Samarai Island"
+    },
+    {
+      "code": "SRM",
+      "city": "Sandringham Station"
+    },
+    {
+      "code": "APU",
+      "city": "Apucarana"
+    },
+    {
+      "code": "SSS",
+      "city": "Siassi"
+    },
+    {
+      "code": "SUZ",
+      "city": "Suria"
+    },
+    {
+      "code": "EOR",
+      "city": "El Dorado"
+    },
+    {
+      "code": "PPH",
+      "city": "Peraitepuy"
+    },
+    {
+      "code": "PBV",
+      "city": "Porto dos Gauchos"
+    },
+    {
+      "code": "PBX",
+      "city": "Porto Alegre do Norte"
+    },
+    {
+      "code": "JRN",
+      "city": "Juruena"
+    },
+    {
+      "code": "OPS",
+      "city": "Sinop"
+    },
+    {
+      "code": "URM",
+      "city": "Uriman"
+    },
+    {
+      "code": "CCX",
+      "city": "Caceres"
+    },
+    {
+      "code": "CQA",
+      "city": "Canarana"
+    },
+    {
+      "code": "LCB",
+      "city": "Pontes e Lacerda"
+    },
+    {
+      "code": "CQS",
+      "city": "Costa Marques"
+    },
+    {
+      "code": "SVS",
+      "city": "Stevens Village"
+    },
+    {
+      "code": "DMT",
+      "city": "Diamantino"
+    },
+    {
+      "code": "FBA",
+      "city": "Fonte Boa"
+    },
+    {
+      "code": "HUW",
+      "city": "Humaita"
+    },
+    {
+      "code": "IDO",
+      "city": "Santa Isabel do Morro"
+    },
+    {
+      "code": "JIA",
+      "city": "Juina"
+    },
+    {
+      "code": "SWE",
+      "city": "Siwea"
+    },
+    {
+      "code": "SWG",
+      "city": "Satwag"
+    },
+    {
+      "code": "SWR",
+      "city": "Silur"
+    },
+    {
+      "code": "NAI",
+      "city": "Beijing"
+    },
+    {
+      "code": "LUB",
+      "city": "Lumidpau"
+    },
+    {
+      "code": "MYM",
+      "city": "Monkey Mountain"
+    },
+    {
+      "code": "KRM",
+      "city": "Karanambo"
+    },
+    {
+      "code": "AHL",
+      "city": "Aishalton"
+    },
+    {
+      "code": "AZL",
+      "city": "Sapezal"
+    },
+    {
+      "code": "KKG",
+      "city": "Konawaruk"
+    },
+    {
+      "code": "MHA",
+      "city": "Mahdia"
+    },
+    {
+      "code": "ORJ",
+      "city": "Orinduik"
+    },
+    {
+      "code": "TDS",
+      "city": "Sasereme"
+    },
+    {
+      "code": "TFB",
+      "city": "Tifalmin"
+    },
+    {
+      "code": "BMJ",
+      "city": "Baramita"
+    },
+    {
+      "code": "PRR",
+      "city": "Paruima"
+    },
+    {
+      "code": "KTO",
+      "city": "Kato"
+    },
+    {
+      "code": "TBA",
+      "city": "Tabibuga"
+    },
+    {
+      "code": "SKM",
+      "city": "Skeldon"
+    },
+    {
+      "code": "TBQ",
+      "city": "Tarabo"
+    },
+    {
+      "code": "GFO",
+      "city": "Bartica"
+    },
+    {
+      "code": "TDB",
+      "city": "Tetebedi"
+    },
+    {
+      "code": "IMB",
+      "city": "Imbaimadai"
+    },
+    {
+      "code": "SXP",
+      "city": "Nunam Iqua"
+    },
+    {
+      "code": "SYB",
+      "city": "Seal Bay"
+    },
+    {
+      "code": "SYF",
+      "city": "Gabriola Island"
+    },
+    {
+      "code": "TCT",
+      "city": "Takotna"
+    },
+    {
+      "code": "SXH",
+      "city": "Sehulea"
+    },
+    {
+      "code": "NGD",
+      "city": "Anegada"
+    },
+    {
+      "code": "TIG",
+      "city": "Tingwon"
+    },
+    {
+      "code": "TLP",
+      "city": "Tumolbil"
+    },
+    {
+      "code": "TLT",
+      "city": "Tuluksak"
+    },
+    {
+      "code": "TNW",
+      "city": "Tena"
+    },
+    {
+      "code": "TOK",
+      "city": "Tok"
+    },
+    {
+      "code": "TOV",
+      "city": "Tortola"
+    },
+    {
+      "code": "TSG",
+      "city": "Tanacross"
+    },
+    {
+      "code": "TSI",
+      "city": "Tsile Tsile"
+    },
+    {
+      "code": "TUT",
+      "city": "Tauta"
+    },
+    {
+      "code": "MQJ",
+      "city": "Khonu"
+    },
+    {
+      "code": "UNI",
+      "city": "Union Island"
+    },
+    {
+      "code": "BQU",
+      "city": "Bequia"
+    },
+    {
+      "code": "TZO",
+      "city": "Ankisatra"
+    },
+    {
+      "code": "CIW",
+      "city": "Canouan"
+    },
+    {
+      "code": "CMJ",
+      "city": "Qimei"
+    },
+    {
+      "code": "KVM",
+      "city": "Markovo"
+    },
+    {
+      "code": "AEM",
+      "city": "Amgu"
+    },
+    {
+      "code": "BVV",
+      "city": "Iturup Island"
+    },
+    {
+      "code": "EDN",
+      "city": "Yedinka"
+    },
+    {
+      "code": "SBT",
+      "city": "Sabetta"
+    },
+    {
+      "code": "LHU",
+      "city": "Lianshulu"
+    },
+    {
+      "code": "KKQ",
+      "city": "Krasnoselkup"
+    },
+    {
+      "code": "HFD",
+      "city": "Hartford"
+    },
+    {
+      "code": "USO",
+      "city": "Usino"
+    },
+    {
+      "code": "GMV",
+      "city": "Monument Valley"
+    },
+    {
+      "code": "UUU",
+      "city": "Manumu"
+    },
+    {
+      "code": "UZM",
+      "city": "Hope Bay"
+    },
+    {
+      "code": "SVV",
+      "city": "San Salvador de Paul"
+    },
+    {
+      "code": "KCT",
+      "city": "Koggala"
+    },
+    {
+      "code": "ADP",
+      "city": "Ampara"
+    },
+    {
+      "code": "BTC",
+      "city": "Batticaloa"
+    },
+    {
+      "code": "DEP",
+      "city": "Deparijo"
+    },
+    {
+      "code": "HRI",
+      "city": "Hambantota"
+    },
+    {
+      "code": "VIV",
+      "city": "Vivigani"
+    },
+    {
+      "code": "AIP",
+      "city": "Adampur"
+    },
+    {
+      "code": "HOE",
+      "city": "Houeisay"
+    },
+    {
+      "code": "TPJ",
+      "city": "Taplejung"
+    },
+    {
+      "code": "RHP",
+      "city": "Ramechhap"
+    },
+    {
+      "code": "BHP",
+      "city": "Bhojpur"
+    },
+    {
+      "code": "BJH",
+      "city": "Bajhang"
+    },
+    {
+      "code": "BJU",
+      "city": "Bajura"
+    },
+    {
+      "code": "DNP",
+      "city": "Dang"
+    },
+    {
+      "code": "JIR",
+      "city": "Jiri"
+    },
+    {
+      "code": "TMI",
+      "city": "Tumlingtar"
+    },
+    {
+      "code": "GKK",
+      "city": "Kooddoo Island"
+    },
+    {
+      "code": "NYU",
+      "city": "Bagan/Nyaung-u"
+    },
+    {
+      "code": "GWA",
+      "city": "Gwa"
+    },
+    {
+      "code": "KOP",
+      "city": "Nakhon Phanom"
+    },
+    {
+      "code": "KYP",
+      "city": "Kyaukpyu"
+    },
+    {
+      "code": "LSH",
+      "city": "Lashio"
+    },
+    {
+      "code": "BUI",
+      "city": "Bunbury"
+    },
+    {
+      "code": "FBS",
+      "city": "Friday Harbor"
+    },
+    {
+      "code": "KOX",
+      "city": "Kokonao"
+    },
+    {
+      "code": "ILA",
+      "city": "Illaga"
+    },
+    {
+      "code": "MGK",
+      "city": "Mong Ton"
+    },
+    {
+      "code": "NBX",
+      "city": "Nabire"
+    },
+    {
+      "code": "PRU",
+      "city": "Pyay"
+    },
+    {
+      "code": "RCE",
+      "city": "Roche Harbor"
+    },
+    {
+      "code": "RSJ",
+      "city": "Rosario"
+    },
+    {
+      "code": "WAB",
+      "city": "Wabag"
+    },
+    {
+      "code": "MDP",
+      "city": "Mindiptana"
+    },
+    {
+      "code": "LII",
+      "city": "Hinesville/Ft Stewart"
+    },
+    {
+      "code": "UBR",
+      "city": "Ubrub"
+    },
+    {
+      "code": "MKQ",
+      "city": "Merauke"
+    },
+    {
+      "code": "KEI",
+      "city": "Kericho"
+    },
+    {
+      "code": "KWB",
+      "city": "Karimunjawa"
+    },
+    {
+      "code": "BEJ",
+      "city": "Tanjung Redeb"
+    },
+    {
+      "code": "BJK",
+      "city": "Nangasuri Aru Island"
+    },
+    {
+      "code": "BYQ",
+      "city": "Bunyu"
+    },
+    {
+      "code": "LUV",
+      "city": "Langgur"
+    },
+    {
+      "code": "DOB",
+      "city": "Dobo"
+    },
+    {
+      "code": "DTD",
+      "city": "Datadawai"
+    },
+    {
+      "code": "GLX",
+      "city": "Galela"
+    },
+    {
+      "code": "OKL",
+      "city": "Oksibil"
+    },
+    {
+      "code": "LSU",
+      "city": "Long Sukang"
+    },
+    {
+      "code": "KDI",
+      "city": "Kendari"
+    },
+    {
+      "code": "KPI",
+      "city": "Kapit"
+    },
+    {
+      "code": "KGU",
+      "city": "Keningau"
+    },
+    {
+      "code": "KSR",
+      "city": "Selayar Islands"
+    },
+    {
+      "code": "BKM",
+      "city": "Bakelalan"
+    },
+    {
+      "code": "BSE",
+      "city": "Sematan"
+    },
+    {
+      "code": "BUW",
+      "city": "Baubau"
+    },
+    {
+      "code": "BXB",
+      "city": "Irarutu"
+    },
+    {
+      "code": "LGL",
+      "city": "Long Lellang"
+    },
+    {
+      "code": "PAY",
+      "city": "Pamol"
+    },
+    {
+      "code": "RNU",
+      "city": "Ranau"
+    },
+    {
+      "code": "WBB",
+      "city": "Stebbins"
+    },
+    {
+      "code": "WBC",
+      "city": "Wapolu"
+    },
+    {
+      "code": "BTH",
+      "city": "Batam"
+    },
+    {
+      "code": "MWK",
+      "city": "Matak"
+    },
+    {
+      "code": "LMU",
+      "city": "Jemaja Island"
+    },
+    {
+      "code": "GNS",
+      "city": "Gunung Sitoli"
+    },
+    {
+      "code": "WGU",
+      "city": "Wagau"
+    },
+    {
+      "code": "WED",
+      "city": "Wedau"
+    },
+    {
+      "code": "PKG",
+      "city": "Pangkor"
+    },
+    {
+      "code": "AUT",
+      "city": "Atauro"
+    },
+    {
+      "code": "RDN",
+      "city": "Redang Island"
+    },
+    {
+      "code": "DTR",
+      "city": "Decatur Island"
+    },
+    {
+      "code": "UGI",
+      "city": "Uganik"
+    },
+    {
+      "code": "XBB",
+      "city": "Blubber Bay"
+    },
+    {
+      "code": "BKP",
+      "city": "Barkly Downs"
+    },
+    {
+      "code": "ABG",
+      "city": "Abingdon Downs"
+    },
+    {
+      "code": "ABH",
+      "city": "Alpha"
+    },
+    {
+      "code": "ADO",
+      "city": "Andamooka"
+    },
+    {
+      "code": "BKQ",
+      "city": "Blackall"
+    },
+    {
+      "code": "BQW",
+      "city": "Balgo Hill"
+    },
+    {
+      "code": "AMT",
+      "city": "Amata"
+    },
+    {
+      "code": "AMX",
+      "city": "Ammaroo"
+    },
+    {
+      "code": "BRK",
+      "city": "Bourke"
+    },
+    {
+      "code": "AUD",
+      "city": "Augustus Downs"
+    },
+    {
+      "code": "AUU",
+      "city": "Aurukun"
+    },
+    {
+      "code": "MRP",
+      "city": "Marla"
+    },
+    {
+      "code": "YAJ",
+      "city": "Saturna Island"
+    },
+    {
+      "code": "BXF",
+      "city": "Bellburn"
+    },
+    {
+      "code": "BZP",
+      "city": "Bizant"
+    },
+    {
+      "code": "GYL",
+      "city": "Argyle"
+    },
+    {
+      "code": "YAQ",
+      "city": "Maple Bay"
+    },
+    {
+      "code": "YBH",
+      "city": "Bull Harbour"
+    },
+    {
+      "code": "YBJ",
+      "city": "Baie-Johan-Beetz"
+    },
+    {
+      "code": "AVG",
+      "city": "Auvergne Station"
+    },
+    {
+      "code": "AWN",
+      "city": "Alton Downs"
+    },
+    {
+      "code": "AWP",
+      "city": "Austral Downs Station"
+    },
+    {
+      "code": "AXC",
+      "city": "Aramac"
+    },
+    {
+      "code": "AXL",
+      "city": "Alexandria Station"
+    },
+    {
+      "code": "AYL",
+      "city": "Anthony Lagoon"
+    },
+    {
+      "code": "BCI",
+      "city": "Barcaldine"
+    },
+    {
+      "code": "BDD",
+      "city": "Badu Island"
+    },
+    {
+      "code": "BEE",
+      "city": "Beagle Bay"
+    },
+    {
+      "code": "BEU",
+      "city": "Bedourie"
+    },
+    {
+      "code": "BFC",
+      "city": "Bloomfield River"
+    },
+    {
+      "code": "BIW",
+      "city": "Billiluna"
+    },
+    {
+      "code": "CMA",
+      "city": "Cunnamulla"
+    },
+    {
+      "code": "BIP",
+      "city": "Bulimba"
+    },
+    {
+      "code": "BMP",
+      "city": "Brampton Island"
+    },
+    {
+      "code": "BOX",
+      "city": "Borroloola"
+    },
+    {
+      "code": "PPP",
+      "city": "Proserpine"
+    },
+    {
+      "code": "NIF",
+      "city": "Nifty"
+    },
+    {
+      "code": "ODL",
+      "city": "Cordillo Downs"
+    },
+    {
+      "code": "DRB",
+      "city": "Derby"
+    },
+    {
+      "code": "YBQ",
+      "city": "Thetis Island"
+    },
+    {
+      "code": "YCF",
+      "city": "Cortes Bay"
+    },
+    {
+      "code": "BTD",
+      "city": "Brunette Downs"
+    },
+    {
+      "code": "BVW",
+      "city": "Batavia Downs"
+    },
+    {
+      "code": "BVZ",
+      "city": "Beverley Springs"
+    },
+    {
+      "code": "BWB",
+      "city": "Barrow Island"
+    },
+    {
+      "code": "BYP",
+      "city": "Barimunya"
+    },
+    {
+      "code": "BZD",
+      "city": "Balranald"
+    },
+    {
+      "code": "CBI",
+      "city": "Cape Barren Island"
+    },
+    {
+      "code": "CBX",
+      "city": "Condobolin"
+    },
+    {
+      "code": "CBY",
+      "city": "Canobie"
+    },
+    {
+      "code": "CCL",
+      "city": "Chinchilla"
+    },
+    {
+      "code": "CED",
+      "city": "Ceduna"
+    },
+    {
+      "code": "CFH",
+      "city": "Clifton Hills"
+    },
+    {
+      "code": "CFI",
+      "city": "Camfield Station"
+    },
+    {
+      "code": "CKI",
+      "city": "Croker Island"
+    },
+    {
+      "code": "CML",
+      "city": "Camooweal"
+    },
+    {
+      "code": "CMQ",
+      "city": "Clermont"
+    },
+    {
+      "code": "CNC",
+      "city": "Coconut Island"
+    },
+    {
+      "code": "CNJ",
+      "city": "Cloncurry"
+    },
+    {
+      "code": "CPD",
+      "city": "Coober Pedy"
+    },
+    {
+      "code": "NLF",
+      "city": "Darnley Island"
+    },
+    {
+      "code": "KCE",
+      "city": "Collinsville"
+    },
+    {
+      "code": "CCW",
+      "city": "Cowell"
+    },
+    {
+      "code": "CDA",
+      "city": "Cooinda"
+    },
+    {
+      "code": "CDQ",
+      "city": "Croydon"
+    },
+    {
+      "code": "CFP",
+      "city": "Carpentaria Downs"
+    },
+    {
+      "code": "CJF",
+      "city": "Coondewanna"
+    },
+    {
+      "code": "COY",
+      "city": "Coolawanyah Station"
+    },
+    {
+      "code": "CUG",
+      "city": "Cudal"
+    },
+    {
+      "code": "CUQ",
+      "city": "Coen"
+    },
+    {
+      "code": "CUY",
+      "city": "Cue"
+    },
+    {
+      "code": "CWR",
+      "city": "Cowarie"
+    },
+    {
+      "code": "CXQ",
+      "city": "Christmas Creek Stn"
+    },
+    {
+      "code": "CYG",
+      "city": "Corryong"
+    },
+    {
+      "code": "DDN",
+      "city": "Delta Downs"
+    },
+    {
+      "code": "DFP",
+      "city": "Drumduff"
+    },
+    {
+      "code": "DGD",
+      "city": "Dalgaranga Gold Mine"
+    },
+    {
+      "code": "DHD",
+      "city": "Durham Downs"
+    },
+    {
+      "code": "DKV",
+      "city": "Docker River"
+    },
+    {
+      "code": "DLK",
+      "city": "Dulkaninna"
+    },
+    {
+      "code": "DMD",
+      "city": "Doomadgee"
+    },
+    {
+      "code": "DNB",
+      "city": "Dunbar"
+    },
+    {
+      "code": "DNG",
+      "city": "Doongan"
+    },
+    {
+      "code": "DOX",
+      "city": "Dongara"
+    },
+    {
+      "code": "DRB",
+      "city": "Derby"
+    },
+    {
+      "code": "DRD",
+      "city": "Dorunda"
+    },
+    {
+      "code": "DRN",
+      "city": "Dirranbandi"
+    },
+    {
+      "code": "DRR",
+      "city": "Durrie"
+    },
+    {
+      "code": "KFE",
+      "city": "Cloudbreak"
+    },
+    {
+      "code": "FOS",
+      "city": "Forrest"
+    },
+    {
+      "code": "FVL",
+      "city": "Flora Valley"
+    },
+    {
+      "code": "FVR",
+      "city": "Forrest River Mission"
+    },
+    {
+      "code": "YGE",
+      "city": "Gorge Harbour"
+    },
+    {
+      "code": "GBL",
+      "city": "South Goulburn Island"
+    },
+    {
+      "code": "YGN",
+      "city": "Greenway Sound"
+    },
+    {
+      "code": "FIK",
+      "city": "Finke"
+    },
+    {
+      "code": "FIZ",
+      "city": "Fitzroy Crossing"
+    },
+    {
+      "code": "FLY",
+      "city": "Finley"
+    },
+    {
+      "code": "GBP",
+      "city": "Gamboola"
+    },
+    {
+      "code": "GBV",
+      "city": "Gibb River"
+    },
+    {
+      "code": "GBW",
+      "city": "Ginbata"
+    },
+    {
+      "code": "GDD",
+      "city": "Gordon Downs"
+    },
+    {
+      "code": "GEE",
+      "city": "George Town"
+    },
+    {
+      "code": "GGD",
+      "city": "Gregory Downs"
+    },
+    {
+      "code": "GLG",
+      "city": "Glengyle"
+    },
+    {
+      "code": "GLM",
+      "city": "Glenormiston"
+    },
+    {
+      "code": "GLT",
+      "city": "Gladstone"
+    },
+    {
+      "code": "GPD",
+      "city": "Mount Gordon Mine"
+    },
+    {
+      "code": "GSC",
+      "city": "Gascoyne Junction"
+    },
+    {
+      "code": "GTE",
+      "city": "Groote Eylandt"
+    },
+    {
+      "code": "GVP",
+      "city": "Greenvale"
+    },
+    {
+      "code": "HLL",
+      "city": "Hillside"
+    },
+    {
+      "code": "HMG",
+      "city": "Hermannsburg"
+    },
+    {
+      "code": "INM",
+      "city": "Innamincka"
+    },
+    {
+      "code": "IRG",
+      "city": "Lockhart River"
+    },
+    {
+      "code": "ISI",
+      "city": "Isisford"
+    },
+    {
+      "code": "UBU",
+      "city": "Kalumburu"
+    },
+    {
+      "code": "KDB",
+      "city": "Kambalda"
+    },
+    {
+      "code": "KBY",
+      "city": "Streaky Bay"
+    },
+    {
+      "code": "IVW",
+      "city": "Inverway"
+    },
+    {
+      "code": "KCS",
+      "city": "Kings Creek Station"
+    },
+    {
+      "code": "KRA",
+      "city": "Kerang"
+    },
+    {
+      "code": "JAB",
+      "city": "Jabiru"
+    },
+    {
+      "code": "KFG",
+      "city": "Kalkgurung"
+    },
+    {
+      "code": "KOH",
+      "city": "Koolatah"
+    },
+    {
+      "code": "KKP",
+      "city": "Koolburra"
+    },
+    {
+      "code": "JCK",
+      "city": "Julia Creek"
+    },
+    {
+      "code": "KML",
+      "city": "Kamileroi"
+    },
+    {
+      "code": "LZR",
+      "city": "Lizard Island"
+    },
+    {
+      "code": "KPP",
+      "city": "Kalpowar"
+    },
+    {
+      "code": "LWH",
+      "city": "Lawn Hill"
+    },
+    {
+      "code": "LTP",
+      "city": "Lyndhurst Station"
+    },
+    {
+      "code": "KRD",
+      "city": "Kurundi Station"
+    },
+    {
+      "code": "LNH",
+      "city": "Lake Nash"
+    },
+    {
+      "code": "LOC",
+      "city": "Lock"
+    },
+    {
+      "code": "LFP",
+      "city": "Lakefield"
+    },
+    {
+      "code": "LTV",
+      "city": "Lotus Vale Station"
+    },
+    {
+      "code": "LIB",
+      "city": "Limbunya Station"
+    },
+    {
+      "code": "BBL",
+      "city": "Ballera"
+    },
+    {
+      "code": "LKD",
+      "city": "Lakeland Downs"
+    },
+    {
+      "code": "LUU",
+      "city": "Laura"
+    },
+    {
+      "code": "YLP",
+      "city": "Mingan"
+    },
+    {
+      "code": "LVO",
+      "city": "Laverton"
+    },
+    {
+      "code": "LER",
+      "city": "Leinster"
+    },
+    {
+      "code": "MRG",
+      "city": "Mareeba"
+    },
+    {
+      "code": "MBB",
+      "city": "Marble Bar"
+    },
+    {
+      "code": "LNO",
+      "city": "Leonora"
+    },
+    {
+      "code": "JUN",
+      "city": "Jundah"
+    },
+    {
+      "code": "KBJ",
+      "city": "Kings Canyon"
+    },
+    {
+      "code": "KBB",
+      "city": "Kirkimbie Station"
+    },
+    {
+      "code": "KRB",
+      "city": "Karumba"
+    },
+    {
+      "code": "KWM",
+      "city": "Kowanyama"
+    },
+    {
+      "code": "YKT",
+      "city": "Klemtu"
+    },
+    {
+      "code": "LEL",
+      "city": "Gapuwiyak"
+    },
+    {
+      "code": "LOA",
+      "city": "Lorraine"
+    },
+    {
+      "code": "UBB",
+      "city": "Mabuiag Island"
+    },
+    {
+      "code": "ONR",
+      "city": "Monkira"
+    },
+    {
+      "code": "GSN",
+      "city": "Mount Gunson"
+    },
+    {
+      "code": "OXY",
+      "city": "Morney"
+    },
+    {
+      "code": "OOR",
+      "city": "Mooraberree"
+    },
+    {
+      "code": "NMR",
+      "city": "Nappa Merrie"
+    },
+    {
+      "code": "UTB",
+      "city": "Muttaburra"
+    },
+    {
+      "code": "MFP",
+      "city": "Manners Creek Station"
+    },
+    {
+      "code": "MKR",
+      "city": "Meekatharra"
+    },
+    {
+      "code": "MLV",
+      "city": "Merluna"
+    },
+    {
+      "code": "MGT",
+      "city": "Milingimbi Island"
+    },
+    {
+      "code": "MGV",
+      "city": "Margaret River Station"
+    },
+    {
+      "code": "MNG",
+      "city": "Maningrida"
+    },
+    {
+      "code": "MHO",
+      "city": "Mount House"
+    },
+    {
+      "code": "MCV",
+      "city": "McArthur River Mine"
+    },
+    {
+      "code": "MNQ",
+      "city": "Monto"
+    },
+    {
+      "code": "MIH",
+      "city": "Mitchell Plateau"
+    },
+    {
+      "code": "MTQ",
+      "city": "Mitchell"
+    },
+    {
+      "code": "MNW",
+      "city": "MacDonald Downs"
+    },
+    {
+      "code": "MMG",
+      "city": "Mount Magnet"
+    },
+    {
+      "code": "MSF",
+      "city": "Mount Swan"
+    },
+    {
+      "code": "MET",
+      "city": "Moreton"
+    },
+    {
+      "code": "MQE",
+      "city": "Marqua"
+    },
+    {
+      "code": "MTD",
+      "city": "Mount Sandford Station"
+    },
+    {
+      "code": "MIY",
+      "city": "Mittiebah"
+    },
+    {
+      "code": "MUQ",
+      "city": "Muccan Station"
+    },
+    {
+      "code": "MNE",
+      "city": "Mungeranie"
+    },
+    {
+      "code": "MVK",
+      "city": "Mulka"
+    },
+    {
+      "code": "MKV",
+      "city": "Mount Cavenagh"
+    },
+    {
+      "code": "MWT",
+      "city": "Moolawatana"
+    },
+    {
+      "code": "MXD",
+      "city": "Marion Downs"
+    },
+    {
+      "code": "RRE",
+      "city": "Marree"
+    },
+    {
+      "code": "WME",
+      "city": "Mount Keith"
+    },
+    {
+      "code": "YOI",
+      "city": "Opinaca"
+    },
+    {
+      "code": "RPM",
+      "city": "Ngukurr"
+    },
+    {
+      "code": "PXH",
+      "city": "Prominent Hill"
+    },
+    {
+      "code": "NAA",
+      "city": "Narrabri"
+    },
+    {
+      "code": "UTD",
+      "city": "Nutwood Downs"
+    },
+    {
+      "code": "EDR",
+      "city": "Pormpuraaw"
+    },
+    {
+      "code": "GOV",
+      "city": "Nhulunbuy"
+    },
+    {
+      "code": "NLS",
+      "city": "Nicholson"
+    },
+    {
+      "code": "NPP",
+      "city": "Napperby"
+    },
+    {
+      "code": "NSM",
+      "city": "Norseman"
+    },
+    {
+      "code": "NUR",
+      "city": "Nullarbor"
+    },
+    {
+      "code": "NLL",
+      "city": "Nullagine"
+    },
+    {
+      "code": "NTN",
+      "city": "Normanton"
+    },
+    {
+      "code": "NUB",
+      "city": "Numbulwar"
+    },
+    {
+      "code": "ODD",
+      "city": "Oodnadatta"
+    },
+    {
+      "code": "OLP",
+      "city": "Olympic Dam"
+    },
+    {
+      "code": "OSO",
+      "city": "Osborne Mine"
+    },
+    {
+      "code": "ODR",
+      "city": "Ord River"
+    },
+    {
+      "code": "PKT",
+      "city": "Port Keats"
+    },
+    {
+      "code": "PDN",
+      "city": "Parndana"
+    },
+    {
+      "code": "PDE",
+      "city": "Pandie Pandie"
+    },
+    {
+      "code": "PRD",
+      "city": "Pardoo Station"
+    },
+    {
+      "code": "OYN",
+      "city": "Ouyen"
+    },
+    {
+      "code": "PEA",
+      "city": "Penneshaw"
+    },
+    {
+      "code": "YQJ",
+      "city": "Quadra Island"
+    },
+    {
+      "code": "ULP",
+      "city": "Quilpie"
+    },
+    {
+      "code": "TDR",
+      "city": "Theodore"
+    },
+    {
+      "code": "CDU",
+      "city": "Camden"
+    },
+    {
+      "code": "TQP",
+      "city": "Trepell"
+    },
+    {
+      "code": "MJK",
+      "city": "Monkey Mia"
+    },
+    {
+      "code": "SBR",
+      "city": "Saibai Island"
+    },
+    {
+      "code": "RPB",
+      "city": "Roper Bar"
+    },
+    {
+      "code": "RTP",
+      "city": "Rutland Plains"
+    },
+    {
+      "code": "RHL",
+      "city": "Roy Hill Station"
+    },
+    {
+      "code": "RSB",
+      "city": "Roseberth"
+    },
+    {
+      "code": "SHU",
+      "city": "Smith Point"
+    },
+    {
+      "code": "SGP",
+      "city": "Shay Gap"
+    },
+    {
+      "code": "SCG",
+      "city": "Spring Creek"
+    },
+    {
+      "code": "STH",
+      "city": "Strathmore"
+    },
+    {
+      "code": "SRN",
+      "city": "Strahan"
+    },
+    {
+      "code": "KSV",
+      "city": "Springvale"
+    },
+    {
+      "code": "SQC",
+      "city": "Southern Cross"
+    },
+    {
+      "code": "STF",
+      "city": "Stephens Island"
+    },
+    {
+      "code": "SSP",
+      "city": "Silver Plains"
+    },
+    {
+      "code": "TBL",
+      "city": "Tablelands"
+    },
+    {
+      "code": "TBK",
+      "city": "Timber Creek"
+    },
+    {
+      "code": "CZY",
+      "city": "Cluny"
+    },
+    {
+      "code": "GTS",
+      "city": "The Granites"
+    },
+    {
+      "code": "MFL",
+      "city": "Wando Vale"
+    },
+    {
+      "code": "PHQ",
+      "city": "Phosphate Hill"
+    },
+    {
+      "code": "TKY",
+      "city": "Turkey Creek"
+    },
+    {
+      "code": "TYB",
+      "city": "Tibooburra"
+    },
+    {
+      "code": "OKR",
+      "city": "Yorke Island"
+    },
+    {
+      "code": "SYU",
+      "city": "Warraber Island"
+    },
+    {
+      "code": "TXR",
+      "city": "Tanbar"
+    },
+    {
+      "code": "TTX",
+      "city": "Truscott-Mungalalu"
+    },
+    {
+      "code": "WNR",
+      "city": "Windorah"
+    },
+    {
+      "code": "THG",
+      "city": "Thangool"
+    },
+    {
+      "code": "KYF",
+      "city": "Yeelirrie"
+    },
+    {
+      "code": "VNR",
+      "city": "Vanrook Station"
+    },
+    {
+      "code": "WON",
+      "city": "Wondoola"
+    },
+    {
+      "code": "WAV",
+      "city": "Wave Hill"
+    },
+    {
+      "code": "WND",
+      "city": "Windarra"
+    },
+    {
+      "code": "WUN",
+      "city": "Wiluna"
+    },
+    {
+      "code": "WLO",
+      "city": "Waterloo"
+    },
+    {
+      "code": "WIT",
+      "city": "Wittenoom"
+    },
+    {
+      "code": "WLA",
+      "city": "Wallal Downs"
+    },
+    {
+      "code": "TEF",
+      "city": "Telfer"
+    },
+    {
+      "code": "TDN",
+      "city": "Theda Station"
+    },
+    {
+      "code": "TYG",
+      "city": "Thylungra"
+    },
+    {
+      "code": "TYP",
+      "city": "Tobermorey"
+    },
+    {
+      "code": "WWI",
+      "city": "Woodie Woodie"
+    },
+    {
+      "code": "BJS",
+      "city": "Beijing"
+    },
+    {
+      "code": "ORR",
+      "city": "Yorketown"
+    },
+    {
+      "code": "KKI",
+      "city": "Akiachak"
+    },
+    {
+      "code": "KBC",
+      "city": "Birch Creek"
+    },
+    {
+      "code": "TDT",
+      "city": "Timbavati"
+    },
+    {
+      "code": "KHO",
+      "city": "Manyeleti"
+    },
+    {
+      "code": "TSN",
+      "city": "Tianjin"
+    },
+    {
+      "code": "ZDY",
+      "city": "Delma Island"
+    },
+    {
+      "code": "KYI",
+      "city": "Yalata Mission"
+    },
+    {
+      "code": "CIF",
+      "city": "Chifeng"
+    },
+    {
+      "code": "CZC",
+      "city": "Copper Center"
+    },
+    {
+      "code": "CZP",
+      "city": "Cape Pole"
+    },
+    {
+      "code": "DYG",
+      "city": "Zhangjiajie"
+    },
+    {
+      "code": "HZV",
+      "city": "Hazyview"
+    },
+    {
+      "code": "INY",
+      "city": "Inyati"
+    },
+    {
+      "code": "ZHY",
+      "city": "Zhongwei"
+    },
+    {
+      "code": "NNY",
+      "city": "Nanyang"
+    },
+    {
+      "code": "COQ",
+      "city": "Choibalsan"
+    },
+    {
+      "code": "SIA",
+      "city": "Xi'an"
+    },
+    {
+      "code": "WOS",
+      "city": "Wonsan"
+    },
+    {
+      "code": "LUM",
+      "city": "Mangshi"
+    },
+    {
+      "code": "FOC",
+      "city": "Fuzhou"
+    },
+    {
+      "code": "HFE",
+      "city": "Hefei"
+    },
+    {
+      "code": "ZNU",
+      "city": "Namu"
+    },
+    {
+      "code": "JIU",
+      "city": "Jiujiang"
+    },
+    {
+      "code": "IQM",
+      "city": "Qiemo"
+    },
+    {
+      "code": "KGT",
+      "city": "Kangding"
+    },
+    {
+      "code": "NGQ",
+      "city": "Shiquanhe"
+    },
+    {
+      "code": "KRY",
+      "city": "Karamay"
+    },
+    {
+      "code": "YUS",
+      "city": "Yushu"
+    },
+    {
+      "code": "YNJ",
+      "city": "Yanji"
+    },
+    {
+      "code": "RZV",
+      "city": "Rize"
+    },
+    {
+      "code": "JAW",
+      "city": "Araripina"
+    }
+  ]
