@@ -1,10 +1,4 @@
-<<<<<<< HEAD
 const data = require('./csvjson8.json');
-=======
-const data = require('./airport_ver_6.json');
-
-
->>>>>>> refs/remotes/origin/main
 
 function airport(params) {
     let arr = [];
@@ -14,13 +8,7 @@ function airport(params) {
         })
     } else {
         data.map((dat) => {
-<<<<<<< HEAD
             if (dat.iata_code.toLowerCase().search(params.toLowerCase()) !== -1) {
-=======
-            if (
-                dat.iata_code.toLowerCase().search(params.toLowerCase()) !== -1 
-            ) {
->>>>>>> refs/remotes/origin/main
                 arr.push(dat);
             }
         })
