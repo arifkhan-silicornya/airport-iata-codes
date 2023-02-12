@@ -3,10 +3,9 @@
 Search airport related data by iata code 
 
 
-![npm](https://img.shields.io/npm/v/airport-iata-codes)
-![npm](https://img.shields.io/npm/l/airport-iata-codes?color=002350)
-![npm](https://img.shields.io/bundlephobia/minzip/airport-iata-codes/1.0.1)
-
+![npm](https://img.shields.io/npm/v/airport-iata-codes?style=plastic)
+![npm](https://img.shields.io/npm/l/airport-iata-codes?color=002350?style=plastic)
+![npm](https://img.shields.io/bundlephobia/minzip/airport-iata-codes/1.0.1?style=plastic)
 ![npm](https://img.shields.io/npm/dt/airport-iata-codes?style=plastic)
 
 
