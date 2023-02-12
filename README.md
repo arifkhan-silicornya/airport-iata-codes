@@ -7,7 +7,7 @@ Search airport related data by iata code
 ![npm](https://img.shields.io/npm/l/airport-iata-codes?color=002350)
 ![npm](https://img.shields.io/bundlephobia/minzip/airport-iata-codes/1.0.1)
 
-
+![npm](https://img.shields.io/npm/dt/airport-iata-codes?style=plastic)
 
 
 ## Install it via npm
